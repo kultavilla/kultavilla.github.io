@@ -1,5 +1,6 @@
 ---
 title: Yleistä
+position: 0
 site:
   title:
     fi: Kultavilla - kudotut kankaat mittatilaustyönä - suunnittelu- ja tuotantopalvelut

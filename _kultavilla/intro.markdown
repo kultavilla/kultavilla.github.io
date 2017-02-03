@@ -1,6 +1,6 @@
 ---
 title: Intro
-position: 1
+position: 2
 slogan:
   fi: Kultavilla - kankaat mittatilaustyönä - suunnittelu- ja tuotantopalvelut
   en: Design and manufacturing of custom tailored woven fabrics
