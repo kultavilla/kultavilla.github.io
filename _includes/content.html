@@ -1,16 +1,15 @@
 
 <header class="intro carousel slide">
   {% assign intro = site.kultavilla | where:"name", "intro"  | first %}
-  <div class="vertical-align carousel-inner" role="listbox">
+  <div class="vertical-align2 carousel-inner" role="listbox">
     {% for image in intro.intro_image %}
-    <div class="vertical-align item{% if forloop.index == 1 %} active{% endif %}" style="background:url('{{ image | prepend:site.baseurl }}') no-repeat center center fixed; background-size: cover;">
-      <div class="fill col-sm-8">
+    <div class="vertical-align item{% if forloop.index == 1 %} active{% endif %}" style="background: url('{{ image | prepend:site.baseurl }}') no-repeat fixed top center; background-size: cover; background-attachment: scroll;">
 
-        <div class="slogan">
+        <div class="fill col-sm-8 slogan">
           {% assign intro = site.kultavilla | where:"name", "intro"  | first %}
           <h1>{{ intro.slogan[page.language] }}</h1>
         </div>
-      </div>
+
     </div>
     {% endfor %}
   </div>

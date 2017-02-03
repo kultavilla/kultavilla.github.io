@@ -17,7 +17,7 @@ body {
 }
 html {
     width: 100%;
-    height: 100%;    
+    height: 100%;
 }
 h1,
 h2,
@@ -161,7 +161,7 @@ a:focus {
     }
 }
 .intro {
-    background-color: #e0e9f3;
+    background-color: #d0d0d0;
 
     text-align: center;
     color: white;
@@ -171,8 +171,9 @@ a:focus {
             color: white;
             text-shadow: 2px 2px #000000;
             font-size: 26px;
+            margin: 0;
         }
-        margin-top: 40px;
+        margin-top: 20px;
     }
 }
 
@@ -182,6 +183,7 @@ a:focus {
         .slogan {
             h1 {
                 font-size: 36px;
+                max-width: 900px;
             }
             margin-top: 20px;
         }
@@ -340,14 +342,24 @@ body {
 }
 
 .vertical-align {
-  display: flex;
-  flex-direction: row;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+  
+    flex-direction: row;
 }
 
 .vertical-align > [class^="col-"],
 .vertical-align > [class*=" col-"] {
-  display: flex;
-  align-items: center;     /* Align the flex-items vertically */
-  justify-content: center; /* Optional, to align inner flex-items
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+
+    align-items: center;     /* Align the flex-items vertically */
+    justify-content: center; /* Optional, to align inner flex-items
                               horizontally within the column  */
 }
