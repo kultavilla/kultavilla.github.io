@@ -4,7 +4,7 @@ position: 3
 references:
 - title: Kangasmallisto kantoliinareppuja varten
   description_text: 'Tuotekehitys ja tuotanto.<br>Asiakas: [Liinalapsi](http://www.liinalapsi.fi/kauppa/vanamo-kantoliinat)'
-  img_image: "/uploads/liinalapsi.jpg"
+  img_image: "/uploads/placeholder.png"
 - title: Erikoiskankaat arvokaluston entisöintiin
   description_text: |-
     Tuontekehitys ja tuotanto

@@ -50,7 +50,7 @@
 
       {% for ref in references.references %}
       <div class="col-sm-6 portfolio-box">
-        <img src="http://placehold.it/450x300" class="img-responsive" alt="">
+        <img src="{{ ref.img_image | prepend: site.baseurl }}" class="img-responsive" alt="">
         
         <div class="portfolio-box-caption">
           <div class="portfolio-box-caption-content">
