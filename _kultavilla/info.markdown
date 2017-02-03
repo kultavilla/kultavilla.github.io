@@ -1,5 +1,6 @@
 ---
 title: Info
+position: 4
 name: info
 ---
 

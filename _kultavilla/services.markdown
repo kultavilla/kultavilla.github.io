@@ -1,5 +1,6 @@
 ---
 title: Palvelut
+position: 2
 services:
 - design_text: 
   fi: |

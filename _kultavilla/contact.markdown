@@ -1,6 +1,6 @@
 ---
 title: Yhteystiedot
-position: 7
+position: 5
 text_text:
   fi: "## Yhteystiedot\n---\nKultavilla Oy | Susanna Kääriäinen\n\n040 5383 013\n\nkultavilla
     AT kultavilla.fi\n\nKilonkallio 5 B, 02610 Espoo  \n"
