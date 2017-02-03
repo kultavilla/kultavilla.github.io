@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="{{ page.language }}">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>{{ site.title[page.language] }}</title>
+    <meta property="og:title" content="{{ site.title[page.language] }}">
+    <meta property="og:description" content="{{ site.description[page.language] }}">
+    <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | absolute_url }}" />
+  <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | absolute_url }}" />
+    <meta name="keywords" content="{{ site.keywords }}">
+    <meta name="description" content="{{ site.description[page.language] }}"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="{{ "/css/kultavilla.css" | prepend: site.baseurl }}">
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    <nav class="navbar navbar-custom navbar-fixed-top">
+      {% assign misc = site.kultavilla | where:"name", "misc"  | first %}
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+            {{ misc.mobile-menu[page.language] }} <i class="fa fa-bars"></i>
+          </button>
+          <a class="navbar-brand page-scroll" href="#page-top">
+            {% assign intro = site.kultavilla | where:"name", "intro"  | first %}
+            <span><img width="40" src="{{ intro.logo_image | prepend:site.baseurl }}" alt="Kultavilla" /></span>
+            <span>Kultavilla</span>
+          </a>
+        </div>
+
+        <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+          <ul class="nav navbar-nav">
+            <li class="hidden active">
+              <a href="#page-top"></a>
+            </li>
+            <li>
+              <a class="page-scroll" href="#services">{{ misc.navigation[page.language][0] }}</a>
+            </li>
+            <li>
+              <a class="page-scroll" href="#references">{{ misc.navigation[page.language][1] }}</a>
+            </li>
+            <li>
+              <a class="page-scroll" href="#contact">{{ misc.navigation[page.language][2] }}</a>
+            </li>
+            <li>
+              <a class="language" href="{% if page.language == "fi" %}index-en.html{% else %} index.html{% endif %}">{{ misc.language-switch[page.language] }}</a>
+            </li>
+            <li class="instagram"><a href="https://www.instagram.com/kultavilla" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div>
+      {{ content }}
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="{{ "/assets/js/kultavilla.js" | prepend:site.baseurl }}"></script>
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-91182876-1', 'auto');
+  ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>

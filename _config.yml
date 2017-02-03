@@ -1,0 +1,34 @@
+---
+title: '{"fi"=>"Kultavilla - kudotut kankaat mittatilaustyönä - suunnittelu- ja tuotantopalvelut",
+  "en"=>"Kultavilla - Design and manufacturing of custom tailored woven fabrics"}'
+timezone: UTC
+collections:
+  kultavilla:
+    title: Kultavilla
+    output: false
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: false
+description:
+  fi: Autamme yksilöllisen kankaasi tai mallistosi suunnittelussa ja tuotannossa.
+    Kutomamme kankaat sopivat monipuolisesti vaatetukseen, sisustuskankaiksi tai muihin
+    käyttötuotteisiin. Kankaat kudotaan piensarjoina pajallamme Espoossa.
+  en: Lorem
+keywords: Kankaat, kutomo, tekstiilit, sisustuskankaat, muotikankaat, mittatilaustyö,
+  julkiset tilat, paloturvallisuus, suunnittelu, design, piensarjatuotanto, factory,
+  woven fabrics, tissu sur mesure
+image: "/uploads/intro.jpg"
+email: your-email@domain.com
+baseurl: 
+url: https://kultavilla.github.io
+markdown: kramdown
+exclude:
+- Gemfile
+- Gemfile.lock
+sass:
+  style: compressed
+kramdown:
+  auto_ids: false
