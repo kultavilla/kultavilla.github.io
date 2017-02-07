@@ -11,7 +11,7 @@ text_text:
 
     +358 40 5383 013
 
-    kultavill AT @kultavilla.fi
+    kultavilla AT @kultavilla.fi
 
     Kilonkallio 5 B, 02610 Espoo, Finland
 name: contact

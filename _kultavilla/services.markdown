@@ -1,30 +1,26 @@
 ---
 title: Palvelut
 position: 2
-heading_text:
+foo_text:
   fi: |
-    ## Palvelut
-    ---
+    Lorem
   en: |
-    ## Services
-    ---
+    Lorem
+    
 services:
-- design_text: 
-  fi: |
+- fi: |
     ### Suunnittelu
     Avustamme kankaan malli- ja värisuunnittelussa. Suunnittelemme tuotteen tuotannon ja kustannusrakenteen. Saat myös materiaalit suoraan kauttamme.
   en: "### Design\nWe can assist in the design of your new fabric. We plan the production
-    process and estimate the cost structure. We can also supply the required materials.
-    \  \n"
-- production_text: 
-  fi: |
+   process and estimate the cost structure. We can also supply the required materials.
+  \  \n"
+- fi: |
     ### Tuotanto
     Käytämme teollisia Dornier sieppari-kutomakoneita, jotka mahdollistavat yksilölliset tilaustyöt ja monipuoliset materiaalit. Kudomme myös pienet tuotantosarjat, alkaen 20 metriä.
   en: |
     ### Production
     We use Dornier rapier weaving machines that are suitable for custom work using varying materials. We also weave smaller production runs, starting at 20 meters.
-- development: 
-  fi: |
+- fi: |
     ### Tuotekehitys ja koulutus
     Uusien tuotteiden tuotekehitys ja protomallit yhteistyönä mm. tekstiili- ja muotisuunnittelijoille sekä tekstiilialan yrityksille. Järjestämme myös työpajoja opiskelijaryhmille.
   en: |
