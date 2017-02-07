@@ -43,9 +43,10 @@ references:
       ammattikorkeakoulu."
     en_text: Lorem
   images_image:
-  - "/uploads/kurssit3.jpg"
-  - "/uploads/kurssit4.jpg"
+  - "/uploads/kurssit8.jpg"
+  - "/uploads/kurssit7.jpg"
   - "/uploads/kurssit6.jpg"
+  
 name: references
 ---
 
