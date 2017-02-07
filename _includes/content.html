@@ -26,7 +26,8 @@
       {% for service in services.services %}
       <div class="col-md-4">
         <div class="box">
-          {{ service[page.language] | markdownify}}
+          {% assign key = page.language | append: "_text" %}
+          {{ service[key] | markdownify}}
         </div>
       </div>
       {% endfor %}
@@ -46,7 +47,8 @@
       <div>
         <div class="col-sm-12">
           <h3>{{ ref.title[page.language] }}</h3>
-          {{ ref.description_text[page.language] | markdownify }}
+          {% assign key = page.language | append: "_text" %}
+          {{ ref.description[key] | markdownify }}
         </div>
 
 
@@ -82,7 +84,8 @@
 
       <div class="col-sm-12">
         {% assign contact = site.kultavilla | where:"name", "contact"  | first %}
-        {% assign contact = contact.text_text[page.language] | markdownify %}
+        {% assign key = page.language | append: "_text" %}
+        {% assign contact = contact.text_text[key] | markdownify %}
         {{ contact }}
       </div>
 

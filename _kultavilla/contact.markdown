@@ -2,9 +2,16 @@
 title: Yhteystiedot
 position: 5
 text_text:
-  fi: "## Yhteystiedot\n---\nKultavilla Oy | Susanna Kääriäinen\n\n040 5383 013\n\nkultavilla
-    AT kultavilla.fi\n\nKilonkallio 5 B, 02610 Espoo  \n"
-  en: |
+  fi_text: |
+    ## Yhteystiedot
+    Kultavilla Oy | Susanna Kääriäinen
+
+    040 5383 013
+
+    kultavilla AT kultavilla.fi
+
+    Kilonkallio 5 B, 02610 Espoo
+  en_text: |
     ## Contact
     ---
     Kultavilla | Susanna Kääriäinen (CEO)
