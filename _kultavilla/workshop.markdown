@@ -4,10 +4,8 @@ position: 6
 images:
 - img_image: "/uploads/workshop-26.jpg"
 - img_image: "/uploads/workshop-22.jpg"
-
 - img_image: "/uploads/workshop-21.jpg"
 - img_image: "/uploads/workshop-11.jpg"
-  
 - img_image: "/uploads/workshop-25.jpg"
 - img_image: "/uploads/workshop-24b.jpg"
 - img_image: "/uploads/workshop-13.jpg"
