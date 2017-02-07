@@ -8,6 +8,9 @@ foo_text:
   en: 'Lorem
 
 '
+  bar_text: 
+  Key:
+    fi_text: Lorem
 services:
 - fi: |
     ### Suunnittelu
