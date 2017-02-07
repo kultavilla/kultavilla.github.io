@@ -10,7 +10,7 @@ references:
     en: Lorem ipsum
   description:
     fi_text: |
-      Suunnittelu, tuotekehitys ja tuotanto. Useita eri malleja. Materiaaleina luomupuuvilla (GOTS), merinovilla (konepestävä mulesing-free), eurooppalainen pellava (Masters of Linen).
+      Tuotekehitys ja tuotanto. Useita eri malleja. Materiaaleina luomupuuvilla (GOTS), merinovilla (konepestävä mulesing-free), eurooppalainen pellava (Masters of Linen).
 
       Asiakas: [Liinalapsi](http://www.liinalapsi.fi)
     en_text: Lorem

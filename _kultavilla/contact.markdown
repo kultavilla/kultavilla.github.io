@@ -6,7 +6,7 @@ text_text:
     ## Yhteystiedot
     Kultavilla Oy | Susanna Kääriäinen
 
-    040 5383 013
+    +358 40 5383 013
 
     kultavilla AT kultavilla.fi
 
