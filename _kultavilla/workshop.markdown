@@ -10,6 +10,7 @@ images:
 - img_image: "/uploads/workshop-24b.jpg"
 - img_image: "/uploads/workshop-13.jpg"
 - img_image: "/uploads/workshop-09.jpg"
+video: 9g777b-M834
 name: workshop
 ---
 

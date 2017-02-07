@@ -3,7 +3,7 @@ title: Intro
 position: 1
 text_text:
   fi: Kultavilla - kudotut kankaat mittatilaustyönä
-  en: Kultavilla - Design and manufacturing of custom tailored woven fabrics
+  en: Kultavilla - custom woven fabrics
 logo_image: "/uploads/logo2.png"
 intro_image:
 - "/uploads/workshop-19b.jpg"

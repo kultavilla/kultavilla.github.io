@@ -90,13 +90,11 @@
       </div>
 
       <div class="clearfix"></div>
-      
-      <div class="col-lg-12 text-center">
-          {% assign workshop = site.kultavilla | where:"name", "workshop"  | first %}
-          {{ workshop }}
-      </div>
-      
-      <div class="video embed-responsive embed-responsive-16by9">                 <iframe width="560" height="315" src="https://www.youtube.com/embed/9g777b-M834?rel=0" frameborder="0" allowfullscreen></iframe>
+
+      {% assign workshop = site.kultavilla | where:"name", "workshop"  | first %}
+
+      <div class="video embed-responsive embed-responsive-16by9">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ workshop.video }}?rel=0" frameborder="0" allowfullscreen></iframe>
       </div>
       
       {% for image in workshop.images %}
