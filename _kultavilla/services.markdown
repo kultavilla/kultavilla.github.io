@@ -5,9 +5,9 @@ services:
 - fi_text: |
     ### Suunnittelu
     Avustamme kankaan malli- ja värisuunnittelussa. Suunnittelemme tuotteen tuotannon ja kustannusrakenteen. Saat myös materiaalit suoraan kauttamme.
-  en_text: "### Design\nWe can assist in the design of your new fabric. We plan the production
-    process and estimate the cost structure. We can also supply the required materials.
-    \  \n"
+  en_text: "### Design\nWe can assist in the design of your new fabric. We plan the
+    production process and estimate the cost structure. We can also supply the required
+    materials.   \n"
 - fi_text: |
     ### Tuotanto
     Käytämme teollisia Dornier sieppari-kutomakoneita, jotka mahdollistavat yksilölliset tilaustyöt ja monipuoliset materiaalit. Kudomme myös pienet tuotantosarjat, alkaen 20 metriä.
