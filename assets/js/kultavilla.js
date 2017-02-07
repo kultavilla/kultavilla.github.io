@@ -33,6 +33,8 @@ $('.navbar-collapse ul li a').click(function() {
 });
 
 // carousel
-$('.carousel').carousel({
-	interval: 3000
+$(document).ready(function() {
+    $('.carousel').carousel({
+	    interval: 3000
+    });
 });
