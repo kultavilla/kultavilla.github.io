@@ -1,28 +1,51 @@
 ---
 title: Referenssit
 position: 3
+heading:
+  fi: Asiakastyöt
+  en: Work
 references:
-- title: Kangasmallisto kantoliinareppuja varten
-  description_text: 'Tuotekehitys ja tuotanto.<br>Asiakas: [Liinalapsi](http://www.liinalapsi.fi/kauppa/vanamo-kantoliinat)'
-  img_image: "/uploads/placeholder.png"
-- title: Erikoiskankaat arvokaluston entisöintiin
-  description_text: |-
-    Tuontekehitys ja tuotanto
-    Asiakas: Eduskunta
-  img_image: "/uploads/placeholder.png"
-- title: Kurssit opiskelijaryhmille
-  description_text: |-
-    TYÖPAJA-päivät ja vaatetuskankaiden valmistus
-    Asiakkaita: AALTO yliopisto, Metropolia ammattikorkeakoulu.
-    Mallikuvat: [Näytös 2014](https://www.naytos.fi) (AALTO yliopisto). Design: Antti Peltoniemi. Pantterikuosin suunnittelu: Sandra Wirtanen
-  img_image: "/uploads/placeholder.png"
-- title: Opinnäytetyön ohjaus
-  description_text: |-
-    Vaatetuskankaan teollinen valmistus
-    Suunnittelija: Elina Liimatta, Lahden ammattikorkeakoulu
-  img_image: "/uploads/placeholder.png"
-name: references
----
+- title:
+    fi: Kangasmallisto kantoliinakankaita ja kantoreppuja varten
+    en: Lorem ipsum 
+  description_text:
+    fi: |
+      Suunnittelu, tuotekehitys ja tuotanto. Useita eri malleja. Materiaaleina luomupuuvilla (GOTS), merinovilla (konepestävä mulesing-free), eurooppalainen pellava (Masters of Linen).
 
-## Asiakastyöt
+      Asiakas: [Liinalapsi](http://www.liinalapsi.fi)
+    en: Lorem
+    
+  images_image:
+  - "/uploads/vanamo2.jpg"
+  - "/uploads/vanamo5.jpg"
+  - "/uploads/vanamo12.jpg"
+
+- title:
+    fi: Kangasmallisto sisustustuotteita varten
+    en: Lorem
+  description_text:
+    fi: |
+      Laaja tuoteperhe kankaita keittiöön, kylpyhuoneeseen, saunaan ja kodin muihin käyttökohteisiin.
+      Asiakas: [Vanamo Deco (Liinalapsi)](http://www.vanamodeco.com)
+    en: |
+      Lorem
+  images_image:
+  - "/uploads/deco9.jpg"
+  - "/uploads/deco8b.jpg"
+  - "/uploads/deco12.jpg"
+
+- title:
+    fi: Työpaja-päivät opiskelijaryhmille
+    en: Lorem
+  description_text:
+    fi: |-
+      Perehdytys teolliseen kudontaan tuotesuunnittelukurssilla. Opiskelijoiden kangasmallien sovitus koneelliseen valmistukseen ja kankaiden kutominen. Kankaiden käyttökohteet vaatetus ja sisustus. 
+      Asiakkaita: AALTO yliopisto, Metropolia ammattikorkeakoulu.
+    en: |-
+      Lorem
+  images_image:
+  - "/uploads/kurssit3.jpg"
+  - "/uploads/kurssit4.jpg"
+  - "/uploads/kurssit6.jpg"
+name: references
 ---

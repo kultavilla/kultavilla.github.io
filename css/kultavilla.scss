@@ -13,11 +13,17 @@ body {
     height: 100%;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     background-color: white;
+}
+body, html {
     overflow-x: hidden;
+    overflow-y: auto; /* has to be scroll, not auto */
+    -webkit-overflow-scrolling: touch;
 }
 html {
     width: 100%;
     height: 100%;
+    margin: 0 auto;
+    max-width: 1200px;
 }
 h1,
 h2,
@@ -29,6 +35,10 @@ h6 {
     letter-spacing: 1px;
     color: #4e4e4e;
 }
+h1 {
+    font-size: 34px;
+}
+
 p {
     margin: 0 0 15px;
     font-size: 16px;
@@ -37,12 +47,25 @@ p {
 li {
     font-size: 16px;
 }
+
 hr {
     border-color: #8e969e;
     border-width: 3px;
     max-width: 100px;
     margin-bottom: 30px;
+    margin: 20px 0;
 }
+@media (min-width: 768px) {
+    hr {
+        margin: 20px auto;
+
+    }
+}
+
+.contact-section hr {
+    margin: 20px auto;
+}
+
 @media (min-width: 768px) {
     p {
         margin: 0 0 15px;
@@ -51,7 +74,7 @@ hr {
     }
 }
 a {
-    color: #410d9e;  
+    color: #f9a01e;
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
@@ -63,15 +86,15 @@ a:focus {
 }
 .navbar-custom {
     margin-bottom: 0;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.7);
     text-transform: uppercase;
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background-color: #616161;
-
+    background-color: white; //#fdc050; //#828282;
+    
     .navbar-toggle {
-        color: white;
+        //color: white;
         background-color: rgba(255, 255, 255, 0.2);
-        font-size: 12px;
+        
         text-transform: uppercase;
     }
 
@@ -92,7 +115,7 @@ a:focus {
         outline: none;
     }
     a {
-        color: white;
+        color: black; //white;
     }
     .nav li {
         &.instagram {
@@ -108,7 +131,7 @@ a:focus {
         }
     }
     .nav li a:hover {
-        color: rgba(255, 255, 255, 0.8);
+        color: #f9a01e;
         outline: none;
         background-color: transparent;
     }
@@ -129,18 +152,19 @@ a:focus {
 }
 @media (min-width: 768px) {
     .navbar-custom {
-        padding: 10px 0;
-        border-bottom: none;
+        padding: 0; //3px 0;
+        //border-bottom: none;
         letter-spacing: 1px;
-        background: transparent;
+//        background: transparent;
         -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
         -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
         transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
         
         &.top-nav-collapse {
             padding: 0;            
-            background: #616161;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+            background: white; //#fdc050; //#616161;
+            //border-bottom: 1px solid gray;
+            
         }
 
         .nav li {
@@ -162,6 +186,7 @@ a:focus {
 }
 .intro {
     background-color: #d0d0d0;
+    top: 50px;
 
     text-align: center;
     color: white;
@@ -177,22 +202,17 @@ a:focus {
     }
 }
 
-
-@media (min-width: 768px) {
-    .intro {
-        .slogan {
-            h1 {
-                font-size: 36px;
-                max-width: 900px;
-            }
-            margin-top: 20px;
-        }
-    }
+.slogan-section {
+    margin-left: 15px;
 }
 @media (min-width: 768px) {
-    .intro {
-        .slogan {
-            padding: 0 20px;
+    .slogan-section {
+        text-align: center;
+        padding: 0 20px;
+        margin-left: 0;
+        h1 {
+            font-size: 34px;
+            max-width: 900px;
         }
     }
 }
@@ -220,22 +240,34 @@ a:focus {
 }
 @media (min-width: 768px) {
     .carousel {
-        height: 300px;
+        height: 370px;
     }
 }
 
+
+.content-section {
+    h2 {
+    }
+}
+@media (min-width: 768px) {
+    .content-section {
+        h2 {
+            text-align: center;     
+        }
+    }
+
+}
 
 .content-section {
     float: none;
     margin: 0 auto;
     padding-top: 20px;
     h2 {
-        text-align: center;
         margin-bottom: 15px;
     }
 }
 #services {
-    background-color: #e0e9f3;
+    background-color: #e2e2e2; //#e0e9f3;
     margin-top: 20px;
 }
 .services-section {
@@ -265,7 +297,7 @@ a:focus {
 }
 
 #info {
-    background-color: #e0e9f3;
+    background-color: #e2e2e2; //#e0e9f3;
     margin-top: 20px;
     padding-bottom: 20px;
 }
@@ -284,20 +316,13 @@ a:focus {
         }
     }
 }
-
 .slogan-section {
+    padding-top: 40px;
     width: 100%;
     p {
         font-weight: 500;
         margin-bottom: 0;
         font-size: 18px;
-    }
-}
-@media (min-width: 768px) {
-    .slogan-section {
-        p {
-            font-size: 22px;
-        }
     }
 }
 
@@ -306,6 +331,10 @@ a:focus {
         display: block;
         max-width: 100%;
         height: auto;
+    }
+
+    .reference {
+        margin-bottom: 20px;
     }
     
     .portfolio-box {
@@ -347,7 +376,7 @@ body {
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
-  
+   
     flex-direction: row;
 }
 

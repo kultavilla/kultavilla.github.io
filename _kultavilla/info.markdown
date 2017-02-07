@@ -4,9 +4,9 @@ position: 4
 name: info
 ---
 
-## Toimintamallimme
+## Näin me toimimme
 ---
-Pienenä toimijana voimme palvella ketterästi sekä tarjota monipuoliset palvelut laajan kotimaisen alihankkijaverkostomme avulla (esim. villalangan kehruu, värjäys, kartiointi, loimaus, kankaan viimeistelyvaiheet, ompelu sekä kuosisuunnittelu). Tuotannostamme ei synny hävikkiä, sillä kudomme kankaat asiakastilauksena. Hankimme materiaalit asiakastöihin suoraan valmistajilta, eurooppalaisten tehtaiden tarjoamasta laajasta valikoimasta (esimerkiksi GOTS-sertifioitu luomupuuvilla, non-mulesing villa, eurooppalainen pellava, efektilangat, metallisoidut ja paloturvalliset langat). Vaativiin entisöitäviin kohteisiin langat voidaan värjäyttää mallisävyn mukaan. 
+Pienenä toimijana voimme palvella ketterästi sekä tarjota monipuoliset palvelut laajan kotimaisen alihankkijaverkostomme avulla (esim. villalangan kehruu, värjäys, kartiointi, loimaus, kankaan viimeistelyvaiheet, ompelu sekä kuosisuunnittelu). Tuotannostamme ei synny hävikkiä, sillä kudomme kankaat asiakastilauksena. Hankimme materiaalit asiakastöihin suoraan valmistajilta, eurooppalaisten tehtaiden tarjoamasta laajasta valikoimasta (esimerkiksi GOTS-sertifioitu luomupuuvilla, mulesing-free villa, eurooppalainen pellava, efektilangat, metallisoidut ja paloturvalliset langat). Vaativiin entisöitäviin kohteisiin langat voidaan värjäyttää mallisävyn mukaan. 
 
 Uusi projekti aloitetaan kartoituksella, jossa käymme yhdessä läpi kankaan käyttötarkoituksen ja halutut ominaisuudet. Näiden perusteella teemme ehdotuksen kankaan rakenteesta, tyylistä ja värisävyistä sekä selvitämme soveltuvat materiaalit ja laskemme tuotantokustannukset. Suunnitteluvaiheen tueksi kudomme mallikankaat. Suunnittelu hinnoitellaan tuntiperusteisesti.
 

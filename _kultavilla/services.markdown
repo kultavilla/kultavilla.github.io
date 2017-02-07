@@ -1,6 +1,13 @@
 ---
 title: Palvelut
 position: 2
+heading_text:
+  fi: |
+    ## Palvelut
+    ---
+  en: |
+    ## Services
+    ---
 services:
 - design_text: 
   fi: |
