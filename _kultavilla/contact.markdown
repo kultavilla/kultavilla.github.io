@@ -10,7 +10,7 @@ text_text:
 
     kultavilla AT kultavilla.fi
 
-    Kilonkallio 5 B, 02610 Espoo
+    Kilonkallio 5 B, 02610 Espoo2
   en_text: |
     ## Contact
     ---
