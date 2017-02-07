@@ -45,8 +45,12 @@ references:
       kangasmallien sovitus koneelliseen valmistukseen ja kankaiden kutominen. Kankaiden
       käyttökohteet vaatetus ja sisustus. \nAsiakkaita: Aalto-yliopisto, Metropolia
       Ammattikorkeakoulu."
-    en_text: |
-      Introduction to industrial scale weaving for product development courses. Modification of the fabric samples made by the students to be appropriate for weaving machines. Woven fabrics for clothing and interior uses. Clients: Aalto University, Metropolia University of Applied Sciences.
+    en_text: 'Introduction to industrial scale weaving for product development courses.
+      Modification of the fabric samples made by the students to be appropriate for
+      weaving machines. Woven fabrics for clothing and interior uses. Clients: Aalto
+      University, Metropolia University of Applied Sciences.
+
+'
   images_image:
   - "/uploads/kurssit8.jpg"
   - "/uploads/kurssit7.jpg"
