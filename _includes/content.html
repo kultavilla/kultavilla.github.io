@@ -14,6 +14,8 @@
     <div class="container">
       <div class="col-sm-12">
         <h1>{{ intro.text_text[page.language] }}</h1>
+        {% assign key = page.language | append: "_text" %}
+        {{ intro.slogan_text[key] | markdownify}}
       </div>
     </div>
   </div>
@@ -21,16 +23,18 @@
 
 <section id="services" class="container-fluid content-section">
   {% assign services = site.kultavilla | where:"name", "services"  | first %}
-  <div class="services-section">
-    <div class="container">
-      {% for service in services.services %}
-      <div class="col-md-4">
-        <div class="box">
-          {% assign key = page.language | append: "_text" %}
-          {{ service[key] | markdownify}}
+  <div class="row">
+    <div class="services-section">
+      <div class="container">
+        {% for service in services.services %}
+        <div class="col-md-10">
+          <div class="box">
+            {% assign key = page.language | append: "_text" %}
+            {{ service[key] | markdownify}}
+          </div>
         </div>
+        {% endfor %}
       </div>
-      {% endfor %}
     </div>
   </div>
 </section>

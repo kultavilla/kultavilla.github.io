@@ -197,12 +197,16 @@ a:focus {
             font-size: 26px;
             margin: 0;
         }
+
         margin-top: 20px;
     }
 }
 
 .slogan-section {
     margin-left: 15px;
+    p {
+        font-size: 20px;
+    }
 }
 @media (min-width: 768px) {
     .slogan-section {
@@ -278,7 +282,7 @@ a:focus {
         padding: 1em;
     }
     .box {
-        padding: 0 20px 0 0;
+        padding: 0 20px 0 10px;
     }
 }
 
@@ -320,7 +324,7 @@ a:focus {
     p {
         font-weight: 500;
         margin-bottom: 0;
-        font-size: 18px;
+        font-size: 20px;
     }
 }
 

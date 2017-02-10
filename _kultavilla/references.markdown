@@ -3,18 +3,18 @@ title: Referenssit
 position: 3
 heading:
   fi: Asiakastyöt
-  en: Work
+  en: Client Work
 references:
 - title:
     fi: Kangasmallisto kantoliinakankaita ja kantoreppuja varten
-    en: Fabric collection for baby carriers and slings
+    en: Fabric collection for baby carriers
   description:
     fi_text: |
-      Tuotekehitys ja tuotanto. Useita eri malleja. Materiaaleina luomupuuvilla (GOTS), merinovilla (konepestävä, mulesing-free), eurooppalainen pellava (Masters of Linen).
+      Tuotekehitys ja tuotanto. Materiaaleina luomupuuvilla (GOTS), merinovilla (konepestävä, mulesing-free), eurooppalainen pellava (Masters of Linen).
 
       Asiakas: [Liinalapsi](http://www.liinalapsi.fi)
     en_text: |
-      Product development and production. Several different styles. Materials: organic cotton (GOTS), merino wool (machine washable, mulesing-free), European linen (Masters of Linen).
+      Product development and production of several styles. Materials: organic cotton (GOTS), merino wool (machine washable, mulesing-free), European linen (Masters of Linen).
 
       Client: [Liinalapsi](http://www.wearababy.com)
   images_image:
@@ -38,7 +38,7 @@ references:
   - "/uploads/deco8b.jpg"
   - "/uploads/deco12.jpg"
 - title:
-    fi: Työpaja-päivät opiskelijaryhmille
+    fi: Järjestämme työpajoja opiskelijaryhmille
     en: Student workshops
   description:
     fi_text: |
@@ -49,15 +49,15 @@ references:
       Asiakkaita: Aalto-yliopisto, Metropolia
       Ammattikorkeakoulu.
     en_text: |
-      Introduction to industrial scale weaving for product development courses.
-      Reviewing and altering student fabric designs to suit industrial weaving. Weaving fabrics for clothing and interior uses.
+      Introduction to industrial scale weaving as a part of product development courses.
+      Reviewing and altering student fabric designs to suit weaving machines. Weaving fabrics for clothing and interior uses.
 
       Clients: Aalto
       University, Metropolia University of Applied Sciences.
   images_image:
-  - "/uploads/kurssit8.jpg"
   - "/uploads/kurssit7.jpg"
-  - "/uploads/kurssit6.jpg"
+  - "/uploads/kurssit11.jpg"
+  - "/uploads/kurssit12.jpg"
 name: references
 ---
 
