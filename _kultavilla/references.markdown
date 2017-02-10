@@ -7,14 +7,14 @@ heading:
 references:
 - title:
     fi: Kangasmallisto kantoliinakankaita ja kantoreppuja varten
-    en: Fabric collection for baby carriers and silngs
+    en: Fabric collection for baby carriers and slings
   description:
     fi_text: |
       Tuotekehitys ja tuotanto. Useita eri malleja. Materiaaleina luomupuuvilla (GOTS), merinovilla (konepestävä, mulesing-free), eurooppalainen pellava (Masters of Linen).
 
       Asiakas: [Liinalapsi](http://www.liinalapsi.fi)
     en_text: |
-      Product development and production. Several different models. Materials: organic cotton (GOTS), merino wool (machine washable, mulesing-free), european linen (Masters of Linen).
+      Product development and production. Several different styles. Materials: organic cotton (GOTS), merino wool (machine washable, mulesing-free), European linen (Masters of Linen).
 
       Client: [Liinalapsi](http://www.wearababy.com)
   images_image:
@@ -23,14 +23,14 @@ references:
   - "/uploads/vanamo12.jpg"
 - title:
     fi: Kangasmallisto sisustustuotteita varten
-    en: Fabric collection for interior products
+    en: Fabric collection for home decor
   description:
     fi_text: |
       Laaja tuoteperhe kankaita keittiöön, kylpyhuoneeseen, saunaan ja kodin muihin käyttökohteisiin.
 
       Asiakas: [Vanamo Deco (Liinalapsi)](http://www.vanamodeco.com)
     en_text: |
-      Wide fabric collection for kitchen, bathroom, sauna and other home uses.
+      Vast collection of fabrics for kitchen, bathroom, sauna, and other home textiles.
 
       Client: [Vanamo Deco (Liinalapsi)](http://www.vanamodeco.com)
   images_image:
@@ -41,16 +41,19 @@ references:
     fi: Työpaja-päivät opiskelijaryhmille
     en: Student workshops
   description:
-    fi_text: "Perehdytys teolliseen kudontaan tuotesuunnittelukurssilla. Opiskelijoiden
+    fi_text: |
+      Perehdytys teolliseen kudontaan tuotesuunnittelukurssilla. Opiskelijoiden
       kangasmallien sovitus koneelliseen valmistukseen ja kankaiden kutominen. Kankaiden
-      käyttökohteet vaatetus ja sisustus. \nAsiakkaita: Aalto-yliopisto, Metropolia
-      Ammattikorkeakoulu."
-    en_text: 'Introduction to industrial scale weaving for product development courses.
-      Modification of the fabric samples made by the students to be appropriate for
-      weaving machines. Woven fabrics for clothing and interior uses. Clients: Aalto
-      University, Metropolia University of Applied Sciences.
+      käyttökohteet vaatetus ja sisustus.
 
-'
+      Asiakkaita: Aalto-yliopisto, Metropolia
+      Ammattikorkeakoulu.
+    en_text: |
+      Introduction to industrial scale weaving for product development courses.
+      Reviewing and altering student fabric designs to suit industrial weaving. Weaving fabrics for clothing and interior uses.
+
+      Clients: Aalto
+      University, Metropolia University of Applied Sciences.
   images_image:
   - "/uploads/kurssit8.jpg"
   - "/uploads/kurssit7.jpg"

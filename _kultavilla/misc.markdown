@@ -4,12 +4,12 @@ position: 0
 site:
   title:
     fi: Kultavilla - kudotut kankaat mittatilaustyönä - suunnittelu- ja tuotantopalvelut
-    en: Kultavilla - Design and manufacturing of custom tailored woven fabrics
+    en: Kultavilla - Design and manufacturing of custom woven fabrics
   description:
     fi: Autamme yksilöllisen kankaasi tai mallistosi suunnittelussa ja tuotannossa.
       Kutomamme kankaat sopivat monipuolisesti vaatetukseen, sisustuskankaiksi tai
       muihin käyttötuotteisiin. Kankaat kudotaan piensarjoina pajallamme Espoossa.
-    en: Kultavilla - Design and manufacturing of custom tailored woven fabrics
+    en: Kultavilla - Design and manufacturing of custom woven fabrics
   keywords:
     fi: Kankaat, kutomo, tekstiilit, sisustuskankaat, muotikankaat, mittatilaustyö,
       julkiset tilat, paloturvallisuus, suunnittelu, design, piensarjatuotanto, factory,
