@@ -9,8 +9,10 @@ slogan_text:
     Autamme yksilöllisen kankaasi suunnittelussa ja tuotannossa.
 
     Kudomme kankaat piensarjoina pajallamme Espoossa.
-  en_text: |
-    We provide small series of individual fabrics woven at our workshop in Espoo, Finland.
+  en_text: 'We provide small series of individual fabrics woven at our workshop in
+    Espoo, Finland.
+
+'
 logo_image: "/uploads/logo2.png"
 intro_image:
 - "/uploads/workshop-19b.jpg"
