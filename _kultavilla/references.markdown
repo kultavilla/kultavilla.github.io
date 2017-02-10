@@ -52,7 +52,7 @@ references:
       Introduction to industrial scale weaving for product development courses.
       Reviewing and altering student fabric designs to suit industrial weaving. Weaving fabrics for clothing and interior uses.
 
-      Clients : Aalto
+      Clients: Aalto
       University, Metropolia University of Applied Sciences.
   images_image:
   - "/uploads/kurssit8.jpg"
