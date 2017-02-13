@@ -11,7 +11,7 @@
 
 <section id="slogan" class="content-section">
   <div class="slogan-section">
-    <div class="col-sm-12">
+    <div class="col-sm-10 col-sm-offset-1">
       <h1>{{ intro.text_text[page.language] }}</h1>
       {% assign key = page.language | append: "_text" %}
       {{ intro.slogan_text[key] | markdownify}}
@@ -27,7 +27,7 @@
     <div class="services-section">
       <div class="container">
         {% for service in services.services %}
-        <div class="col-md-10">
+        <div class="col-lg-10">
           <div class="box">
             {% assign key = page.language | append: "_text" %}
             {{ service[key] | markdownify}}
@@ -42,14 +42,14 @@
 <section id="references" class="container content-section">
   <div class="references-section">
     <div>
-      <div class="col-sm-12">
+      <div class="col-lg-10 col-lg-offset-1">
         {% assign references = site.kultavilla | where:"name", "references"  | first %}
         <h2>{{ references.heading[page.language] }}</h2>
         <hr>
       </div>
       {% for ref in references.references %}
       <div>
-        <div class="col-sm-12">
+        <div class="col-lg-10">
           <h3>{{ ref.title[page.language] }}</h3>
           {% assign key = page.language | append: "_text" %}
           {{ ref.description[key] | markdownify }}
@@ -88,7 +88,7 @@
   <div class="contact-section">
     <div class="container-fluid">
 
-      <div class="col-sm-12">
+      <div class="col-lg-10 col-lg-offset-1">
         {% assign contact = site.kultavilla | where:"name", "contact"  | first %}
         {% assign key = page.language | append: "_text" %}
         {% assign contact = contact.text_text[key] | markdownify %}
