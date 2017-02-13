@@ -9,17 +9,17 @@
   </div>
 </header>
 
-<section id="slogan" class="container2 content-section">
+<section id="slogan" class="content-section">
   <div class="slogan-section">
-    <div class="container">
-      <div class="col-sm-12">
-        <h1>{{ intro.text_text[page.language] }}</h1>
-        {% assign key = page.language | append: "_text" %}
-        {{ intro.slogan_text[key] | markdownify}}
-      </div>
+    <div class="col-sm-12">
+      <h1>{{ intro.text_text[page.language] }}</h1>
+      {% assign key = page.language | append: "_text" %}
+      {{ intro.slogan_text[key] | markdownify}}
     </div>
   </div>
 </section>
+
+<div class="clearfix"></div>
 
 <section id="services" class="container-fluid content-section">
   {% assign services = site.kultavilla | where:"name", "services"  | first %}
@@ -41,7 +41,7 @@
 
 <section id="references" class="container content-section">
   <div class="references-section">
-    <div class="container">
+    <div>
       <div class="col-sm-12">
         {% assign references = site.kultavilla | where:"name", "references"  | first %}
         <h2>{{ references.heading[page.language] }}</h2>
@@ -71,11 +71,13 @@
 
 {% if page.language == "fi" %}
 <section id="info" class="container-fluid content-section">
-  <div class="info-section">
-    <div class="container">
-      <div class="col-lg-8 col-lg-offset-2">
-        {% assign tpl = site.kultavilla | where:"name", "info"  | first %}
-        {{ tpl }}
+  <div class="row">
+    <div class="info-section">
+      <div class="container">
+        <div class="col-lg-8 col-lg-offset-2">
+          {% assign tpl = site.kultavilla | where:"name", "info"  | first %}
+          {{ tpl }}
+        </div>
       </div>
     </div>
   </div>
