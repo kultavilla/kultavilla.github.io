@@ -20,7 +20,7 @@ references:
   images_image:
   - "/uploads/vanamo2.jpg"
   - "/uploads/vanamo5.jpg"
-  - "/uploads/vanamo12.jpg"
+  - "/uploads/vanamo15.jpg"
 - title:
     fi: Kangasmallisto sisustustuotteita varten
     en: Fabric collection for home decor
@@ -34,9 +34,9 @@ references:
 
       Client: [Vanamo Deco (Liinalapsi)](http://www.vanamodeco.com)
   images_image:
-  - "/uploads/deco9.jpg"
   - "/uploads/deco8b.jpg"
-  - "/uploads/deco12.jpg"
+  - "/uploads/deco17.jpg"
+  - "/uploads/deco18.jpg"
 - title:
     fi: Järjestämme työpajoja opiskelijaryhmille
     en: Student workshops
@@ -56,8 +56,9 @@ references:
       University, Metropolia University of Applied Sciences.
   images_image:
   - "/uploads/kurssit7.jpg"
-  - "/uploads/kurssit11.jpg"
-  - "/uploads/kurssit12.jpg"
+  - "/uploads/kurssit14.jpg"
+  - "/uploads/kurssit13.jpg"
+
 name: references
 ---
 

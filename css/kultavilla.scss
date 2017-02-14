@@ -158,12 +158,6 @@ a:focus {
         -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
         -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
         transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
-        
-        &.top-nav-collapse {
-            padding: 0;            
-            background: white;
-        }
-
         .nav li {
             &.instagram {             
                 margin-left: -10px;
