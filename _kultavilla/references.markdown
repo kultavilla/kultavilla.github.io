@@ -58,7 +58,6 @@ references:
   - "/uploads/kurssit7.jpg"
   - "/uploads/kurssit14.jpg"
   - "/uploads/kurssit13.jpg"
-
 name: references
 ---
 
