@@ -93,16 +93,14 @@ references:
     
       * [Aalto-yliopisto]((https://www.aalto.fi/fi/muotoilun-laitos))
       * [Metropolia](https://www.metropolia.fi)
-      * Jonathan Ingberg/ Uni of St. Martins, Lontoo
-        Villakankaiden suunnittelua ja valmistus: pienlammastilan tuottamaan villaan pohjautuvat vaatetuskankaat osana miesten vaatemallistoa (lopputyö 2017)
+      * Jonathan Ingberg/ Uni of St. Martins, Lontoo. Villakankaiden suunnittelua ja valmistus: pienlammastilan tuottamaan villaan pohjautuvat vaatetuskankaat osana miesten vaatemallistoa (lopputyö 2017)
       
     en_text: |
       Introduction to industrial scale weaving as a part of product development courses. Reviewing and altering student fabric designs to suit weaving machines. Weaving fabrics for clothing and interior uses for:
 
       * [AALTO UNIVERSITY](https://www.aalto.fi/fi/muotoilun-laitos)
       * [METROPOLIA APPLIED SCIENCES](https://www.metropolia.fi/)
-      * Jonathan Ingberg/ Uni of St. Martins, London
-        Creation of woollen clothing fabrics included in Jonathan’s men fashion Graduate collection 2017
+      * Jonathan Ingberg/ Uni of St. Martins, London. Creation of woollen clothing fabrics included in Jonathan’s men fashion Graduate collection 2017
 
   images_image:
 
