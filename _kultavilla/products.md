@@ -148,7 +148,7 @@ products:
 
       1005/2005 Uniques
       
-      * **Lumikuningatar** 100% Wool
+      100% Wool
 
       Our warmest blanket! Blend of fluffy, natural and natural dyed Finnsheep wool with fine merino wool
 
