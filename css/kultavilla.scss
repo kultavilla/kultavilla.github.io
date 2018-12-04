@@ -1,5 +1,13 @@
 ---
 ---
+$brand-1: #403e00;
+$brand-2: #8b7b24;
+
+@font-face {
+    font-family: SummerRomance;
+    src: url('summer-romance.woff2') format('woff2'),
+    url('summer-romance.woff') format('woff');
+}
 
 ::selection {
     background: #d4dde6;
@@ -11,7 +19,7 @@
 body {
     width: 100%;
     height: 100%;
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;
     background-color: white;
 }
 
@@ -25,6 +33,11 @@ body {
     height: 100%;
     margin: 0 auto;
     max-width: 1400px;
+    color: $brand-1;
+}
+ul {
+    list-style: none;
+    padding-left: 0;
 }
 h1,
 h2,
@@ -32,13 +45,14 @@ h3,
 h4,
 h5,
 h6 {
+    font-family: 'SummerRomance', Helvetica, Arial, sans-serif;
     font-weight: 500;
     letter-spacing: 1px;
-    color: #4e4e4e;
 }
 h1 {
     font-size: 34px;
 }
+
 
 p {
     margin: 0 0 15px;
@@ -75,6 +89,7 @@ hr {
     }
 }
 a {
+    font-weight: 700;
     color: #f9a01e;
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
@@ -86,15 +101,18 @@ a:focus {
     color: #1d9b6c;
 }
 .navbar-custom {
-    padding: 0;
+    padding-left: 15px;
+    padding-right: 15px;
 
     margin-bottom: 0;
     border-bottom: 1px solid rgba(0, 0, 0, 0.7);
-    text-transform: uppercase;
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    //text-transform: uppercase;
+    font-family: 'SummerRomance', Helvetica, Arial, sans-serif;
     background-color: white;
     
     .navbar-toggle {
+        width: 40px;
+        font-size: 18px;
         background-color: rgba(255, 255, 255, 0.2);
         padding: 0;
         margin-top: 14px;
@@ -106,9 +124,6 @@ a:focus {
         outline: none;
     }
     .navbar-brand {
-        font-weight: 700;
-        margin-top: -10px;
-        
         img {
             margin-top: -3px;
             margin-right: 5px;
@@ -118,9 +133,11 @@ a:focus {
         outline: none;
     }
     a {
-        color: black;
+        font-weight: initial;
+        color: $brand-1;
     }
     .nav li {
+        font-size: 26px;
         &.instagram {
             font-size: 22px;
         }
@@ -174,13 +191,137 @@ a:focus {
                 
     }
 }
+
+.section-bg-1 {
+    background-color: $brand-1;
+    color: #fff;
+}
+.section-bg-2 {
+    background-color: $brand-2;
+    color: #fff;
+}
+
+.products-wrapper {
+    .content-section {
+        padding-bottom: 10px;
+    }
+    .slogan-section h3 {
+        margin: 20px 0;
+    }
+    
+
+    .products-header {
+        bottom: 20px;
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        h1 {
+            font-size: 3em;
+            color: #fff;
+            margin: 0;
+        }
+        h3 {
+            color: #fff;
+            margin: 0;
+        }
+        p {
+            margin: 0;
+        }
+        .logo {
+            max-width: 500px;
+        }
+    }
+    .wool-info-wrapper {
+        overflow: hidden;
+        .wool-info {
+            padding: 0;
+            margin-bottom: 10px;
+            li {
+                padding-left: 0;
+                margin-top: 10px;
+            }
+        }
+    }
+    .wool-info-icon {
+        width: 70px;
+        height: 70px;
+        float: left;
+        margin-right: 15px;        
+    }
+    .wool-info-text p {
+        font-weight: 600;
+        //font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;    
+    }
+    .product-info {
+        //margin-bottom: 10px;
+        p {
+            margin-bottom: 5px;
+            font-size: 1em;
+        }
+        ul {
+            list-style: circle;
+            padding-left: 15px;
+            li {
+                font-size: 1em;
+            }
+        }
+    }
+    .washing .instructions {
+        p {
+            margin-bottom: 0;
+        }
+        li {
+            margin-top: 10px;
+        }
+    }
+
+    .washing ul {
+        list-style: circle;
+        padding-left: 15px;
+    }
+    .dyeing ul {
+        list-style: upper-roman;
+        padding-left: 40px;
+    }
+
+    .products {
+        .text {
+            p {
+                margin-bottom: 5px;
+            }
+        }
+    }
+    .washing {
+        img {
+            width: 80px;
+            float: left;
+            overflow: auto;
+            margin-right: 20px;
+            margin-bottom: 10px;
+            margin-top: -10px;
+        }
+    }
+    .wool {
+        img {
+            width: 100%;
+            max-width: 1000px;
+        }
+    }
+
+}
+
+.products-wrapper {
+
+}
+
 .intro {
     background-color: #d0d0d0;
     top: 50px;
 
     text-align: center;
     color: white;
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;    
     .slogan {
         h1 {
             color: white;
@@ -199,6 +340,7 @@ a:focus {
         font-size: 20px;
     }
 }
+
 @media (min-width: 768px) {
     .slogan-section {
         text-align: center;
@@ -239,6 +381,7 @@ a:focus {
 
 
 .content-section {
+    overflow: hidden;
     h2 {
     }
 }
@@ -260,7 +403,6 @@ a:focus {
     }
 }
 #services {
-    background-color: #e2e2e2;    
     margin-top: 20px;
 }
 .services-section {
@@ -290,7 +432,6 @@ a:focus {
 }
 
 #info {
-    background-color: #e2e2e2;    
     margin-top: 20px;
     padding-bottom: 20px;
 }
@@ -318,6 +459,8 @@ a:focus {
     }
 }
 
+.dyeing,
+.products,
 .references-section {
     img {
         display: block;
@@ -343,7 +486,22 @@ a:focus {
         }
     }
 }
+.dyeing,
+.products {
+    .reference {
+        margin-bottom: 0;
+        .image {
+            margin-bottom: 20px;
+        }
+    }
+}
+.dyeing .image:first-child {
+    padding-left: 0;
+}
+
 footer {
+    color: #fff;
+    background-color: $brand-1;    
     border-top: solid 1px gray;
     padding: 30px 15px;
     text-align: center;
@@ -379,4 +537,8 @@ body {
     align-items: center;     /* Align the flex-items vertically */
     justify-content: center; /* Optional, to align inner flex-items
                               horizontally within the column  */
+}
+.container {
+    padding-left: 0;
+    padding-right: 0;
 }

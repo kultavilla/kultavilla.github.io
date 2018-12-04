@@ -13,12 +13,12 @@ slogan_text:
     Espoo, Finland.
 
 '
-logo_image: "/uploads/logo2.png"
+logo_image: "/uploads/logo.png"
 intro_image:
-- "/uploads/workshop-19b.jpg"
-- "/uploads/workshop-12b.jpg"
-- "/uploads/workshop-14b.jpg"
-- "/uploads/workshop-23b.jpg"
+- "/uploads/banner-5.jpg"
+- "/uploads/banner-2.jpg"
+- "/uploads/banner-6.jpg"
+- "/uploads/banner-4.jpg"
 name: intro
 ---
 

@@ -25,12 +25,11 @@
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-            {{ misc.mobile-menu[page.language] }} <i class="fa fa-bars"></i>
+            <i class="fa fa-bars"></i>
           </button>
-          <a class="navbar-brand page-scroll" href="#page-top">
+          <a class="navbar-brand" href="{{ "/" | prepend:site.baseurl }}">
             {% assign intro = site.kultavilla | where:"name", "intro"  | first %}
-            <span><img width="40" src="{{ intro.logo_image | prepend:site.baseurl }}" alt="Kultavilla" /></span>
-            <span>Kultavilla</span>
+            <img width="180" src="{{ intro.logo_image | prepend:site.baseurl }}" alt="Kultavilla" />
           </a>
         </div>
 
@@ -40,16 +39,13 @@
               <a href="#page-top"></a>
             </li>
             <li>
-              <a class="page-scroll" href="#services">{{ misc.navigation[page.language][0] }}</a>
+              <a href="{{ "/" | prepend:site.baseurl }}">{{ misc.navigation[0] }}</a>
             </li>
             <li>
-              <a class="page-scroll" href="#references">{{ misc.navigation[page.language][1] }}</a>
+              <a href="{{ "/services/" | prepend:site.baseurl }}">{{ misc.navigation[1] }}</a>
             </li>
             <li>
-              <a class="page-scroll" href="#contact">{{ misc.navigation[page.language][2] }}</a>
-            </li>
-            <li>
-              <a class="language" href="{% if page.language == "fi" %}index-en.html{% else %} index.html{% endif %}">{{ misc.language-switch[page.language] }}</a>
+              <a href="{{ "/palvelut/" | prepend:site.baseurl }}">{{ misc.navigation[2] }}</a>
             </li>
             <li class="instagram"><a href="https://www.instagram.com/kultavilla" title="Instagram"><i class="fa fa-instagram"></i></a></li>
           </ul>

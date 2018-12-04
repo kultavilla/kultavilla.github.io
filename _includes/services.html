@@ -1,0 +1,126 @@
+
+<div class="products-wrapper">
+
+  <header class="intro carousel slide">
+    {% assign intro = site.kultavilla | where:"name", "intro"  | first %}
+    <div class="vertical-align2 carousel-inner" role="listbox">
+      {% for image in intro.intro_image %}
+      <div class="banner vertical-align item{% if forloop.index == 1 %} active{% endif %}" style="background: url('{{ image | prepend:site.baseurl }}') no-repeat fixed center right; background-size: cover; background-attachment: scroll;">
+      </div>
+      {% endfor %}
+    </div>
+  </header>
+
+  <section id="slogan" class="content-section">
+    <div class="slogan-section">
+      <div class="col-sm-10 col-sm-offset-1">
+        <h1>{{ intro.text_text[page.language] }}</h1>
+        {% assign key = page.language | append: "_text" %}
+        {{ intro.slogan_text[key] | markdownify}}
+      </div>
+    </div>
+  </section>
+
+  <div class="clearfix"></div>
+
+  <section id="services" class="container-fluid content-section">
+    {% assign services = site.kultavilla | where:"name", "services"  | first %}
+    <div class="row">
+      <div class="services-section">
+        <div class="container">
+          {% for service in services.services %}
+          <div class="col-lg-10">
+            <div class="box">
+              {% assign key = page.language | append: "_text" %}
+              {{ service[key] | markdownify}}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="references" class="container content-section">
+    <div class="references-section">
+      <div>
+        <div class="col-lg-10 col-lg-offset-1">
+          {% assign references = site.kultavilla | where:"name", "references"  | first %}
+          <h2>{{ references.heading[page.language] }}</h2>
+        </div>
+        {% for ref in references.references %}
+        <div>
+          <div class="col-lg-10">
+            <h3>{{ ref.title[page.language] }}</h3>
+            {% assign key = page.language | append: "_text" %}
+            {{ ref.description[key] | markdownify }}
+          </div>
+
+
+          {% for img in ref.images_image %}
+          <div class="col-sm-4 col-ms-6 col-xs-12 reference portfolio-box2">
+            <img src="{{ img | prepend: site.baseurl }}" class="img-responsive2" alt="">
+          </div>
+
+          {% endfor %}
+          <div class="clearfix"></div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  {% if page.language == "fi" %}
+  <section id="info" class="container-fluid content-section">
+    <div class="row">
+      <div class="info-section">
+        <div class="container">
+          <div class="col-lg-8 col-lg-offset-2">
+            {% assign tpl = site.kultavilla | where:"name", "info"  | first %}
+            {{ tpl }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {% endif %}
+
+  <section id="contact" class="container content-section text-center">
+    <div class="contact-section">
+      <div class="container-fluid">
+
+        <div class="col-lg-10 col-lg-offset-1">
+          {% assign contact = site.kultavilla | where:"name", "contact"  | first %}
+          {% assign key = page.language | append: "_text" %}
+          {% assign contact = contact.text_text[key] | markdownify %}
+          {{ contact }}
+        </div>
+
+        <div class="clearfix"></div>
+
+        {% assign workshop = site.kultavilla | where:"name", "workshop"  | first %}
+
+        <div class="video embed-responsive embed-responsive-16by9">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ workshop.video }}?rel=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+        
+        {% for image in workshop.images %}
+        <div class="col-sm-6 col-xs-12 thumb">
+          <span class="thumbnail">
+            <img class="img-responsive" src="{{ image.img_image | prepend: site.baseurl }}" alt="">
+          </span>
+        </div>
+        {% endfor %}
+        
+        
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<footer>
+  <div class="text-center">
+    {{ contact }}
+  </div>
+</footer>

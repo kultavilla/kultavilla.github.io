@@ -13,8 +13,7 @@ text_text:
     Kilonkallio 5 B, 02610 Espoo
   en_text: |
     ## Contact
-    ---
-    Kultavilla | Susanna Kääriäinen (CEO)
+    Kultavilla | Susanna Kääriäinen (Designer/M.D.)
 
     +358 40 5383 013
 

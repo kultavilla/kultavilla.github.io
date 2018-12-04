@@ -4,7 +4,8 @@ position: 0
 site:
   title:
     fi: Kultavilla - kudotut kankaat mittatilaustyönä - suunnittelu- ja tuotantopalvelut
-    en: Kultavilla - Design and manufacturing of custom woven fabrics
+    en: Kultavilla - Nordic nature meets science - The pure Nordic nature captured into cuddlesome textiles that enhance our wellbeing
+    
   description:
     fi: Autamme yksilöllisen kankaasi tai mallistosi suunnittelussa ja tuotannossa.
       Kutomamme kankaat sopivat monipuolisesti vaatetukseen, sisustuskankaiksi tai
@@ -12,23 +13,15 @@ site:
     en: Kultavilla - Design and manufacturing of custom woven fabrics
   keywords:
     fi: Kankaat, kutomo, tekstiilit, sisustuskankaat, muotikankaat, mittatilaustyö,
-      julkiset tilat, paloturvallisuus, suunnittelu, design, piensarjatuotanto, factory,
+      julkiset tilat, paloturvallisuus, suunnittelu, design, piensarjatuotanto, nordic nature wellbeing, factory,
       woven fabrics, tissu sur mesure
     en: Kankaat, kutomo, tekstiilit, sisustuskankaat, muotikankaat, mittatilaustyö,
-      julkiset tilat, paloturvallisuus, suunnittelu, design, piensarjatuotanto, factory,
+      julkiset tilat, paloturvallisuus, suunnittelu, design, piensarjatuotanto, nordic nature wellbeing, factory,
       woven fabrics, tissu sur mesure
 navigation:
-  fi:
-  - Palvelut
-  - Työt
-  - Yhteystiedot
-  en:
+  - Kultavilla
   - Services
-  - Work
-  - Contact
-language-switch:
-  fi: In english
-  en: Suomeksi
+  - Palvelut
 mobile-menu:
   fi: Valikko
   en: Menu
