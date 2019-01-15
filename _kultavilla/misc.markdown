@@ -12,12 +12,12 @@ site:
       muihin käyttötuotteisiin. Kankaat kudotaan piensarjoina pajallamme Espoossa.
     en: Kultavilla - Design and manufacturing of custom woven fabrics
   keywords:
-    fi: Kankaat, kutomo, tekstiilit, sisustuskankaat, muotikankaat, mittatilaustyö,
-      julkiset tilat, paloturvallisuus, suunnittelu, design, piensarjatuotanto, nordic nature wellbeing, factory,
-      woven fabrics, tissu sur mesure
-    en: Kankaat, kutomo, tekstiilit, sisustuskankaat, muotikankaat, mittatilaustyö,
-      julkiset tilat, paloturvallisuus, suunnittelu, design, piensarjatuotanto, nordic nature wellbeing, factory,
-      woven fabrics, tissu sur mesure
+    fi: Kankaat, kutomo, tekstiilit, sisustuskankaat, villa, suomenlampaan villa, kotimainen, pohjoinen,
+      mittatilaustyö, julkiset tilat, suunnittelu, luonnon värit, wool, woollens, finn sheep, finnish design, 
+      nordic nature, wellbeing, green textiles, natural dyes, indigo
+    en: Kankaat, kutomo, tekstiilit, sisustuskankaat, villa, suomenlampaan villa, kotimainen, pohjoinen,
+      mittatilaustyö, julkiset tilat, suunnittelu, luonnon värit, wool, woollens, finn sheep, finnish design, 
+      nordic nature, wellbeing, green textiles, natural dyes, indigo
 navigation:
   - Kultavilla
   - Services
