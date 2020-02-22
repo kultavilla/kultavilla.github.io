@@ -1,222 +1,194 @@
 ---
 title: Products
 position: 1
-
-title_text: "Nordic nature meets science"
-subtitle_text: "The pure Nordic nature captured into cuddlesome textiles that enhance our wellbeing."
-
+title_text: Nordic nature meets science
+subtitle_text: The pure Nordic nature captured into cuddlesome textiles that enhance
+  our wellbeing.
 section_info_text: |
   # Green and healthy textiles
 
   We combine the pureness of the Nordic nature with nature’s own fibres to create wovens that not only feel good but have a positive effect on wellbeing.
 
   Driven by our love of natural wool and the passion for designing functional woven textiles we have created completely new combinations of natural materials, Kultavilla woollens. Our textiles exhibit the nature's organic structures and soft colours. These are the functional woollens either for cold winter or for milder seasons. The choice is yours!
-
-
 section_wool_text: |
   # Wool, why!
 
   WOOL, such fine material that no technology can copy its features. It’s warm, soft and holds all the features of cuddliness imaginable. To make a long story short, with all its fine qualities, wool is the wonder fiber!
-
 section_wool_content_2_text: |
   Our mission is to bring about the best qualities of the fluffy Finnsheep wool, and the softest, untreated lambswool for your benefit, for cold as well as for milder seasons.
 
   Different combinations of wool, manufactured with traditional techniques.
-
-section_wool_image_image: "uploads/wool.jpg"
-
+section_wool_image_image: uploads/wool.jpg
 wool_info:
-  - Breathes and controls moisture
-  - Odor resitant
-  - Prevents skin allergies
-  - Regulates temperature
-  - Improves sleep routine
-  - Wrapping low birth weight babies in merino wool helps them to gain weight
-
+- Breathes and controls moisture
+- Odor resitant
+- Prevents skin allergies
+- Regulates temperature
+- Improves sleep routine
+- Wrapping low birth weight babies in merino wool helps them to gain weight
 wool_info_images_image:
-  - "/uploads/icon-1.png"
-  - "/uploads/icon-2.png"
-  - "/uploads/icon-3.png"
-  - "/uploads/icon-4.png"
-  - "/uploads/icon-5.png"
-  - "/uploads/icon-6.png"
-
+- "/uploads/icon-1.png"
+- "/uploads/icon-2.png"
+- "/uploads/icon-3.png"
+- "/uploads/icon-4.png"
+- "/uploads/icon-5.png"
+- "/uploads/icon-6.png"
 images_image:
-  - "/uploads/vanamo2.jpg"
-  - "/uploads/vanamo5.jpg"
-  - "/uploads/vanamo15.jpg"
-  - "/uploads/vanamo2.jpg"
-  - "/uploads/vanamo5.jpg"
-  - "/uploads/vanamo15.jpg"
-
+- "/uploads/vanamo2.jpg"
+- "/uploads/vanamo5.jpg"
+- "/uploads/vanamo15.jpg"
+- "/uploads/vanamo2.jpg"
+- "/uploads/vanamo5.jpg"
+- "/uploads/vanamo15.jpg"
 products:
-  - text_text: |
-      ### Winter blanket
+- text_text: |
+    ### Winter blanket
 
-      1001
+    1001
 
-      **Talvineito** 66 % Wool - 33 % cotton (GOTS)
+    **Talvineito** 66 % Wool - 33 % cotton (GOTS)
 
-      Lightest natural Finnsheep wool tones combined with extra fine merino wool
+    Lightest natural Finnsheep wool tones combined with extra fine merino wool
 
-      Finishing with lovely cotton fringes
+    Finishing with lovely cotton fringes
 
-      Size 110 cm x 210 cm
+    Size 110 cm x 210 cm
 
-      Price 270 €
+    Price 270 €
+  images_image:
+  - "/uploads/talvineito-1.jpg"
+  - "/uploads/talvineito-2.jpg"
+  - "/uploads/talvineito-3.jpg"
+- text_text: |
+    ### Winter blanket
 
-    images_image:
-      - "/uploads/talvineito-1.jpg"
-      - "/uploads/talvineito-2.jpg"
-      - "/uploads/talvineito-3.jpg"
+    1002/2002
 
-  - text_text: |
-      ### Winter blanket
+    **Pohjan poika** 66 % Wool - 33 % cotton (GOTS)
 
-      1002/2002
+    Natural dyed Finnsheep wool combined with natural tones of wool and icy indigo shades
 
-      **Pohjan poika** 66 % Wool - 33 % cotton (GOTS)
+    Size 120 cm x 210 cm
 
-      Natural dyed Finnsheep wool combined with natural tones of wool and icy indigo shades
-      
-      Size 120 cm x 210 cm
+    Price 330 €
+  images_image:
+  - "/uploads/pohjanpoika-3.jpg"
+  - "/uploads/pohjanpoika-2.jpg"
+- text_text: |
+    ### Throws, light weight
 
-      Price 330 €
-      
-    images_image:
-      - "/uploads/pohjanpoika-3.jpg"
-      - "/uploads/pohjanpoika-2.jpg"
+    1003/2003
 
-  - text_text: |
-      ### Throws, light weight
+    **Jäkälä** 66 % Wool - 33 % cotton (GOTS)
 
-      1003/2003
+    Natural Finnsheep woollen colours
 
-      **Jäkälä** 66 % Wool - 33 % cotton (GOTS)
+    Size 100 cm x 170 cm
 
-      Natural Finnsheep woollen colours
+    * 1003 Price 162 € Natural colours
+    * 2003 Price 217 € Hand dyed unique pieces
+  images_image:
+  - "/uploads/jakala.jpg"
+  - "/uploads/jakala-2.jpg"
+- text_text: |
+    ### Shawls
 
-      Size 100 cm x 170 cm
+    1004
 
-      * 1003 Price 162 € Natural colours
-      * 2003 Price 217 € Hand dyed unique pieces
+    * **Karjalan neito**
 
-    images_image:
-      - "/uploads/jakala.jpg"
-      - "/uploads/jakala-2.jpg"
+      66% Wool - 33% cotton (GOTS)
 
-  - text_text: |
-      ### Shawls
+      combination of Finnsheep and baby merino wool
 
-      1004
+    Size 90 cm x 165 cm
 
-      * **Karjalan neito**
+    Price 128 € Natural wool colours
+  images_image:
+  - "/uploads/karjala.jpg"
+- text_text: |
+    ### Winter blankets, seasonal colours
 
-        66% Wool - 33% cotton (GOTS)
+    2002 Uniques
 
-        combination of Finnsheep and baby merino wool
+    * **Ruska**
 
-      Size 90 cm x 165 cm
+      66% Wool - 33% cotton (GOTS)
 
-      Price 128 € Natural wool colours
+      A colourful family! Blend of fluffy, natural dyed Finnsheep wool in autumn shades with extra fine merino wool. Unique pieces!
 
-    images_image:
-      - "/uploads/karjala.jpg"
+     Size 120 cm x 210 cm
 
-  - text_text: |
-      ### Winter blankets, seasonal colours
+     Price 330 €
+  images_image:
+  - "/uploads/ruska-1.jpg"
+  - "/uploads/ruska-2.jpg"
+  - "/uploads/ruska-3.jpg"
+- text_text: |
+    ### Extra warm winter blanket
 
-      2002 Uniques
+    1005/2005 Uniques
 
-      * **Ruska**
+    100% Wool
 
-        66% Wool - 33% cotton (GOTS)
+    Our warmest blanket! Blend of fluffy, natural and natural dyed Finnsheep wool with fine merino wool
 
-        A colourful family! Blend of fluffy, natural dyed Finnsheep wool in autumn shades with extra fine merino wool. Unique pieces!
+    Size 120 cm x 210 cm
 
-       Size 120 cm x 210 cm
+    * Price 380 €
+  images_image:
+  - "/uploads/winter-1.jpg"
+  - "/uploads/winter-2.jpg"
+- text_text: |
+    ### Autumn scarves, winter scarves
 
-       Price 330 €
+    1006/1007/3006/3007
 
-    images_image:
-      - "/uploads/ruska-1.jpg"
-      - "/uploads/ruska-2.jpg"
-      - "/uploads/ruska-3.jpg"
+    * **Kaarna** 66% Wool - 33% cotton (GOTS)
 
-  - text_text: |
-      ### Extra warm winter blanket
+    Size 50 x 180 cm
 
-      1005/2005 Uniques
-      
-      100% Wool
+    * 1006 Price 89 € Natural wool colours
+    * 3006 Price 124 € Hand dyed with natural dyes, unique pieces
+  images_image:
+  - "/uploads/autumn-1.jpg"
+  - "/uploads/autumn-2.jpg"
+  - "/uploads/autumn-3.jpg"
+- text_text: |
+    ### Mid season scarves
 
-      Our warmest blanket! Blend of fluffy, natural and natural dyed Finnsheep wool with fine merino wool
+    1008/1009/2008/2009/3008/3009
 
-      Size 120 cm x 210 cm
+    66 % Wool - 33 % cotton (GOTS)
 
-      * Price 380 €
+    The softest scarf with extra fine lambswool
 
-    images_image:
-      - "/uploads/winter-1.jpg"
-      - "/uploads/winter-2.jpg"
+    Size 60 x 180 cm
 
-  - text_text: |
-      ### Autumn scarves, winter scarves
+    1008 Price 88 € Natural wool colours
 
-      1006/1007/3006/3007
+    2008 Price 105 € Natural dyed wool stripes
 
-      * **Kaarna** 66% Wool - 33% cotton (GOTS)
+    3008 Price 135 € Hand dyed with indigo, unique pieces
+  images_image:
+  - "/uploads/mid-1.jpg"
+  - "/uploads/mid-2.jpg"
+- text_text: |
+    ### Baby blankets
 
-      Size 50 x 180 cm
+    1010/1011/2010/2011/3010/3011
 
-      * 1006 Price 89 € Natural wool colours
-      * 3006 Price 124 € Hand dyed with natural dyes, unique pieces
+    * **UNI** 66% Baby merino - 33% cotton (GOTS)
 
-    images_image:
-      - "/uploads/autumn-1.jpg"
-      - "/uploads/autumn-2.jpg"
-      - "/uploads/autumn-3.jpg"
+    Softness with extra fine lambswool
 
-  - text_text: |
-      ### Mid season scarves
+    Size 100 x 100 cm
 
-      1008/1009/2008/2009/3008/3009
-      
-      66 % Wool - 33 % cotton (GOTS)
-
-      The softest scarf with extra fine lambswool
-
-      Size 60 x 180 cm
-
-      1008 Price 88 € Natural wool colours
-
-      2008 Price 105 € Natural dyed wool stripes
-
-      3008 Price 135 € Hand dyed with indigo, unique pieces
-
-    images_image:
-      - "/uploads/mid-1.jpg"
-      - "/uploads/mid-2.jpg"
-
-  - text_text: |
-      ### Baby blankets
-    
-      1010/1011/2010/2011/3010/3011
-
-      * **UNI** 66% Baby merino - 33% cotton (GOTS)
-
-      Softness with extra fine lambswool
-
-      Size 100 x 100 cm
-
-      * 1010 Price 88 € Natural wool colours
-      * 2010 Price 105 € Natural dyed wool stripes
-      * 3010 Price 135 € Hand dyed with indigo, unique pieces
-
-    images_image:
-      - "/uploads/baby-1.jpg"
-
-
+    * 1010 Price 88 € Natural wool colours
+    * 2010 Price 105 € Natural dyed wool stripes
+    * 3010 Price 135 € Hand dyed with indigo, unique pieces
+  images_image:
+  - "/uploads/baby-1.jpg"
 washing_text: |
   # Washing instructions
 
@@ -240,14 +212,13 @@ washing_text: |
   * Rinse, spin, and let it dry.
   * If you wish to use a machine wash, use a gentle wool wash program at 30°.
   * Spin at 800 cycles for 1 to 2 minutes and let it dry. Use mild detergent or soap.
-  
+
   Wool in winter blankets is a blend of extra fine merino wool combined with very warm and fluffy finnish wool, origin from finnsheeps. Finnsheep wool is natural without any chemical treatments, and felts easily.
 
   Pilling is a natural feature of untreated natural wool.
 
   **Handle your woollens with extra care - or sheep happens!**
-
-gots_text: |
+gots_text: |2
 
   # GOTS and BEST (Naturtextil IVN certified Best)certified Organic wool
 
@@ -259,9 +230,7 @@ gots_text: |
 
   ### European linen (flax)
   Flax is considered to be one of the most ecological natural fibres, because just rainwater and only minimal amounts of fertilizers are needed to grow it in the humidity of the Atlantic coast. The European linen we use is of French origin, cultivated and spinned in France
-
-
-natural_dyeing_text: |
+natural_dyeing_text: |2
 
   # Natural dyed wool yarns - magic happens!
 
@@ -272,13 +241,10 @@ natural_dyeing_text: |
   * Red colours are from lac dye (_Laccifer lacca_) and madder (roots of the _Rubia tinctoria_ plant). Bright reds are isolated from resin secreted by Cochenille insect (_Coccus cacti_).
 
   Natural dyeing is done in small batches in tight collaboration with [Aurinkokehrä](http://www.aurinkokehra.fi). Our piece dyed products are hand dyed. Colour shades may vary from lot to lot, but we think that is what makes each woollen unique!
-
 natural_dyeing_images_image:
 - "/uploads/dye-1.jpg"
 - "/uploads/dye-2.jpg"
 - "/uploads/dye-3.jpg"
-
-
 natural_fibers: |
   # Natural fibres
 
@@ -291,8 +257,6 @@ natural_fibers: |
 
   ### Lambswool
   Lambswool is the soft 'baby merino wool' from the very first sheering of lambs. Our lambswool yarns are made in a italian fine wool spinnery. The wool is untreated, and thus without the finishing chemicals and polymers which are usually used to make 'easy care' products. We think that wool's natural properties make wool georgous! Use of baby merino wool makes our woollens soft and gentle to skin. Lambswool woollens are ideal for babies and can be used as scarves or throws during milder seasons.
-
-
 logo_image: "/uploads/logo.png"
 intro_image:
 - "/uploads/products-header_02.jpg"
