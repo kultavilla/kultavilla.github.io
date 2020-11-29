@@ -19,7 +19,7 @@ text_text:
 
     kultavilla AT kultavilla.fi
 
-    08700 Lohja, Finland
+    Ängsholmintie 175, 08700 Lohja, Finland
 name: contact
 ---
 
