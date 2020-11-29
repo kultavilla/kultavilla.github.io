@@ -9,7 +9,7 @@ section_info_text: |
 
   We combine the pureness of the Nordic nature with nature’s own fibres to create wovens that not only feel good but have a positive effect on wellbeing.
 
-  Driven by our love of natural wool and the passion for designing functional woven textiles we have created completely new combinations of natural materials, Kultavilla woollens. Our textiles exhibit the nature's organic structures and soft colours. These are the functional woollens either for cold winter or for milder seasons. The choice is yours!
+  Driven by our love of natural wool and the passion for designing functional woven textiles we have created new combinations of natural materials, Kultavilla woollens. Our textiles exhibit the nature's organic structures and soft colours. These are the functional woollens either for cold winter or for milder seasons. The choice is yours!
 section_wool_text: |
   # Wool, why!
 
@@ -25,7 +25,7 @@ wool_info:
 - Prevents skin allergies
 - Regulates temperature
 - Improves sleep routine
-- Wrapping low birth weight babies in merino wool helps them to gain weight
+- Wrapping babies in wool.. best dreams :).
 wool_info_images_image:
 - "/uploads/icon-1.png"
 - "/uploads/icon-2.png"
