@@ -10,7 +10,7 @@ text_text:
 
     kultavilla AT kultavilla.fi
 
-    Kilonkallio 5 B, 02610 Espoo
+    Ängsholmintie 175, 08700 Lohja
   en_text: |
     ## Contact
     Kultavilla | Susanna Kääriäinen (Designer/M.D.)
@@ -19,7 +19,7 @@ text_text:
 
     kultavilla AT kultavilla.fi
 
-    Kilonkallio 5 B, 02610 Espoo, Finland
+    08700 Lohja, Finland
 name: contact
 ---
 
