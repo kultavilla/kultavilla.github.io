@@ -8,9 +8,9 @@ slogan_text:
   fi_text: |
     Autamme yksilöllisen kankaasi suunnittelussa ja tuotannossa.
 
-    Kudomme kankaat piensarjoina pajallamme Espoossa.
+    Kudomme kankaat piensarjoina studiossamme Lohjan Virkkalassa.
   en_text: 'We provide small series of individual fabrics woven at our workshop in
-    Espoo, Finland.
+    Lohja, Finland.
 
 '
 logo_image: "/uploads/logo.png"
