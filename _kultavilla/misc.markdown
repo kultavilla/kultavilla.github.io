@@ -21,14 +21,14 @@ site:
       tilat, suunnittelu, luonnon värit, wool, woollens, finn sheep, finnish design,
       nordic nature, wellbeing, green textiles, natural dyes, indigo, made in Finland,
       baby wraps, wearababy
-navigation:
-- Palvelut
-- Kultavilla woollens
-- Services
-- Tuotteet ja kankaat
 mobile-menu:
   fi: Valikko
   en: Menu
+navigation:
+- Kultavilla woollens
+- Services
+- Palvelut
+- Tuotteet ja kankaat
 name: misc
 ---
 
