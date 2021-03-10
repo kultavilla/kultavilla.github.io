@@ -75,6 +75,22 @@ products:
   - "/uploads/pohjanpoika-3.jpg"
   - "/uploads/pohjanpoika-2.jpg"
 - text_text: |
+    ### Autumn scarves, winter scarves
+
+    1006/1007/3006/3007
+
+    * **Kaarna** 66% Wool - 33% cotton (GOTS)
+
+    Size 50 x 180 cm
+
+    * 1006 Price 89 € Natural wool colours
+    * 3006 Price 124 € Hand dyed with natural dyes, unique pieces
+  images_image:
+  - "/uploads/autumn-1.jpg"
+  - "/uploads/autumn-2.jpg"
+  - "/uploads/autumn-3.jpg"
+  Key: 
+- text_text: |
     ### Throws, light weight
 
     1003/2003
@@ -139,21 +155,6 @@ products:
   images_image:
   - "/uploads/winter-1.jpg"
   - "/uploads/winter-2.jpg"
-- text_text: |
-    ### Autumn scarves, winter scarves
-
-    1006/1007/3006/3007
-
-    * **Kaarna** 66% Wool - 33% cotton (GOTS)
-
-    Size 50 x 180 cm
-
-    * 1006 Price 89 € Natural wool colours
-    * 3006 Price 124 € Hand dyed with natural dyes, unique pieces
-  images_image:
-  - "/uploads/autumn-1.jpg"
-  - "/uploads/autumn-2.jpg"
-  - "/uploads/autumn-3.jpg"
 - text_text: |
     ### Mid season scarves
 
