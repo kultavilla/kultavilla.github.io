@@ -15,9 +15,9 @@ slogan_text:
 '
 logo_image: "/uploads/logo.png"
 intro_image:
-- "/uploads/banner-5.jpg"
+- "/uploads/BANNER%20FINNTWILL%20by%20KULTAVILLA.jpg"
+- "/uploads/BANNER%20Kaiku5%20vaaka_1024.jpg"
 - "/uploads/banner-2.jpg"
-- "/uploads/banner-6.jpg"
 - "/uploads/banner-4.jpg"
 name: intro
 ---
