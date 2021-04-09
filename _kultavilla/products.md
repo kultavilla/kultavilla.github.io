@@ -77,14 +77,15 @@ products:
 - text_text: |
     ### Autumn scarves, winter scarves
 
-    1006/1007/3006/3007
+    1006/2006/3006
 
     * **Kaarna** 66% Wool - 33% cotton (GOTS)
 
     Size 50 x 180 cm
 
     * 1006 Price 89 € Natural wool colours
-    * 3006 Price 105 € Hand dyed with natural dyes, unique pieces
+    * 2006 Price 105 € Dyed yarns
+    * 3006 Price 125 € Hand dyed with natural dyes, unique pieces
   images_image:
   - "/uploads/Indigo%20kaarna%20Lier.jpg"
   - "/uploads/Nummella.jpg"
@@ -99,7 +100,7 @@ products:
 
     Natural Finnsheep woollen colours
 
-    Size 100 cm x 170 cm
+    Size 100 cm x 180 cm
 
     * 1003 Price 162 € Natural colours
 
@@ -110,9 +111,9 @@ products:
 - text_text: |
     ### Shawls, giant scarves
 
-    2003
+    3003
 
-    * **Jäkälä** 66 % Wool - 33 % cotton (GOTS)
+    * **Karjala** 66 % Wool - 33 % cotton (GOTS)
 
     Size 100 cm x 180 cm
 
