@@ -69,7 +69,6 @@ products:
     Price 199 €
   images_image:
   - "/uploads/Travel%20blankets.jpg"
-  - "/uploads/pohjanpoika-2.jpg"
 - text_text: |
     ### Autumn scarves, winter scarves
 
