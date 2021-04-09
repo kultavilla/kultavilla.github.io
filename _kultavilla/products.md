@@ -9,7 +9,7 @@ section_info_text: |
 
   We combine the pureness of the Nordic nature with nature’s own fibres to create wovens that not only feel good but have a positive effect on wellbeing.
 
-  Driven by our love of natural wool and the passion for designing functional woven textiles we have created a collection of natural materials, Kultavilla woollens. Our textiles exhibit the nature's organic structures and soft colours. These are the functional woollens either for cold winter or for milder seasons. The choice is yours!
+  Driven by our love of natural wool and the passion for designing functional woven textiles we have created a collection of natural materials, Kultavilla woollens. Our textiles exhibit the nature's organic structures and soft colours. These are the functional woollens either for cold winter or for milder seasons. Travel blankets are light and easy take with!
 section_wool_text: |
   # Wool, why!
 
@@ -46,33 +46,29 @@ products:
 
     1001
 
-    **Talvineito** 66 % Wool - 33 % cotton (GOTS)
+    **Talvineito** 80 % Wool - 20 % cotton (GOTS)
 
-    Lightest natural Finnsheep wool tones combined with extra fine merino wool
+    Natural Finnsheep wool tones. Finishing with natural dyed wool. In several wool tones.
 
-    Finishing with lovely cotton fringes
-
-    Size 110 cm x 210 cm
+    Size 110 cm x 200 cm
 
     Price 270 €
   images_image:
   - "/uploads/talvineito-1.jpg"
-  - "/uploads/talvineito-2.jpg"
-  - "/uploads/talvineito-3.jpg"
 - text_text: |
-    ### Winter blanket
+    ### Travel blanket
 
-    1002/2002
+    1002
 
-    **Pohjan poika** 66 % Wool - 33 % cotton (GOTS)
+    **Metsän poika** 70 % Wool - 30 % cotton (GOTS)
 
-    Natural dyed Finnsheep wool combined with natural tones of wool and icy indigo shades
+    Finnsheep wool in natural tones.
 
-    Size 120 cm x 210 cm
+    Size 120 cm x 180 cm
 
-    Price 330 €
+    Price 199 €
   images_image:
-  - "/uploads/pohjanpoika-3.jpg"
+  - "/uploads/Travel%20blankets.jpg"
   - "/uploads/pohjanpoika-2.jpg"
 - text_text: |
     ### Autumn scarves, winter scarves
@@ -131,7 +127,7 @@ products:
 
       66% Wool - 33% cotton (GOTS)
 
-      A colourful family! Blend of fluffy, natural dyed Finnsheep wool in autumn shades with extra fine merino wool. Unique pieces!
+      A colourful family! Blend of fluffy, natural dyed Finnsheep wool in colourful autumn shades. Unique pieces!
 
      Size 120 cm x 210 cm
 
@@ -140,53 +136,37 @@ products:
   - "/uploads/ruska-1.jpg"
   - "/uploads/ruska-2.jpg"
   - "/uploads/ruska-3.jpg"
-- text_text: |
-    ### Extra warm winter blanket
-
-    1005/2005 Uniques
-
-    100% Wool
-
-    Our warmest blanket! Blend of fluffy, natural and natural dyed Finnsheep wool with fine merino wool
-
-    Size 120 cm x 210 cm
-
-    * Price 380 €
+- text_text: "### Decorative blanket\n\n1005/2005 Uniques\n\n66 % Wool - 33 % organic
+    cotton (GOTS)\n\nThe most beautiful blanket of  fluffy, natural dyed Finnsheep
+    wool \n\nSize 120 cm x 210 cm\n\n* Price 330 €\n"
   images_image:
   - "/uploads/winter-1.jpg"
   - "/uploads/winter-2.jpg"
 - text_text: |
-    ### Mid season scarves
+    ### Junior blankets
 
-    1008/1009/2008/2009/3008/3009
+    1011
 
-    66 % Wool - 33 % cotton (GOTS)
+    70 % Wool - 30 % cotton (GOTS)
 
-    The softest scarf with extra fine lambswool
+    Finn sheep wool with natural dyed wool finishing.
 
-    Size 60 x 180 cm
+    Size 100 x 170 cm
 
-    1008 Price 88 € Natural wool colours
-
-    2008 Price 105 € Natural dyed wool stripes
-
-    3008 Price 135 € Hand dyed with indigo, unique pieces
+    1011 Price 170 € Natural wool colours finished with a dyed wool stripe.
   images_image:
-  - "/uploads/mid-1.jpg"
-  - "/uploads/mid-2.jpg"
+  - "/uploads/JUNIOR%20girl.jpg"
+  - "/uploads/JUNIOR%20boy.jpg"
 - text_text: |
     ### Baby blankets
 
-    1010/1011/2010/2011/3010/3011
+    1010/3010
 
-    * **UNI** 66% Baby merino - 33% cotton (GOTS)
-
-    Softness with extra fine lambswool
+    * **UNI** 66 % soft Finnsheep wool - 33 % cotton (GOTS)
 
     Size 100 x 100 cm
 
     * 1010 Price 88 € Natural wool colours
-    * 2010 Price 105 € Natural dyed wool stripes
     * 3010 Price 135 € Hand dyed with indigo, unique pieces
   images_image:
   - "/uploads/baby-1.jpg"
