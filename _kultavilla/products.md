@@ -168,7 +168,7 @@ products:
     * 1010 Price 88 € Natural wool colours
     * 3010 Price 135 € Hand dyed with indigo, unique pieces
   images_image:
-  - "/uploads/baby-1.jpg"
+  - "/uploads/dye-2.jpg"
 washing_text: |
   # Washing instructions
 
