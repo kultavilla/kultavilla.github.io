@@ -86,7 +86,7 @@ products:
     * 1006 Price 89 € Natural wool colours
     * 3006 Price 124 € Hand dyed with natural dyes, unique pieces
   images_image:
-  - "/uploads/autumn-1.jpg"
+  - "/uploads/Indigo%20kaarna%20Lier.jpg"
   - "/uploads/autumn-2.jpg"
   - "/uploads/autumn-3.jpg"
   Key: 
@@ -102,10 +102,11 @@ products:
     Size 100 cm x 170 cm
 
     * 1003 Price 162 € Natural colours
-    * 2003 Price 217 € Hand dyed unique pieces
+    * 2003 Price 188 € Hand dyed unique pieces
   images_image:
-  - "/uploads/jakala.jpg"
-  - "/uploads/jakala-2.jpg"
+  - "/uploads/KAARNA%20giant.jpg"
+  - "/uploads/Giant%20LUMI.jpg"
+  - "/uploads/Giant%20cochenille.jpg"
 - text_text: |
     ### Shawls
 
