@@ -9,7 +9,7 @@ section_info_text: |
 
   We combine the pureness of the Nordic nature with nature’s own fibres to create wovens that not only feel good but have a positive effect on wellbeing.
 
-  Driven by our love of natural wool and the passion for designing functional woven textiles we have created new combinations of natural materials, Kultavilla woollens. Our textiles exhibit the nature's organic structures and soft colours. These are the functional woollens either for cold winter or for milder seasons. The choice is yours!
+  Driven by our love of natural wool and the passion for designing functional woven textiles we have created a collection of natural materials, Kultavilla woollens. Our textiles exhibit the nature's organic structures and soft colours. These are the functional woollens either for cold winter or for milder seasons. The choice is yours!
 section_wool_text: |
   # Wool, why!
 
@@ -84,16 +84,16 @@ products:
     Size 50 x 180 cm
 
     * 1006 Price 89 € Natural wool colours
-    * 3006 Price 124 € Hand dyed with natural dyes, unique pieces
+    * 3006 Price 105 € Hand dyed with natural dyes, unique pieces
   images_image:
   - "/uploads/Indigo%20kaarna%20Lier.jpg"
-  - "/uploads/autumn-2.jpg"
-  - "/uploads/autumn-3.jpg"
+  - "/uploads/Nummella.jpg"
+  - "/uploads/Indigo%20kaarna%20Lier%20kujalla.jpg"
   Key: 
-- text_text: |
-    ### Throws, light weight
+- text_text: |+
+    ### Shawls, giant scarves
 
-    1003/2003
+    1003
 
     **Jäkälä** 66 % Wool - 33 % cotton (GOTS)
 
@@ -102,33 +102,31 @@ products:
     Size 100 cm x 170 cm
 
     * 1003 Price 162 € Natural colours
-    * 2003 Price 188 € Hand dyed unique pieces
+
   images_image:
   - "/uploads/KAARNA%20giant.jpg"
   - "/uploads/Giant%20LUMI.jpg"
-  - "/uploads/Giant%20cochenille.jpg"
+  - "/uploads/Giant%20LUMI2.jpg"
 - text_text: |
-    ### Shawls
+    ### Shawls, giant scarves
 
-    1004
+    2003
 
-    * **Karjalan neito**
+    * **Jäkälä** 66 % Wool - 33 % cotton (GOTS)
 
-      66% Wool - 33% cotton (GOTS)
+    Size 100 cm x 180 cm
 
-      combination of Finnsheep and baby merino wool
-
-    Size 90 cm x 165 cm
-
-    Price 128 € Natural wool colours
+    Price 188 € Hand dyed unique pieces (deep red, deep forest green)
   images_image:
-  - "/uploads/karjala.jpg"
+  - "/uploads/Giant%20cochenille-769f2e.jpg"
+  - "/uploads/Giant%20Forest%20green.jpg"
+  - "/uploads/thumb_IMG_2706_2_1024.jpg"
 - text_text: |
-    ### Winter blankets, seasonal colours
+    ### Winter blankets
 
     2002 Uniques
 
-    * **Ruska**
+    * **Metsä**
 
       66% Wool - 33% cotton (GOTS)
 
