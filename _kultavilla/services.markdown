@@ -5,6 +5,9 @@ services:
 - fi_text: |
     ### Suunnittelu ja tuotekehitys
     Avustamme kankaan malli- ja värisuunnittelussa. Teemme tuotekehitystä yhteistyössä tekstiilialan toimijoiden kanssa. Suunnittelemme kankaan tuotannon ja selvitämme kustannusrakenteen.
+
+    ### Design and product development
+    We prototype and develop new products in close cooperation with our clients. We can plan the production of the fabric and estimate the costs.
   en_text: |
     ### Design and product development
     We prototype and develop new products in close cooperation with our clients. We can plan the production of the fabric and estimate the costs.
