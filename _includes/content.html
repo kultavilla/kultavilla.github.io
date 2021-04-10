@@ -11,8 +11,7 @@
 
     <div class="products-header col-sm-10">
       <img class="logo" width="90%" src="{{ "/uploads/logo-big.png" | prepend: site.baseurl }}">
-      {% assign key = page.language | append: "_text" %}
-      <h1>{{ products.title[key] }}</h1>
+      <h1>{{ products.title[page.language] }}</h1>
     </div>
   </div>
 
