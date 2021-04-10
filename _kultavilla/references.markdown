@@ -36,11 +36,16 @@ references:
       interiors
     en: Fabric collection for home deco and interiors
   description:
-    fi_text: |
+    fi_text: |-
       * [IIIIK INTO by Liina Blom](https://www.intocdc.com/) (Finland)
         Proto- ja pilot-mallien valmistus: verhokankaat Vesi ja Vauhti osaksi IIIIK INTO brändin tekstiilimallistoa. Palkinnot/IIIIK mallisto: MoOD Belgium/ Blue Drop Award 2016.
       * [VANAMO DECO](http://vanamodeco.com/) (Finland) Vanamo Deco mallisto
         Tuotekehitys ja tuotanto Vanamo tekstiilimallistoon.
+
+      * [IIIIK INTO by Liina Blom](https://www.intocdc.com/) (Finland)
+        Protos and pilot models: curtain fabrics Vesi and Vauhti for IIIIK INTO brand (IIIIK contract collection awarded by MoOD Belgium: Blue Drop Award 2016)
+      * [VANAMO DECO](http://vanamodeco.com/) (Finland) Vanamo Deco collection
+        Product development and production of textiles for Vanamo Deco collection
     en_text: |
       * [IIIIK INTO by Liina Blom](https://www.intocdc.com/) (Finland)
         Protos and pilot models: curtain fabrics Vesi and Vauhti for IIIIK INTO brand (IIIIK contract collection awarded by MoOD Belgium: Blue Drop Award 2016)
@@ -88,8 +93,6 @@ references:
   description:
     fi_text: |
       Perehdytys teolliseen kudontaan tuotesuunnittelukurssilla. Opiskelijoiden kangasmallien sovitus koneelliseen valmistukseen ja kankaiden kutominen. Kankaiden käyttökohteet vaatetus ja sisustus.
-
-      Introduction to industrial scale weaving as a part of product development courses. Reviewing and altering student fabric designs to suit weaving machines. Weaving fabrics for clothing and interior uses for:
 
       * [Aalto-yliopisto]((https://www.aalto.fi/fi/muotoilun-laitos))
       * [Metropolia](https://www.metropolia.fi)
