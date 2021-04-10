@@ -1,12 +1,12 @@
 ---
-title: Products
+title: '{"fi_text"=>"Nordic nature meets science", "en_text"=>"Nordic nature meets
+  science"}'
 position: 1
-title:
-  fi_text: Nordic nature meets science
-  en_text: Nordic nature meets science
-subtitle: 
-  fi_text: The pure Nordic nature captured into cuddlesome textiles that enhance our wellbeing.
-  en_text: The pure Nordic nature captured into cuddlesome textiles that enhance our wellbeing.
+subtitle:
+  fi_text: The pure Nordic nature captured into cuddlesome textiles that enhance our
+    wellbeing.
+  en_text: The pure Nordic nature captured into cuddlesome textiles that enhance our
+    wellbeing.
 section_info:
   fi_text: |
     # Green and healthy textiles
@@ -14,25 +14,21 @@ section_info:
     We combine the pureness of the Nordic nature with nature’s own fibres to create wovens that not only feel good but have a positive effect on wellbeing.
 
     Driven by our love of natural wool and the passion for designing functional woven textiles we have created a collection of natural materials, Kultavilla woollens. Our textiles exhibit the nature's organic structures and soft colours. These are the functional woollens either for cold winter or for milder seasons. Travel blankets are light and easy take with!
-
   en_text: |
     # Green and healthy textiles
 
     We combine the pureness of the Nordic nature with nature’s own fibres to create wovens that not only feel good but have a positive effect on wellbeing.
 
     Driven by our love of natural wool and the passion for designing functional woven textiles we have created a collection of natural materials, Kultavilla woollens. Our textiles exhibit the nature's organic structures and soft colours. These are the functional woollens either for cold winter or for milder seasons. Travel blankets are light and easy take with!
-  
 section_wool:
   fi_text: |
     # Wool, why!
 
     WOOL, such fine material that no technology can copy its features. It’s warm, soft and holds all the features of cuddliness imaginable. To make a long story short, with all its fine qualities, wool is the wonder fiber!
-
   en_text: |
     # Wool, why!
 
     WOOL, such fine material that no technology can copy its features. It’s warm, soft and holds all the features of cuddliness imaginable. To make a long story short, with all its fine qualities, wool is the wonder fiber!
-
 section_wool_content_2:
   fi_text: |
     Our mission is to bring about the best qualities of the fluffy Finnsheep wool, and the softest, untreated lambswool for your benefit, for cold as well as for milder seasons.
@@ -42,25 +38,22 @@ section_wool_content_2:
     Our mission is to bring about the best qualities of the fluffy Finnsheep wool, and the softest, untreated lambswool for your benefit, for cold as well as for milder seasons.
 
     Different combinations of wool, manufactured with traditional techniques.
-    
-    
 section_wool_image_image: uploads/wool.jpg
 wool_info:
   fi:
-    - Breathes and controls moisture
-    - Odor resitant
-    - Prevents skin allergies
-    - Regulates temperature
-    - Improves sleep routine
-    - Wrapping babies in wool.. best dreams :).
+  - Breathes and controls moisture
+  - Odor resitant
+  - Prevents skin allergies
+  - Regulates temperature
+  - Improves sleep routine
+  - Wrapping babies in wool.. best dreams :).
   en:
-    - Breathes and controls moisture
-    - Odor resitant
-    - Prevents skin allergies
-    - Regulates temperature
-    - Improves sleep routine
-    - Wrapping babies in wool.. best dreams :).
-
+  - Breathes and controls moisture
+  - Odor resitant
+  - Prevents skin allergies
+  - Regulates temperature
+  - Improves sleep routine
+  - Wrapping babies in wool.. best dreams :).
 wool_info_images_image:
 - "/uploads/icon-1.png"
 - "/uploads/icon-2.png"
@@ -88,18 +81,9 @@ products:
     Size 110 cm x 200 cm
 
     Price 270 €
-  en_text: |
-    ### Winter blanket
-
-    1001
-
-    **Talvineito** 80 % Wool - 20 % cotton (GOTS)
-
-    Natural Finnsheep wool tones. Finishing with natural dyed wool. In several wool tones.
-
-    Size 110 cm x 200 cm
-
-    Price 270 €  
+  en_text: "### Winter blanket\n\n1001\n\n**Talvineito** 80 % Wool - 20 % cotton (GOTS)\n\nNatural
+    Finnsheep wool tones. Finishing with natural dyed wool. In several wool tones.\n\nSize
+    110 cm x 200 cm\n\nPrice 270 €  \n"
   images_image:
   - "/uploads/talvineito-1.jpg"
 - fi_text: |
@@ -157,7 +141,7 @@ products:
   - "/uploads/Nummella.jpg"
   - "/uploads/Indigo%20kaarna%20Lier%20kujalla.jpg"
   Key: 
-- fi_text: |+
+- fi_text: |
     ### Shawls, giant scarves
 
     1003
@@ -404,9 +388,8 @@ gots:
 
     ### European linen (flax)
     Flax is considered to be one of the most ecological natural fibres, because just rainwater and only minimal amounts of fertilizers are needed to grow it in the humidity of the Atlantic coast. The European linen we use is of French origin, cultivated and spinned in France
-
 natural_dyeing:
-  fi_text: |2
+  fi_text: |
     # Natural dyed wool yarns - magic happens!
 
     The rich colour tones of our wool yarns are created with ecological natural dyes, utilizing as well the natural grey and brown shades of finnsheep wool. All our dyes are produced in ethical and sustainable manner.
@@ -416,7 +399,7 @@ natural_dyeing:
     * Red colours are from lac dye (_Laccifer lacca_) and madder (roots of the _Rubia tinctoria_ plant). Bright reds are isolated from resin secreted by Cochenille insect (_Coccus cacti_).
 
     Natural dyeing is done in small batches in tight collaboration with [Aurinkokehrä](http://www.aurinkokehra.fi). Our piece dyed products are hand dyed. Colour shades may vary from lot to lot, but we think that is what makes each woollen unique!
-  en_text: |2
+  en_text: |
     # Natural dyed wool yarns - magic happens!
 
     The rich colour tones of our wool yarns are created with ecological natural dyes, utilizing as well the natural grey and brown shades of finnsheep wool. All our dyes are produced in ethical and sustainable manner.
@@ -426,13 +409,11 @@ natural_dyeing:
     * Red colours are from lac dye (_Laccifer lacca_) and madder (roots of the _Rubia tinctoria_ plant). Bright reds are isolated from resin secreted by Cochenille insect (_Coccus cacti_).
 
     Natural dyeing is done in small batches in tight collaboration with [Aurinkokehrä](http://www.aurinkokehra.fi). Our piece dyed products are hand dyed. Colour shades may vary from lot to lot, but we think that is what makes each woollen unique!
-
-
 natural_dyeing_images_image:
 - "/uploads/dye-1.jpg"
 - "/uploads/dye-2.jpg"
 - "/uploads/dye-3.jpg"
-natural_fibers: 
+natural_fibers:
   fi_text: |
     # Natural fibres
 

@@ -15,8 +15,7 @@ references:
     en_text: |
       * [BY HINDERS](https://www.byhinders.com)
       * [NAMED CLOTHING](https://www.namedclothing.com/)
-  images_image:
-
+  images_image: 
 - title:
     fi: Kudotut kankaat kantoliinavälineiksi sekä lasten vaatetukseen
     en: Fabric collection for baby carriers and children clothing
@@ -43,8 +42,7 @@ references:
   - "/uploads/vanamo-5.jpg"
   - "/uploads/vanamo-6.jpg"
 - title:
-    fi: Kudotut kankaat sisustuotteita varten
-      interiors
+    fi: Kudotut kankaat sisustuotteita varten interiors
     en: Fabric collection for home deco and interiors
   description:
     fi_text: |-
@@ -107,14 +105,11 @@ references:
     fi: Muut projektit / Other projects
     en: Other projects
   description:
-    fi_text: |
-      Design museo (Helsinki) valitsi 100 esinettä itsenäisyyden juhlavuonna
-      2017, kertomaan Suomesta sekä edustamaan suomalaista elämäntyyliä  100 vuoden
-      itsenäisyyden ajalta. Vanamo kantoliinasarja valittiin edustamaan Suomen itsenäisyyden
-      vuotta 2013. 
-      
-      Näyttely ‘Life in Finland’ kiertää maailmanlaajuisesti vuosina
-      2018-2020. Voit tutustua näyttelyyn täällä: \n[100 esinettä Suomesta](https://www.100objects.fi/suomi)
+    fi_text: "Design museo (Helsinki) valitsi 100 esinettä itsenäisyyden juhlavuonna\n2017,
+      kertomaan Suomesta sekä edustamaan suomalaista elämäntyyliä  100 vuoden\nitsenäisyyden
+      ajalta. Vanamo kantoliinasarja valittiin edustamaan Suomen itsenäisyyden\nvuotta
+      2013. \n\nNäyttely ‘Life in Finland’ kiertää maailmanlaajuisesti vuosina\n2018-2020.
+      Voit tutustua näyttelyyn täällä: \\n[100 esinettä Suomesta](https://www.100objects.fi/suomi)\n"
     en_text: |
       In 2017 Finland was celebrating its 100th year of Independence. Design museum, Helsinki, collected 100 objects to represent finnish lifestyle in each year of independence. Vanamo baby wrap Vesi was selected to represent the year 2013 of Finnish Independency.
 
