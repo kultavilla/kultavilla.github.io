@@ -135,9 +135,18 @@ products:
   - "/uploads/ruska-1.jpg"
   - "/uploads/ruska-2.jpg"
   - "/uploads/ruska-3.jpg"
-- text_text: "### Decorative blanket\n\n1005/2005 Uniques\n\n66 % Wool - 33 % organic
-    cotton (GOTS)\n\nThe most beautiful blanket of  fluffy, natural dyed Finnsheep
-    wool \n\nSize 120 cm x 210 cm\n\n* Price 330 €\n"
+- text_text: |
+    ### Decorative blanket
+
+    1005/2005 Uniques
+
+    66 % Wool - 33 % organic cotton (GOTS)
+
+    Natural can be colourful! The most beautiful blanket of  fluffy, natural dyed Finnsheep wool in bright colours! Unique pieces.
+
+    Size 120 cm x 210 cm
+
+    * Price 330 €
   images_image:
   - "/uploads/winter-1.jpg"
   - "/uploads/winter-2.jpg"
