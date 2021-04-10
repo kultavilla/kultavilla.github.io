@@ -6,7 +6,8 @@ heading:
   en: Client Work
 references:
 - title:
-    fi: Kudotut kankaat kantoliinavälineiksi sekä lasten vaatetukseen
+    fi: Kudotut kankaat kantoliinavälineiksi sekä lasten vaatetukseen / Fabric collection
+      for baby carriers and children clothing
     en: Fabric collection for baby carriers and children clothing
   description:
     fi_text: "* [LIINALAPSI / WEAR A BABY](http://www.wearababy.com) Vanamo mallisto\n
@@ -31,7 +32,8 @@ references:
   - "/uploads/vanamo-5.jpg"
   - "/uploads/vanamo-6.jpg"
 - title:
-    fi: Kudotut kankaat sisustuotteita varten
+    fi: Kudotut kankaat sisustuotteita varten / Fabric collection for home deco and
+      interiors
     en: Fabric collection for home deco and interiors
   description:
     fi_text: |
@@ -46,13 +48,17 @@ references:
         Product development and production of textiles for Vanamo Deco collection
   images_image: 
 - title:
-    fi: Entisöintiprojektit
+    fi: Entisöintiprojektit / Renovation projects
     en: Renovation projects
   description:
     fi_text: |
       [The Parliament of Finland](https://www.eduskunta.fi/EN/tietoaeduskunnasta/peruskorjaus/Pages/default.aspx)
       Naisten Keltainen Salonki ja Naisten Harmaa Salonki, kalusteiden entisöintityö v. 2016-2017.
       Sisustuskankaita entisöitäviin kalusteisiin Irma Kukkasjärven 70-luvulla suunnittelemien kankaiden pohjalta. Alkuperäiset kankaat suunnitellut 30-luvulla Maija Kansanen.
+
+      [The Parliament of Finland](https://www.eduskunta.fi/EN/tietoaeduskunnasta/peruskorjaus/Pages/default.aspx)
+      Interior textiles for a restoration project.
+      Reconstruction of interior fabrics designed by Irma Kukkasjärvi (original fabrics by Maija Kansanen): farbics for the Yellow room and for the Grey Room (opening 2017)
     en_text: |
       [The Parliament of Finland](https://www.eduskunta.fi/EN/tietoaeduskunnasta/peruskorjaus/Pages/default.aspx)
       Interior textiles for a restoration project.
@@ -66,6 +72,11 @@ references:
         Materiaalimallit uusilla selluloosapohjaisilla Arbron kuitulangoilla
       * [SPINNOVA](https://spinnova.fi/)
         Testaaminen ja materiaalimallit Spinnovan uusilla selluloosapohjaisilla langoilla, jotka on valmistettu innovatiivisella ja ympäristöystävällisellä Spinnovan pilot-vaiheen tuotantoprosessilla
+
+      * [KAICELL FIBERS](http://www.fi.kaicellfibers.fi/) (Finland)
+        Material testing with innovative novel cellulose Arbron fiberyarns
+      * [SPINNOVA](https://spinnova.fi/) (Finland)
+        Supportive studies and material testing with Spinnova’s novel cellulose-based eco-friendly Spinnova fiberyarns
     en_text: |
       * [KAICELL FIBERS](http://www.fi.kaicellfibers.fi/) (Finland)
         Material testing with innovative novel cellulose Arbron fiberyarns
@@ -78,6 +89,8 @@ references:
     fi_text: |
       Perehdytys teolliseen kudontaan tuotesuunnittelukurssilla. Opiskelijoiden kangasmallien sovitus koneelliseen valmistukseen ja kankaiden kutominen. Kankaiden käyttökohteet vaatetus ja sisustus.
 
+      Introduction to industrial scale weaving as a part of product development courses. Reviewing and altering student fabric designs to suit weaving machines. Weaving fabrics for clothing and interior uses for:
+
       * [Aalto-yliopisto]((https://www.aalto.fi/fi/muotoilun-laitos))
       * [Metropolia](https://www.metropolia.fi)
       * Jonathan Ingberg/ Uni of St. Martins, Lontoo. Villakankaiden suunnittelua ja valmistus: pienlammastilan tuottamaan villaan pohjautuvat vaatetuskankaat osana miesten vaatemallistoa (lopputyö 2017)
@@ -89,16 +102,19 @@ references:
       * Jonathan Ingberg/ Uni of St. Martins, London. Creation of woollen clothing fabrics included in Jonathan’s men fashion Graduate collection 2017
   images_image: 
 - title:
-    fi: Muut projektit
+    fi: Muut projektit / Other projects
     en: Other projects
   description:
-    fi_text: 'Design museo (Helsinki) valitsi 100 esinettä itsenäisyyden juhlavuonna
+    fi_text: "Design museo (Helsinki) valitsi 100 esinettä itsenäisyyden juhlavuonna
       2017, kertomaan Suomesta sekä edustamaan suomalaista elämäntyyliä  100 vuoden
       itsenäisyyden ajalta. Vanamo kantoliinasarja valittiin edustamaan Suomen itsenäisyyden
       vuotta 2013. Näyttely ‘Life in Finland’ kiertää maailmanlaajuisesti vuosina
-      2018-2020. Voit tutustua näyttelyyn täällä: [100 esinettä Suomesta](https://www.100objects.fi/suomi)
-
-'
+      2018-2020. Voit tutustua näyttelyyn täällä: \n[100 esinettä Suomesta](https://www.100objects.fi/suomi)\n\nIn
+      2017 Finland was celebrating its 100th year of Independence. Design museum,
+      Helsinki, collected 100 objects to represent finnish lifestyle in each year
+      of independence. Vanamo baby wrap Vesi was selected to represent the year 2013
+      of Finnish Independency.\n\nThe exhibition ‘Life in Finland’ is shown worldwide
+      during 2017-2020. You can make a tour here [100 Objects from Finland](https://www.100objects.fi/)\n"
     en_text: |
       In 2017 Finland was celebrating its 100th year of Independence. Design museum, Helsinki, collected 100 objects to represent finnish lifestyle in each year of independence. Vanamo baby wrap Vesi was selected to represent the year 2013 of Finnish Independency.
 
