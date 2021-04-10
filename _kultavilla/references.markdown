@@ -64,7 +64,7 @@ references:
       Interior textiles for a restoration project.
       Reconstruction of interior fabrics designed by Irma Kukkasjärvi (original fabrics by Maija Kansanen): farbics for the Yellow room and for the Grey Room (opening 2017)
 - title:
-    fi: Tutkimusprojektit
+    fi: Tutkimusprojektit / Research projects
     en: Research projects
   description:
     fi_text: |
@@ -83,7 +83,7 @@ references:
       * [SPINNOVA](https://spinnova.fi/) (Finland)
         Supportive studies and material testing with Spinnova’s novel cellulose-based eco-friendly Spinnova fiberyarns
 - title:
-    fi: Työpajat opiskelijaryhmille
+    fi: Työpajat opiskelijaryhmille / Student workshops
     en: Student workshops
   description:
     fi_text: |
