@@ -1,8 +1,9 @@
 ---
-title_text: 
+title: Products
+position: 1
+title_text:
   fi: Nordic nature meets science
   en: Nordic nature meets science
-position: 1
 subtitle:
   fi_text: The pure Nordic nature captured into cuddlesome textiles that enhance our
     wellbeing.
