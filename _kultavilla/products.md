@@ -122,11 +122,11 @@ products:
 
     2002 Uniques
 
-    * **Metsä**
+    * **Mummola**
 
       66% Wool - 33% cotton (GOTS)
 
-      A colourful family! Blend of fluffy, natural dyed Finnsheep wool in colourful autumn shades. Unique pieces!
+      A colourful family! Blend of extra soft and fluffy, natural dyed Finnsheep wool in colourful shades. In use this wool gets softer and softer.. and soon feels you cosy such in old times. Unique pieces!
 
      Size 120 cm x 210 cm
 
