@@ -16,12 +16,16 @@ section_info:
     We combine the pureness of the Nordic nature with nature’s own fibres to create wovens that not only feel good but have a positive effect on wellbeing.
 
     Driven by our love of natural wool and the passion for designing functional woven textiles we have created a collection of natural materials, Kultavilla woollens. Our textiles exhibit the nature's organic structures and soft colours. These are the functional woollens either for cold winter or for milder seasons. Travel blankets are light and easy take with!
+    
+    [Weecos-shop](https://www.weecos.com/fi/kultavilla)
   en_text: |
     # Green and healthy textiles
 
     We combine the pureness of the Nordic nature with nature’s own fibres to create wovens that not only feel good but have a positive effect on wellbeing.
 
     Driven by our love of natural wool and the passion for designing functional woven textiles we have created a collection of natural materials, Kultavilla woollens. Our textiles exhibit the nature's organic structures and soft colours. These are the functional woollens either for cold winter or for milder seasons. Travel blankets are light and easy take with!
+    
+    [Weecos-shop](https://www.weecos.com/en/kultavilla)
 section_wool:
   fi_text: |
     # Wool, why!
