@@ -10,7 +10,6 @@ slogan_text:
 
     Kudomme kankaat piensarjoina studiossamme Lohjan Virkkalassa.
 
-    We provide small series of individual fabrics woven at our workshop in Lohja, Finland.
   en_text: 'We provide small series of individual fabrics woven at our workshop in
     Lohja, Finland.
 

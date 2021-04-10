@@ -25,10 +25,20 @@ mobile-menu:
   fi: Valikko
   en: Menu
 navigation:
-- Kultavilla woollens
-- Services
-- Palvelut
-- Tuotteet ja kankaat
+  fi:
+  - text: Tuotteet
+    path: /
+  - text: Palvelut
+    path: /palvelut
+  en:
+  - text: Products
+    path: /index-en
+  - text: Services
+    path: /services
+weecos:
+  fi: https://www.weecos.com/fi/kultavilla
+  en: https://www.weecos.com/en/kultavilla
 name: misc
+
 ---
 

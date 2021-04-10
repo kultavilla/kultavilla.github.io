@@ -11,14 +11,16 @@
 
     <div class="products-header col-sm-10">
       <img class="logo" width="90%" src="{{ "/uploads/logo-big.png" | prepend: site.baseurl }}">
-      <h1>{{ products.title_text }}</h1>
+      {% assign key = page.language | append: "_text" %}
+      <h1>{{ products.title[key] }}</h1>
     </div>
   </div>
 
   <section id="slogan" class="content-section">
     <div class="slogan-section">
       <div class="col-sm-10 col-sm-offset-1">
-        <h3>{{ products.subtitle_text }}</h3>
+        {% assign key = page.language | append: "_text" %}
+        <h3>{{ products.subtitle[key] }}</h3>
       </div>
     </div>
   </section>
@@ -27,16 +29,39 @@
 
   <section class="content-section">
     <div class="col-sm-10 col-sm-offset-1">
-      {{ products.section_info_text | markdownify }}
+      {% assign key = page.language | append: "_text" %}
+      {{ products.section_info[key] | markdownify }}
     </div>
+  </section>
+
+  <div class="clearfix"></div>
+
+  <section class="container content-section products">
+    {% assign key = page.language | append: "_text" %}
+    {% for p in products.products %}
+      <div class="col-lg-10 col-lg-offset-1">
+        <div class="col-xs-12 text">
+          {{ p[key] | markdownify }}
+        </div>
+        <div class="clearfix"></div>
+        {% for img in p.images_image %}
+          <div class="reference portfolio-box2 product-info">
+            <div class="col-sm-4 col-ms-6 col-xs-12 image">
+              <img src="{{ img | prepend: site.baseurl }}" class="img-responsive2" alt="">
+            </div>
+          </div>
+        {% endfor %}
+        <div class="clearfix"></div>
+      </div>
+    {% endfor %}
   </section>
 
   <div class="clearfix"></div>
 
   <section class="content-section wool">
     <div class="col-sm-10 col-sm-offset-1">
-      <img src="{{ products.section_wool_image_image | prepend: site.baseurl }}">
-      {{ products.section_wool_text | markdownify }}
+      {% assign key = page.language | append: "_text" %}
+      {{ products.section_wool[key] | markdownify }}
     </div>
 
     <div class="clearfix"></div>
@@ -44,66 +69,46 @@
     <div class="col-sm-10 col-sm-offset-1 wool-info-wrapper">
       <ul class="wool-info">
         {% assign i = 0 %}
-        {% for info in products.wool_info %}
-        <li class="col-sm-6 col-xs-12">
-          <div class="wool-info-icon"><img src="{{ products.wool_info_images_image[i] | prepend: site.baseurl }}" width="168px"></div> 
-          <div class="wool-info-text"><p>{{ info }}</p></div>
-        </li>
-        {% assign i = i | plus:1 %}
+        {% for info in products.wool_info[page.language] %}
+          <li class="col-sm-6 col-xs-12">
+            <div class="wool-info-icon"><img src="{{ products.wool_info_images_image[i] | prepend: site.baseurl }}" width="168px"></div>
+            <div class="wool-info-text"><p>{{ info }}</p></div>
+          </li>
+          {% assign i = i | plus:1 %}
         {% endfor %}
       </ul>
     </div>
     
     <div class="col-sm-10 col-sm-offset-1">
-      <p>{{ products.section_wool_content_2_text | markdownify }}</p>
+      {% assign key = page.language | append: "_text" %}
+      <p>{{ products.section_wool_content_2[key] | markdownify }}</p>
     </div>
   </section>
 
   <div class="clearfix"></div>
 
   <section class="content-section dyeing">
+    {% assign key = page.language | append: "_text" %}
     <div class="col-sm-10 col-sm-offset-1">
-      {{ products.natural_dyeing_text | markdownify }}
+      {{ products.natural_dyeing[key] | markdownify }}
       <div class="clearfix"></div>
       {% for img in products.natural_dyeing_images_image %}
-      <div class="reference portfolio-box2 product-info">
-        <div class="col-sm-4 col-ms-6 col-xs-12 image">
-          <img src="{{ img | prepend: site.baseurl }}" class="img-responsive2" alt="">
+        <div class="reference portfolio-box2 product-info">
+          <div class="col-sm-4 col-ms-6 col-xs-12 image">
+            <img src="{{ img | prepend: site.baseurl }}" class="img-responsive2" alt="">
+          </div>
         </div>
-      </div>
       {% endfor %}
     </div>
   </section>
-
-  <div class="clearfix"></div>
-
-  <section class="container content-section products">
-    {% for p in products.products %}
-    
-    <div class="col-lg-10 col-lg-offset-1">
-      <div class="col-xs-12 text">      
-        {{ p.text_text | markdownify }}
-      </div>
-      <div class="clearfix"></div>
-      {% for img in p.images_image %}
-      <div class="reference portfolio-box2 product-info">
-        <div class="col-sm-4 col-ms-6 col-xs-12 image">
-          <img src="{{ img | prepend: site.baseurl }}" class="img-responsive2" alt="">
-        </div>
-      </div>
-      {% endfor %}
-      <div class="clearfix"></div>
-    </div>
-    {% endfor %}
-  </section>
-
 
   <div class="clearfix"></div>
 
   <section class="content-section washing">
     <div class="col-sm-10 col-sm-offset-1">
       <img src="{{ "/uploads/handwash.png" | prepend: site.baseurl }}" alt="Washing instructions">
-      {{ products.washing_text | markdownify }}
+      {% assign key = page.language | append: "_text" %}
+      {{ products.washing[key] | markdownify }}
     </div>
   </section>
 
@@ -112,7 +117,8 @@
 
   <section class="content-section natural-fibers">
     <div class="col-sm-10 col-sm-offset-1">
-      {{ products.natural_fibers | markdownify }}
+      {% assign key = page.language | append: "_text" %}
+      {{ products.natural_fibers[key] | markdownify }}
     </div>
   </section>
 
@@ -120,7 +126,8 @@
 
   <section class="content-section gots">
     <div class="col-sm-10 col-sm-offset-1">
-      {{ products.gots_text | markdownify }}
+      {% assign key = page.language | append: "_text" %}
+      {{ products.gots[key] | markdownify }}
     </div>
   </section>
 

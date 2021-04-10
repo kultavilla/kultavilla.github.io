@@ -142,6 +142,12 @@ a:focus {
         &.instagram {
             font-size: 22px;
         }
+        &.lang {
+            font-family: sans-serif;
+            font-weight: bold;
+            font-size: 16px;
+            text-transform: uppercase;
+        }
         a {
             -webkit-transition: background 0.3s ease-in-out;
             -moz-transition: background 0.3s ease-in-out;
@@ -180,16 +186,14 @@ a:focus {
             &.weecos a {
                 padding-top: 11px;
             }
-            a {                
-                padding-bottom: 0;
-                padding-top: 17px;
-                &.language {
-                    border-left: 1px solid rgba(255, 255, 255, 0.6);
-                    font-size: 14px;
-                    margin-left: 10px;
-                    margin-top: 10px;
-                    line-height: 0;
+            &.lang {
+                a {
+                    padding-left: 5px;
                 }
+            }
+            a {                
+                padding-bottom: 0; 
+                padding-top: 17px;
                 span {
                     display: none;
                 }

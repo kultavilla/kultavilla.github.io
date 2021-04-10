@@ -27,7 +27,12 @@
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
             <i class="fa fa-bars"></i>
           </button>
-          <a class="navbar-brand" href="{{ "/" | prepend:site.baseurl }}">
+          {% if page.language == 'fi' %}
+            {% assign home = "/" %}
+          {% else %}
+            {% assign home = "/index-en" %}
+          {% endif %}
+          <a class="navbar-brand" href="{{ home | prepend:site.baseurl }}">
             {% assign intro = site.kultavilla | where:"name", "intro"  | first %}
             <img width="180" src="{{ intro.logo_image | prepend:site.baseurl }}" alt="Kultavilla" />
           </a>
@@ -38,17 +43,19 @@
             <li class="hidden active">
               <a href="#page-top"></a>
             </li>
+            {% for navi in misc.navigation[page.language] %}
             <li>
-              <a href="{{ "/" | prepend:site.baseurl }}">{{ misc.navigation[0] }}</a>
+              <a href="{{ navi.path | prepend:site.baseurl }}">{{ navi.text }}</a>
             </li>
-            <li>
-              <a href="{{ "/services/" | prepend:site.baseurl }}">{{ misc.navigation[1] }}</a>
-            </li>
-            <li>
-              <a href="{{ "/palvelut/" | prepend:site.baseurl }}">{{ misc.navigation[2] }}</a>
-            </li>
-            <li class="weecos"><a href="https://www.weecos.com/kultavilla" title="Weecos marketplace"><i class="fa fa-shopping-cart"></i><span> Weecos marketplace</span></a></li>
+            {% endfor %}
+            <li class="weecos"><a href="{{ misc.weecos[page.language] }}" title="Weecos marketplace"><i class="fa fa-shopping-cart"></i><span> Weecos marketplace</span></a></li>
             <li class="instagram"><a href="https://www.instagram.com/kultavilla" title="Instagram"><i class="fa fa-instagram"></i><span> Instagram</span></a></li>
+            {% if page.language == 'fi' %}
+              {% assign lang = 'en' %}
+            {% else %}
+              {% assign lang = 'fi' %}
+            {% endif %}
+            <li class="lang"><a href="{{ misc.navigation[lang][0].path }}">{{ lang }}</a></li>
           </ul>
         </div>
       </div>
