@@ -2,7 +2,7 @@
 title: Referenssit
 position: 3
 heading:
-  fi: Asiakastyöt
+  fi: Asiakastyöt / Client Work
   en: Client Work
 references:
 - title:
