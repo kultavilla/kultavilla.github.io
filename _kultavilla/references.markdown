@@ -11,6 +11,7 @@ references:
   description:
     fi_text: |
       * [BY HINDERS](https://www.byhinders.com)
+      Design and manufacturing fabrics for Unisex Fashion collection for BYHINDERS, a new Finnish Fashion brand. With craftsmanship and high quality materials like local wool and natural materials Designer Jonathan Ingberg aims to reflect systemic change on the Fashion industry.
       * [NAMED CLOTHING](https://www.namedclothing.com/)
     en_text: |
       * [BY HINDERS](https://www.byhinders.com)
@@ -38,9 +39,9 @@ references:
   - "/uploads/BYHINDERS%20Villapuku.jpg"
   - "/uploads/Villakangasrullat_.jpg"
   - "/uploads/BYHINDERS_Takki.jpg"
-  - "/uploads/vanamo-4.jpg"
-  - "/uploads/vanamo-6.jpg"
   - "/uploads/vanamo-5.jpg"
+  - "/uploads/vanamo5.jpg"
+  - "/uploads/vanamo6.jpg"
 - title:
     fi: Kudotut kankaat sisustuotteita varten interiors
     en: Fabric collection for home deco and interiors
