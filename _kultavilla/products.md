@@ -80,16 +80,16 @@ products:
 
     1001
 
-    **Talvineito** 80 % Wool - 20 % cotton (GOTS)
+    **Talvineito** 80 % Wool - 20 % organic cotton (GOTS)
 
     Natural Finnsheep wool tones. Finishing with natural dyed wool. In several wool tones.
 
     Size 110 cm x 200 cm
 
     Price 270 €
-  en_text: "### Winter blanket\n\n1001\n\n**Talvineito** 80 % Wool - 20 % cotton (GOTS)\n\nNatural
-    Finnsheep wool tones. Finishing with natural dyed wool. In several wool tones.\n\nSize
-    110 cm x 200 cm\n\nPrice 270 €  \n"
+  en_text: "### Winter blanket\n\n1001\n\n**Talvineito** 80 % Wool - 20 % organic
+    cotton (GOTS)\n\nNatural Finnsheep wool tones. Finishing with natural dyed wool.
+    In several wool tones.\n\nSize 110 cm x 200 cm\n\nPrice 270 €  \n"
   images_image:
   - "/uploads/talvineito-1.jpg"
 - fi_text: |
@@ -97,7 +97,7 @@ products:
 
     1002
 
-    **Metsän poika** 70 % Wool - 30 % cotton (GOTS)
+    **Metsän poika** 70 % Wool - 30 % organic cotton (GOTS)
 
     Finnsheep wool in natural tones.
 
@@ -109,7 +109,7 @@ products:
 
     1002
 
-    **Metsän poika** 70 % Wool - 30 % cotton (GOTS)
+    **Metsän poika** 70 % Wool - 30 % organic cotton (GOTS)
 
     Finnsheep wool in natural tones.
 
@@ -123,7 +123,7 @@ products:
 
     1006/2006/3006
 
-    * **Kaarna** 66% Wool - 33% cotton (GOTS)
+    * **Kaarna** 66% Wool - 33% organic cotton (GOTS)
 
     Size 50 x 180 cm
 
@@ -135,7 +135,7 @@ products:
 
     1006/2006/3006
 
-    * **Kaarna** 66% Wool - 33% cotton (GOTS)
+    * **Kaarna** 66% Wool - 33% organic cotton (GOTS)
 
     Size 50 x 180 cm
 
@@ -152,7 +152,7 @@ products:
 
     1003
 
-    **Jäkälä** 66 % Wool - 33 % cotton (GOTS)
+    **Jäkälä** 66 % Wool - 33 % organic cotton (GOTS)
 
     Natural Finnsheep woollen colours
 
@@ -164,7 +164,7 @@ products:
 
     1003
 
-    **Jäkälä** 66 % Wool - 33 % cotton (GOTS)
+    **Jäkälä** 66 % Wool - 33 % organic cotton (GOTS)
 
     Natural Finnsheep woollen colours
 
@@ -181,7 +181,7 @@ products:
 
     3003
 
-    * **Karjala** 66 % Wool - 33 % cotton (GOTS)
+    * **Karjala** 66 % Wool - 33 % organic cotton (GOTS)
 
     Size 100 cm x 180 cm
 
@@ -191,7 +191,7 @@ products:
 
     3003
 
-    * **Karjala** 66 % Wool - 33 % cotton (GOTS)
+    * **Karjala** 66 % Wool - 33 % organic cotton (GOTS)
 
     Size 100 cm x 180 cm
 
@@ -207,7 +207,7 @@ products:
 
     * **Mummola**
 
-      66% Wool - 33% cotton (GOTS)
+      66% Wool - 33% organic cotton (GOTS)
 
       A colourful family! Blend of extra soft and fluffy, natural dyed Finnsheep wool in colourful shades. In use this wool gets softer and softer.. and soon feels you cosy such in old times. Unique pieces!
 
@@ -264,7 +264,7 @@ products:
 
     1011
 
-    70 % Wool - 30 % cotton (GOTS)
+    70 % Wool - 30 % organic cotton (GOTS)
 
     Finn sheep wool with natural dyed wool finishing.
 
