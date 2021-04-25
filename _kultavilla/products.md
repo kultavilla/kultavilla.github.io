@@ -446,7 +446,7 @@ natural_fibers:
     Lambswool is the soft 'baby merino wool' from the very first sheering of lambs. Our lambswool yarns are made in a italian fine wool spinnery. The wool is untreated, and thus without the finishing chemicals and polymers which are usually used to make 'easy care' products. We think that wool's natural properties make wool georgous! Use of baby merino wool makes our woollens soft and gentle to skin. Lambswool woollens are ideal for babies and can be used as scarves or throws during milder seasons.
 logo_image: "/uploads/logo.png"
 intro_image:
-- "/uploads/Giant%20Scarf%20Luumu.jpg"
+- "/uploads/1400x600%20l%C3%A4hikuva.jpg"
 name: products
 ---
 
