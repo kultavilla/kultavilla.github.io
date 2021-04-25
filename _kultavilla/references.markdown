@@ -15,12 +15,13 @@ references:
       ja luonnon materiaalit yhtenäiseksi mallistoksi; ulkotakit ja housut, puserot
       ja tunikat. Kankaiden materiaalit: paikallinen villa, eurooppalainen pellava,
       luomupuuvilla.   \n* [NAMED CLOTHING](https://www.namedclothing.com/)\nVaatetuskankaiden
-      suunnittelu ja valmistus kaavamalleihin Luova-tunika: kankaiden myyntinimi 'Kulta-
-      Herringbone' ja 'Hopea-Herringbone'.\n"
+      suunnittelu ja valmistus kaavamalleihin Luova-tunika ja Luova-mekko: kankaiden
+      myyntinimi 'Kulta- Herringbone' ja 'Hopea-Herringbone'.\n"
     en_text: |
       * [BY HINDERS](https://www.byhinders.com)
       Design and manufacturing fabrics for Unisex Fashion collection for BYHINDERS, a new Finnish Fashion brand. With craftsmanship and high quality materials like local wool and natural materials Designer Jonathan Ingberg aims to reflect systemic change on the Fashion industry.
-      * [NAMED CLOTHING](https://www.namedclothing.com/)
+      * [NAMED CLOTHING]
+      Design and manufacturing clothing fabrics for Luova dress and Luova tunic clothing patterns. Materials: french linen and GOTS- certified organic cotton (https://www.namedclothing.com/)
   images_image: 
 - title:
     fi: Kudotut kankaat kantoliinavälineiksi sekä lasten vaatetukseen
