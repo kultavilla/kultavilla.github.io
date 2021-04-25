@@ -20,7 +20,7 @@ references:
     en_text: |
       * [BY HINDERS](https://www.byhinders.com)
       Design and manufacturing fabrics for Unisex Fashion collection for BYHINDERS, a new Finnish Fashion brand. With craftsmanship and high quality materials like local wool and natural materials Designer Jonathan Ingberg aims to reflect systemic change on the Fashion industry.
-      * [NAMED CLOTHING]
+      * [NAMED CLOTHING](https://www.namedclothing.com/)
       Design and manufacturing clothing fabrics for Luova dress and Luova tunic clothing patterns. Materials: french linen and GOTS- certified organic cotton (https://www.namedclothing.com/)
   images_image: 
 - title:
