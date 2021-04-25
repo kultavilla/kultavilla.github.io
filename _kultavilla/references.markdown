@@ -35,12 +35,12 @@ references:
       * [AGTUVI / KIVAT](https://www.kivatshop.fi/) (Finland)
         Production of organic cotton fabrics for KIVAT children clothing brand
   images_image:
-  - "/uploads/vanamo-1.jpg"
-  - "/uploads/vanamo-2.jpg"
-  - "/uploads/vanamo-3.jpg"
+  - "/uploads/BYHINDERS%20Villapuku.jpg"
+  - "/uploads/Villakangasrullat_.jpg"
+  - "/uploads/BYHINDERS_Takki.jpg"
   - "/uploads/vanamo-4.jpg"
-  - "/uploads/vanamo-5.jpg"
   - "/uploads/vanamo-6.jpg"
+  - "/uploads/vanamo-5.jpg"
 - title:
     fi: Kudotut kankaat sisustuotteita varten interiors
     en: Fabric collection for home deco and interiors
