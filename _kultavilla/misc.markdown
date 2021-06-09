@@ -26,15 +26,15 @@ mobile-menu:
   en: Menu
 navigation:
   fi:
-  - text: Tuotteet
-    path: "/"
   - text: Palvelut
-    path: "/palvelut"
+    path: "/"
+  - text: Tuotteet
+    path: "/tuotteet"
   en:
-  - text: Products
-    path: "/index-en"
   - text: Services
-    path: "/services"
+    path: "/index-en"
+  - text: Products
+    path: "/products"
 weecos:
   fi: https://www.weecos.com/fi/kultavilla
   en: https://www.weecos.com/en/kultavilla

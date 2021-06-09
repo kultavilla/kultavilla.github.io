@@ -3,4 +3,4 @@ language: en
 layout: page
 ---
 
-{% include content.html language=page.language %}
+{% include services.html language=page.language %}
