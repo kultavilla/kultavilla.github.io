@@ -52,11 +52,11 @@ section_wool_image_image: uploads/wool.jpg
 wool_info:
   fi:
   - Hengittää ja säätelee kosteutta
-  - Estä hajun  muodostumista
+  - Estää hajun  muodostumista
   - Estää ihoallergioita
   - Lämmittää
-  - Parantaa unta
-  - Vauvan kääriminen villaan.. parhaat unet :).
+  - Parantaa unen laatua
+  - Vauvalle villassa parhaat unet :).
   en:
   - Breathes and controls moisture
   - Odor resitant
@@ -109,9 +109,9 @@ products:
 
     Sopivasti kevyt peitto mukaan otettavaksi. Suomen lampaan villaa luonnollisissa sävyissä.
 
-    Size 120 cm x 180 cm
+    Koko 120 cm x 180 cm
 
-    Price 162 €
+    Hinta 162 €
   en_text: |
     ### Travel blanket
 
@@ -136,8 +136,8 @@ products:
     Koko 50 x 180 cm
 
     * 1006 Hinta 89 € Luonnolliset sävyt
-    * 2006 Price 105 € raidalliset
-    * 3006 Price 125 € Käsinvärjätty, uniikki-kappaleita
+    * 2006 Hinta 105 € raidalliset
+    * 3006 Hinta 125 € Käsinvärjätty, uniikki-kappaleita
   en_text: |
     ### Autumn scarves, winter scarves
 
@@ -180,7 +180,7 @@ products:
 
     3003
 
-    * **----** 66 % Villaa - 33 % luomupuuvillaa (GOTS)
+    ***   ** 66 % Villaa - 33 % luomupuuvillaa (GOTS)
 
     Koko 100 cm x 180 cm
 
@@ -190,7 +190,7 @@ products:
 
     3003
 
-    * **-----** 66 % Wool - 33 % organic cotton (GOTS)
+    ***   ** 66 % Wool - 33 % organic cotton (GOTS)
 
     Size 100 cm x 180 cm
 
@@ -201,7 +201,7 @@ products:
   - "/uploads/thumb_IMG_2706_2_1024.jpg"
 - fi_text: "### Neliöhuvit\n\n1005/2005 \n\n66 % Villaa - 33 % luomupuuvillaa (GOTS)\n\nMonikäyttöinen
     neliöhuivi - sopii hartiahuiviksi tai kaulahuiviksi. Suomen lampaan villaa luonnon
-    väreissä. Koristeena väriraita luonnon värjättyä villaa. \n\nSize 120 cm x 120
+    väreissä. Koristeena väriraita luonnon värjättyä villaa. \n\nKoko 120 cm x 120
     cm\n\n* Hinta 110 €\n"
   en_text: "### Scarf, square\n\n1005/2005 \n\n66 % Wool - 33 % organic cotton (GOTS)\n\nAn
     multipurpose square scarf - use as a shawl or scarf. Finnsheep wool in natural
@@ -209,20 +209,10 @@ products:
   images_image:
   - "/uploads/winter-1.jpg"
   - "/uploads/winter-2.jpg"
-- fi_text: |
-    ### Winter blankets
-
-    2002 Uniques
-
-    * **Mummola**
-
-      66% Wool - 33% organic cotton (GOTS)
-
-      A colourful family! Blend of extra soft and fluffy, natural dyed Finnsheep wool in colourful shades. In use this wool gets softer and softer.. and soon feels you cosy such in old times. Unique pieces!
-
-     Size 120 cm x 210 cm
-
-     Price 330 €
+- fi_text: "### Villapeitto\n\n2002 \n\n* **Mummola**\n\n  66% Villaa - 33% luomupuuvillaa
+    (GOTS)\n\n  Värikäs perhe! Erittäin pehmyt ja lämmin peitto, joka on pehmeä ihoa
+    vasten. Pehmenee ja pehmenee käytössä. Voi nyppyyntyä ahkerassa käytössä.\n\nKoko
+    120 cm x 210 cm\n\nHinta 330 €\n"
   en_text: |
     ### Winter blankets
 
@@ -242,7 +232,7 @@ products:
   - "/uploads/ruska-2.jpg"
   - "/uploads/ruska-3.jpg"
 - fi_text: "### Kevytpeitot lapsille\n\n1011\n\n70 % Villaa - 30 % luomupuuvillaa
-    (GOTS)\n\nKevytpeitto. Viimeistely luonnon värjätyllä villalla.\n\nSize 100 x
+    (GOTS)\n\nKevytpeitto. Viimeistely luonnon värjätyllä villalla.\n\nKoko 100 x
     170 cm\n1011 Hinta 162 € \n"
   en_text: "### Junior blankets\n\n1011\n\n70 % Wool - 30 % cotton (GOTS)\n\nFinn
     sheep wool with natural dyed wool finishing.\n\nSize 100 x 170 cm\n\n1011 Price
@@ -260,7 +250,7 @@ products:
     Koko 100 x 100 cm
 
     * 1010 Hinta 89 € Luonnolliset värit
-    * 3010 Price 125 € Käsinvärjätty indigolla, uniikkikappaleet
+    * 3010 Hinta 125 € Käsinvärjätty indigolla, uniikkikappaleet
   en_text: |
     ### Baby blankets
 
