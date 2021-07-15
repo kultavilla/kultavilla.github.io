@@ -310,9 +310,9 @@ products:
   - "/uploads/dye-2.jpg"
 washing:
   fi_text: |
-    # Washing instructions
+    # Pesuohjeet
 
-    Taking care of wool is usually perceived difficult, but we highly disagree. Wool’s natural wax, lanolin, is coating wool fibre’s, preventing woollens becoming dirty. Usually keeping your woollens in fresh air for a while, will be enough. If you think that your woollens need a wash: ‘Hand wash, rinse, spin and let it dry’ is the key.
+    Villan hoito koetaan yleensä vaikeaksi, mutta olemme hyvin eri mieltä. Villan luonnollinen vaha, lanoliini, päällystää villakuituja, mikä estää villan likaantumisen. Yleensä villan pitäminen raikkaassa ilmassa jonkin aikaa riittää. Jos luulet, että villatuotteesi tarvitsee pesua, hoito-ohje on käsinpesu, huuhtele, linkoa ja anna kuivua. Voit käyttää mietoa saippuaa.
 
     ### Scarves/throws/blankets 100%  wool
 
@@ -368,30 +368,23 @@ washing:
 
     **Handle your woollens with extra care - or sheep happens!**
 gots:
-  fi_text: |2
-
-    # GOTS and BEST (Naturtextil IVN certified Best)certified Organic wool
-
-    BEST represents the highest currently achievable level of production in accordance with ecology and social accountability. BEST certification limits the number of conventional chemicals and treatments in the production chain. The 100 % organic wool fibres originate from certified organic animal husbandry (kbT). Since BEST is a very strict production certificate, it is only logical that just few yarns and textile products can meet this certification. Our aim is to use BEST certified yarns in our products, when possible. We use BEST certified wool yarns made by a German spinnery specialised in high quality woollen yarns. The colour tones are custom tailored for our use.
-
-    ### Organic cotton (GOTS certified)
-    The GOTS standard ensures environmentally and socially sustainable manufacturing of cotton all the way from the fields to yarns. We buy our organic cotton from a German spinnery, specializing in fine cotton yarns. We prefer undyed, raw white cotton to minimise the use of chemicals in cotton processing. The raw white cotton is the softest one there is!
-
-
-    ### European linen (flax)
-    Flax is considered to be one of the most ecological natural fibres, because just rainwater and only minimal amounts of fertilizers are needed to grow it in the humidity of the Atlantic coast. The European linen we use is of French origin, cultivated and spinned in France
+  fi_text: "\n\n### Luomupuuvilla (GOTS sertifioitu)\nGOTS-standardi varmistaa puuvillan
+    ekologisen ja sosiaalisen kestävän valmistuksen aina pellolta langoille. Ostamme
+    luomupuuvillaa saksalaisesta kehräämöstä, joka on erikoistunut hienoihin puuvillalankoihin.
+    Luomupuuvillasa myös värjääminen tehdään sertifioiduilla turvallisilla kemikaaleilla.
+    Värjäämätön, raakavalkoinen puuvilla minimoi kemikaalien käytön puuvillan käsittelyssä.
+    \n\n\n### Eurooppalainen pellava \nPellavaa pidetään yhtenä ekologisimmista luonnonkuiduista,
+    koska sen kasvattamiseen Atlantin rannikon kosteudessa tarvitaan vain sadevettä
+    ja vain vähän lannoitteita. Käyttämämme pellava on ranskalaista alkuperää, viljelty
+    Ranskassa.\n\n"
   en_text: |2
 
-    # GOTS and BEST (Naturtextil IVN certified Best)certified Organic wool
-
-    BEST represents the highest currently achievable level of production in accordance with ecology and social accountability. BEST certification limits the number of conventional chemicals and treatments in the production chain. The 100 % organic wool fibres originate from certified organic animal husbandry (kbT). Since BEST is a very strict production certificate, it is only logical that just few yarns and textile products can meet this certification. Our aim is to use BEST certified yarns in our products, when possible. We use BEST certified wool yarns made by a German spinnery specialised in high quality woollen yarns. The colour tones are custom tailored for our use.
-
     ### Organic cotton (GOTS certified)
     The GOTS standard ensures environmentally and socially sustainable manufacturing of cotton all the way from the fields to yarns. We buy our organic cotton from a German spinnery, specializing in fine cotton yarns. We prefer undyed, raw white cotton to minimise the use of chemicals in cotton processing. The raw white cotton is the softest one there is!
 
 
-    ### European linen (flax)
-    Flax is considered to be one of the most ecological natural fibres, because just rainwater and only minimal amounts of fertilizers are needed to grow it in the humidity of the Atlantic coast. The European linen we use is of French origin, cultivated and spinned in France
+    ### European flax (linen)
+    Flax is considered to be one of the most ecological natural fibres, because just rainwater and only minimal amounts of fertilizers are needed to grow it in the humidity of the Atlantic coast. The European flax we use is of French origin, cultivated and spinned in France
 natural_dyeing:
   fi_text: |
     # Natural dyed wool yarns - magic happens!
