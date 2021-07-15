@@ -86,7 +86,7 @@ products:
 
     **Metsän peitto** 80 % Villaa - 20 % luomupuuvillaa (GOTS)
 
-    Lemma peitto suomen lampaan villan sävyissä. Vimestely luonnonvärjätyllä villalla. Useissa villan sävyissä.
+    Lämmin peitto suomen lampaan villan sävyissä. Viimeistely luonnonvärjätyllä villalla. Useissa villan sävyissä.
 
     Size 110 cm x 200 cm
 
@@ -193,7 +193,7 @@ products:
 
     Size 100 cm x 180 cm
 
-    Price 188 € Hand dyed unique pieces (deep red, deep forest green)
+    Price 171 € Hand dyed unique pieces (deep red, deep forest green)
   images_image:
   - "/uploads/Giant%20cochenille-769f2e.jpg"
   - "/uploads/Giant%20Forest%20green.jpg"
