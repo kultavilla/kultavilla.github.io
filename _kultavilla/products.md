@@ -272,21 +272,20 @@ washing:
     aikaa riittää. Jos luulet, että villatuotteesi tarvitsee pesua, hoito-ohje on
     käsinpesu, huuhtele, linkoa kevyesti ja anna kuivua. Voit käyttää mietoa saippuaa.
     Linkoamisen jälkeen (800 k/min, 1-2 min) villa kuivuu nopeasti.\n\nKotimainen
-    lampaanvilla on luonnollista, ilman kemiallisia käsittelyjä ja huovuttuu helposti.\n\n**Käsittele
-    villatuotteita varoen - or sheep happens!**\n\n### Huivit ja kevytpeitot 66% villaa
-    - 33% luomupuuvillaa\n\n* Käsinpesu 30°C\n* Liota (10-15 minuuttia), linkoa, huuhtele,
-    linkoa ja anna kuivua\n* Käytä mietoa villapesuainetta tai saippuaa tarvittaessa\n\n###
-    Retkipeitot\n\n* Käsinpesu 30°C:ssa miedossa saippuavedessä\n* linkoa, huuhtele,
-    linkoa ja anna kuivua.\n* Jos peitto on kovin likainen, villapesuohjelma 30°C:ssa.\n*
-    linkoa kevyesti (800 k/m, 1-2 minuuttia. \n\nNyppyyntyminen on käsittelemättömän
-    villan luonnollinen piirre. Nypyt voi poistaa kevyesti harjaamalla.\n\n**Käsittele
-    villatuotteita varoen - or sheep happens!**\n"
+    lampaanvilla on luonnollista, ilman kemiallisia käsittelyjä ja huovuttuu helposti.\n\n\n###
+    Huivit ja kevytpeitot 66% villaa - 33% luomupuuvillaa\n\n* Käsinpesu 30°C\n* Liota
+    (10-15 minuuttia), linkoa, huuhtele, linkoa ja anna kuivua\n* Käytä mietoa villapesuainetta
+    tai saippuaa tarvittaessa\n\n### Retkipeitot\n\n* Käsinpesu 30°C:ssa miedossa
+    saippuavedessä\n* linkoa, huuhtele, linkoa ja anna kuivua.\n* Jos peitto on kovin
+    likainen, villapesuohjelma 30°C:ssa.\n* linkoa kevyesti (800 k/m, 1-2 minuuttia.
+    \n\nNyppyyntyminen on käsittelemättömän villan luonnollinen piirre. Nypyt voi
+    poistaa kevyesti harjaamalla.\n\n**Käsittele villatuotteita varoen - or sheep
+    happens!**\n"
   en_text: |
     # Washing instructions
 
     Taking care of wool is usually perceived difficult, but we highly disagree. Wool’s natural wax, lanolin, is coating wool fibre’s, preventing woollens becoming dirty. Usually keeping your woollens in fresh air for a while, will be enough. If you think that your woollens need a wash: ‘Hand wash, spin, rinse, spin and let it dry’ is the key.
 
-    **Handle your woollens with extra care - or sheep happens!**
 
     ### Scarves/throws 66% wool - 33% organic cotton
 
