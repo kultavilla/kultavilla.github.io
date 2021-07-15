@@ -199,18 +199,10 @@ products:
   - "/uploads/Giant%20cochenille-769f2e.jpg"
   - "/uploads/Giant%20Forest%20green.jpg"
   - "/uploads/thumb_IMG_2706_2_1024.jpg"
-- fi_text: |
-    ### Decorative blanket
-
-    1005/2005 Uniques
-
-    66 % Wool - 33 % organic cotton (GOTS)
-
-    Natural can be colourful! The most beautiful blanket of  fluffy, natural dyed Finnsheep wool in bright colours! Unique pieces.
-
-    Size 120 cm x 210 cm
-
-    * Price 330 €
+- fi_text: "### Neliöhuvit\n\n1005/2005 \n\n66 % Villaa - 33 % luomupuuvillaa (GOTS)\n\nNatural
+    can be colourful! The most beautiful blanket of  fluffy, natural dyed Finnsheep
+    wool in bright colours! Unique pieces.\n\nSize 120 cm x 210 cm\n\n* Price 330
+    €\n"
   en_text: |
     ### Decorative blanket
 
@@ -292,62 +284,43 @@ products:
   images_image:
   - "/uploads/dye-2.jpg"
 washing:
-  fi_text: |
-    # Pesuohjeet
-
-    Villan hoito koetaan yleensä vaikeaksi, mutta olemme hyvin eri mieltä. Villan luonnollinen vaha, lanoliini, päällystää villakuituja, mikä estää villan likaantumisen. Yleensä villan pitäminen raikkaassa ilmassa jonkin aikaa riittää. Jos luulet, että villatuotteesi tarvitsee pesua, hoito-ohje on käsinpesu, huuhtele, linkoa ja anna kuivua. Voit käyttää mietoa saippuaa.
-
-    ### Scarves/throws/blankets 100%  wool
-
-    * Hand wash at 30°
-    * Soak (10-15 minutes), spin, rinse and let it dry.
-    * Use mild detergent or soap if needed.
-
-    ### Scarves/throws 66% wool - 33% organic cotton
-
-    * Hand wash at 30°
-    * Soak (10-15 minutes), spin, rinse and let it dry.
-    * Use mild detergent or soap if needed.
-
-    ### Winter blankets: 66% wool - 33% organic cotton
-
-    * Hand wash at 30° with mild soap.
-    * Rinse, spin, and let it dry.
-    * If you wish to use a machine wash, use a gentle wool wash program at 30°.
-    * Spin at 800 cycles for 1 to 2 minutes and let it dry. Use mild detergent or soap.
-
-    Wool in winter blankets is a blend of extra fine merino wool combined with very warm and fluffy finnish wool, origin from finnsheeps. Finnsheep wool is natural without any chemical treatments, and felts easily.
-
-    Pilling is a natural feature of untreated natural wool.
-
-    **Handle your woollens with extra care - or sheep happens!**
+  fi_text: "# Pesuohjeet\n\nVillan hoito koetaan yleensä vaikeaksi, mutta olemme hyvin
+    eri mieltä. Villan luonnollinen vaha, lanoliini, päällystää villakuituja, mikä
+    estää villan likaantumisen. Yleensä villan pitäminen raikkaassa ilmassa jonkin
+    aikaa riittää. Jos luulet, että villatuotteesi tarvitsee pesua, hoito-ohje on
+    käsinpesu, huuhtele, linkoa kevyesti ja anna kuivua. Voit käyttää mietoa saippuaa.
+    Linkoamisen jälkeen (800 k/min, 1-2 min) villa kuivuu nopeasti.\n\nKotimainen
+    lampaanvilla on luonnollista, ilman kemiallisia käsittelyjä ja huovuttuu helposti.\n\n**Käsittele
+    villatuotteita varoen - or sheep happens!**\n\n### Huivit ja kevytpeitot 66% villaa
+    - 33% luomupuuvillaa\n\n* Käsinpesu 30°C\n* Liota (10-15 minuuttia), linkoa, huuhtele,
+    linkoa ja anna kuivua\n* Käytä mietoa villapesuainetta tai saippuaa tarvittaessa\n\n###
+    Retkipeitot\n\n* Käsinpesu 30°C:ssa miedossa saippuavedessä\n* linkoa, huuhtele,
+    linkoa ja anna kuivua.\n* Jos peitto on kovin likainen, villapesuohjelma 30°C:ssa.\n*
+    linkoa kevyesti (800 k/m, 1-2 minuuttia. \n\nNyppyyntyminen on käsittelemättömän
+    villan luonnollinen piirre. Nypyt voi poistaa kevyesti harjaamalla.\n\n**Käsittele
+    villatuotteita varoen - or sheep happens!**\n"
   en_text: |
     # Washing instructions
 
-    Taking care of wool is usually perceived difficult, but we highly disagree. Wool’s natural wax, lanolin, is coating wool fibre’s, preventing woollens becoming dirty. Usually keeping your woollens in fresh air for a while, will be enough. If you think that your woollens need a wash: ‘Hand wash, rinse, spin and let it dry’ is the key.
+    Taking care of wool is usually perceived difficult, but we highly disagree. Wool’s natural wax, lanolin, is coating wool fibre’s, preventing woollens becoming dirty. Usually keeping your woollens in fresh air for a while, will be enough. If you think that your woollens need a wash: ‘Hand wash, spin, rinse, spin and let it dry’ is the key.
 
-    ### Scarves/throws/blankets 100%  wool
-
-    * Hand wash at 30°
-    * Soak (10-15 minutes), spin, rinse and let it dry.
-    * Use mild detergent or soap if needed.
+    **Handle your woollens with extra care - or sheep happens!**
 
     ### Scarves/throws 66% wool - 33% organic cotton
 
     * Hand wash at 30°
-    * Soak (10-15 minutes), spin, rinse and let it dry.
+    * Soak (10-15 minutes), spin, rinse, spin and let it dry.
     * Use mild detergent or soap if needed.
 
     ### Winter blankets: 66% wool - 33% organic cotton
 
     * Hand wash at 30° with mild soap.
-    * Rinse, spin, and let it dry.
+    * Spin, rinse, spin, and let it dry.
     * If you wish to use a machine wash, use a gentle wool wash program at 30°.
     * Spin at 800 cycles for 1 to 2 minutes and let it dry. Use mild detergent or soap.
 
-    Wool in winter blankets is a blend of extra fine merino wool combined with very warm and fluffy finnish wool, origin from finnsheeps. Finnsheep wool is natural without any chemical treatments, and felts easily.
-
-    Pilling is a natural feature of untreated natural wool.
+    Finnsheep wool is natural without any chemical treatments, and felts easily.
+    Pilling is a natural feature of untreated natural wool. If pilling occur, a gently brushing makes product nice again.
 
     **Handle your woollens with extra care - or sheep happens!**
 gots:
