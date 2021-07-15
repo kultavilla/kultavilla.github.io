@@ -200,6 +200,33 @@ products:
   - "/uploads/Giant%20Forest%20green.jpg"
   - "/uploads/thumb_IMG_2706_2_1024.jpg"
 - fi_text: |
+    ### Decorative blanket
+
+    1005/2005 Uniques
+
+    66 % Wool - 33 % organic cotton (GOTS)
+
+    Natural can be colourful! The most beautiful blanket of  fluffy, natural dyed Finnsheep wool in bright colours! Unique pieces.
+
+    Size 120 cm x 210 cm
+
+    * Price 330 €
+  en_text: |
+    ### Decorative blanket
+
+    1005/2005 Uniques
+
+    66 % Wool - 33 % organic cotton (GOTS)
+
+    Natural can be colourful! The most beautiful blanket of  fluffy, natural dyed Finnsheep wool in bright colours! Unique pieces.
+
+    Size 120 cm x 210 cm
+
+    * Price 330 €
+  images_image:
+  - "/uploads/winter-1.jpg"
+  - "/uploads/winter-2.jpg"
+- fi_text: |
     ### Winter blankets
 
     2002 Uniques
@@ -231,33 +258,6 @@ products:
   - "/uploads/ruska-1.jpg"
   - "/uploads/ruska-2.jpg"
   - "/uploads/ruska-3.jpg"
-- fi_text: |
-    ### Decorative blanket
-
-    1005/2005 Uniques
-
-    66 % Wool - 33 % organic cotton (GOTS)
-
-    Natural can be colourful! The most beautiful blanket of  fluffy, natural dyed Finnsheep wool in bright colours! Unique pieces.
-
-    Size 120 cm x 210 cm
-
-    * Price 330 €
-  en_text: |
-    ### Decorative blanket
-
-    1005/2005 Uniques
-
-    66 % Wool - 33 % organic cotton (GOTS)
-
-    Natural can be colourful! The most beautiful blanket of  fluffy, natural dyed Finnsheep wool in bright colours! Unique pieces.
-
-    Size 120 cm x 210 cm
-
-    * Price 330 €
-  images_image:
-  - "/uploads/winter-1.jpg"
-  - "/uploads/winter-2.jpg"
 - fi_text: "### Kevytpeitot lapsille\n\n1011\n\n70 % Villaa - 30 % luomupuuvillaa
     (GOTS)\n\nKevytpeitto. Viimeistely luonnon värjätyllä villalla.\n\nSize 100 x
     170 cm\n1011 Hinta 162 € \n"
@@ -268,16 +268,16 @@ products:
   - "/uploads/Junior%20girl-2f618a.jpg"
   - "/uploads/Junior%20Boy_3653.jpg"
 - fi_text: |
-    ### Baby blankets
+    ### Unipeitot vauvalle
 
     1010/3010
 
-    * **UNI** 66 % soft Finnsheep wool - 33 % cotton (GOTS)
+    * **UNI** 66 % pehmyttä kampavillaa - 33 % luomupuuvillaa (GOTS)
 
-    Size 100 x 100 cm
+    Koko 100 x 100 cm
 
-    * 1010 Price 88 € Natural wool colours
-    * 3010 Price 135 € Hand dyed with indigo, unique pieces
+    * 1010 Hinta 89 € Luonnolliset värit
+    * 3010 Price 125 € Käsinvärjätty indigolla, uniikkikappaleet
   en_text: |
     ### Baby blankets
 
@@ -287,8 +287,8 @@ products:
 
     Size 100 x 100 cm
 
-    * 1010 Price 88 € Natural wool colours
-    * 3010 Price 135 € Hand dyed with indigo, unique pieces
+    * 1010 Price 89 € Natural wool colours
+    * 3010 Price 125 € Hand dyed with indigo, unique pieces
   images_image:
   - "/uploads/dye-2.jpg"
 washing:
