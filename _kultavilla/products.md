@@ -100,17 +100,17 @@ products:
   - "/uploads/Retkipeitto%20valkea_3626.jpg"
   - "/uploads/Retkipeitto%20Musta-vihre%C3%A4%203528.jpg"
 - fi_text: |
-    ### Travel blanket
+    ### Matkapeitto
 
     1002
 
-    **Metsän poika** 70 % Wool - 30 % organic cotton (GOTS)
+    **Metsän poika** 70 % Villaa - 30 % luomupuuvillaa (GOTS)
 
-    Finnsheep wool in natural tones.
+    Suomen lampaan villaa luonnollisissa sävyissä.
 
     Size 120 cm x 180 cm
 
-    Price 199 €
+    Price 162 €
   en_text: |
     ### Travel blanket
 
@@ -122,7 +122,7 @@ products:
 
     Size 120 cm x 180 cm
 
-    Price 199 €
+    Price 162 €
   images_image:
   - "/uploads/Travel%20blankets.jpg"
 - fi_text: |
@@ -130,13 +130,13 @@ products:
 
     1006/2006/3006
 
-    * **Kaarna** 66% Wool - 33% organic cotton (GOTS)
+    * **Kaarna** 66% Villaa - 33% luomupuuvillaa (GOTS)
 
-    Size 50 x 180 cm
+    Koko 50 x 180 cm
 
-    * 1006 Price 89 € Natural wool colours
-    * 2006 Price 105 € Dyed yarns
-    * 3006 Price 125 € Hand dyed with natural dyes, unique pieces
+    * 1006 Hinta 89 € Luonnolliset sävyt
+    * 2006 Price 105 € raidalliset
+    * 3006 Price 125 € Käsinvärjätty, uniikki-kappaleita
   en_text: |
     ### Autumn scarves, winter scarves
 
@@ -147,25 +147,16 @@ products:
     Size 50 x 180 cm
 
     * 1006 Price 89 € Natural wool colours
-    * 2006 Price 105 € Dyed yarns
+    * 2006 Price 105 € Stripes/Dyed yarns
     * 3006 Price 125 € Hand dyed with natural dyes, unique pieces
   images_image:
   - "/uploads/Indigo%20kaarna%20Lier.jpg"
   - "/uploads/Nummella.jpg"
   - "/uploads/Indigo%20kaarna%20Lier%20kujalla.jpg"
   Key: 
-- fi_text: |
-    ### Shawls, giant scarves
-
-    1003
-
-    **Jäkälä** 66 % Wool - 33 % organic cotton (GOTS)
-
-    Natural Finnsheep woollen colours
-
-    Size 100 cm x 180 cm
-
-    * 1003 Price 162 € Natural colours
+- fi_text: "### Shaalit, jättihuivit\n\n1003\n\n**Jäkälä** 66 % Villaa - 33 % luomupuuvillaa
+    (GOTS)\n\nSuomen lampaan villan luonnolliset sävyt\n\nKoko 100 cm x 180 cm\n\n*
+    1003 Hinta 162 € \n"
   en_text: |+
     ### Shawls, giant scarves
 
@@ -184,15 +175,15 @@ products:
   - "/uploads/Giant%20LUMI.jpg"
   - "/uploads/Giant%20LUMI2.jpg"
 - fi_text: |
-    ### Shawls, giant scarves
+    ### Shaalit, jättihuivit
 
     3003
 
-    * **Karjala** 66 % Wool - 33 % organic cotton (GOTS)
+    * **----** 66 % Villaa - 33 % luomupuuvillaa (GOTS)
 
-    Size 100 cm x 180 cm
+    Koko 100 cm x 180 cm
 
-    Price 188 € Hand dyed unique pieces (deep red, deep forest green)
+    Hinta 171 € Käsin värjätyt uniikkikappalet (syvä luumun punainen, syvä metsän vihreä)
   en_text: |
     ### Shawls, giant scarves
 
