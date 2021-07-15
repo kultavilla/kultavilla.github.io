@@ -127,7 +127,7 @@ products:
   images_image:
   - "/uploads/Travel%20blankets.jpg"
 - fi_text: |
-    ### Autumn scarves, winter scarves
+    ### Syys-/Talvihuivi
 
     1006/2006/3006
 
@@ -234,7 +234,7 @@ products:
   - "/uploads/ruska-3.jpg"
 - fi_text: "### Kevytpeitot lapsille\n\n1011\n\n70 % Villaa - 30 % luomupuuvillaa
     (GOTS)\n\nKevytpeitto. Viimeistely luonnon värjätyllä villalla.\n\nKoko 100 x
-    170 cm\n1011 Hinta 162 € \n"
+    170 cm\n\n1011 Hinta 162 € \n"
   en_text: "### Junior blankets\n\n1011\n\n70 % Wool - 30 % cotton (GOTS)\n\nFinn
     sheep wool with natural dyed wool finishing.\n\nSize 100 x 170 cm\n\n1011 Price
     162 € \n"
