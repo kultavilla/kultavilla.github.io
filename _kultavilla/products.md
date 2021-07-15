@@ -80,54 +80,7 @@ images_image:
 - "/uploads/vanamo15.jpg"
 products:
 - fi_text: |
-    ### Retkipeitto
-
-    1001
-
-    **Metsän peitto** 80 % Villaa - 20 % luomupuuvillaa (GOTS)
-
-    Lämmin peitto suomen lampaan villan sävyissä. Viimeistely luonnonvärjätyllä villalla. Useissa villan sävyissä.
-
-    Koko 110 cm x 200 cm
-
-    Hinta 195 €
-  en_text: "### Winter blanket\n\n1001\n\n**Forest blanket** 80 % Wool - 20 % organic
-    cotton (GOTS)\n\nA warm blanket in natural Finnsheep wool tones. Finishing with
-    natural dyed wool. In several wool tones.\n\nSize 110 cm x 200 cm\n\nPrice 195
-    €  \n"
-  images_image:
-  - "/uploads/Retkipeitto%20v%20harmaa_tuoli_3660.jpg"
-  - "/uploads/Retkipeitto%20valkea_3626.jpg"
-  - "/uploads/Retkipeitto%20Musta-vihre%C3%A4%203528.jpg"
-  - 
-- fi_text: |
-    ### Matkapeitto
-
-    1002
-
-    **Metsän poika** 70 % Villaa - 30 % luomupuuvillaa (GOTS)
-
-    Sopivasti kevyt peitto mukaan otettavaksi. Suomen lampaan villaa luonnollisissa sävyissä.
-
-    Koko 120 cm x 180 cm
-
-    Hinta 162 €
-  en_text: |
-    ### Travel blanket
-
-    1002
-
-    **Metsän poika** 70 % Wool - 30 % organic cotton (GOTS)
-
-    Finnsheep wool in natural tones.
-
-    Size 120 cm x 180 cm
-
-    Price 162 €
-  images_image:
-  - "/uploads/Travel%20blankets.jpg"
-- fi_text: |
-    ### Syys-/Talvihuivi
+    ### Kapea syys-/talvihuivi
 
     1006/2006/3006
 
@@ -155,6 +108,17 @@ products:
   - "/uploads/Nummella.jpg"
   - "/uploads/Indigo%20kaarna%20Lier%20kujalla.jpg"
   Key: 
+- fi_text: "### Neliöhuvit\n\n1005/2005 \n\n66 % Villaa - 33 % luomupuuvillaa (GOTS)\n\nMonikäyttöinen
+    neliöhuivi - sopii hartiahuiviksi tai kaulahuiviksi. Suomen lampaan villaa luonnon
+    väreissä. Koristeena väriraita luonnon värjättyä villaa. \n\nKoko 120 cm x 120
+    cm\n\n* Hinta 110 €\n"
+  en_text: "### Scarf, square\n\n1005/2005 \n\n66 % Wool - 33 % organic cotton (GOTS)\n\nAn
+    multipurpose square scarf - use as a shawl or scarf. Finnsheep wool in natural
+    colours. \n\nKoko 120 cm x 120 cm\n\n* Price 110 €\n"
+  images_image:
+  - "/uploads/Neli%C3%B6huivi%20v%20harmaa_.jpg"
+  - "/uploads/Neli%C3%B6huivit_.jpg"
+  - "/uploads/Neli%C3%B6huivi%20v%C3%A4ri5_.jpg"
 - fi_text: "### Shaalit, jättihuivit\n\n1003\n\n**Jäkälä** 66 % Villaa - 33 % luomupuuvillaa
     (GOTS)\n\nSuomen lampaan villan luonnolliset sävyt\n\nKoko 100 cm x 180 cm\n\n*
     1003 Hinta 162 € \n"
@@ -199,17 +163,27 @@ products:
   - "/uploads/Giant%20cochenille-769f2e.jpg"
   - "/uploads/Giant%20Forest%20green.jpg"
   - "/uploads/thumb_IMG_2706_2_1024.jpg"
-- fi_text: "### Neliöhuvit\n\n1005/2005 \n\n66 % Villaa - 33 % luomupuuvillaa (GOTS)\n\nMonikäyttöinen
-    neliöhuivi - sopii hartiahuiviksi tai kaulahuiviksi. Suomen lampaan villaa luonnon
-    väreissä. Koristeena väriraita luonnon värjättyä villaa. \n\nKoko 120 cm x 120
-    cm\n\n* Hinta 110 €\n"
-  en_text: "### Scarf, square\n\n1005/2005 \n\n66 % Wool - 33 % organic cotton (GOTS)\n\nAn
-    multipurpose square scarf - use as a shawl or scarf. Finnsheep wool in natural
-    colours. \n\nKoko 120 cm x 120 cm\n\n* Price 110 €\n"
+- fi_text: |
+    ### Retkipeitto
+
+    1001
+
+    **Metsän peitto** 80 % Villaa - 20 % luomupuuvillaa (GOTS)
+
+    Lämmin peitto suomen lampaan villan sävyissä. Viimeistely luonnonvärjätyllä villalla. Useissa villan sävyissä.
+
+    Koko 110 cm x 200 cm
+
+    Hinta 195 €
+  en_text: "### Winter blanket\n\n1001\n\n**Forest blanket** 80 % Wool - 20 % organic
+    cotton (GOTS)\n\nA warm blanket in natural Finnsheep wool tones. Finishing with
+    natural dyed wool. In several wool tones.\n\nSize 110 cm x 200 cm\n\nPrice 195
+    €  \n"
   images_image:
-  - "/uploads/Neli%C3%B6huivi%20v%20harmaa_.jpg"
-  - "/uploads/Neli%C3%B6huivit_.jpg"
-  - "/uploads/Neli%C3%B6huivi%20v%C3%A4ri5_.jpg"
+  - "/uploads/Retkipeitto%20v%20harmaa_tuoli_3660.jpg"
+  - "/uploads/Retkipeitto%20valkea_3626.jpg"
+  - "/uploads/Retkipeitto%20Musta-vihre%C3%A4%203528.jpg"
+  - 
 - fi_text: "### Villapeitto\n\n2002 \n\n* **Mummola**\n\n  66% Villaa - 33% luomupuuvillaa
     (GOTS)\n\n  Värikäs perhe! Erittäin pehmyt ja lämmin peitto, joka on pehmeä ihoa
     vasten. Pehmenee ja pehmenee käytössä. Voi nyppyyntyä ahkerassa käytössä.\n\nKoko
@@ -232,6 +206,32 @@ products:
   - "/uploads/ruska-1.jpg"
   - "/uploads/ruska-2.jpg"
   - "/uploads/ruska-3.jpg"
+- fi_text: |
+    ### Matkapeitto
+
+    1002
+
+    **Metsän poika** 70 % Villaa - 30 % luomupuuvillaa (GOTS)
+
+    Sopivasti kevyt peitto mukaan otettavaksi. Suomen lampaan villaa luonnollisissa sävyissä.
+
+    Koko 120 cm x 180 cm
+
+    Hinta 162 €
+  en_text: |
+    ### Travel blanket
+
+    1002
+
+    **Metsän poika** 70 % Wool - 30 % organic cotton (GOTS)
+
+    Finnsheep wool in natural tones.
+
+    Size 120 cm x 180 cm
+
+    Price 162 €
+  images_image:
+  - "/uploads/Travel%20blankets.jpg"
 - fi_text: "### Kevytpeitot lapsille\n\n1011\n\n70 % Villaa - 30 % luomupuuvillaa
     (GOTS)\n\nKevytpeitto. Viimeistely luonnon värjätyllä villalla.\n\nKoko 100 x
     170 cm\n\n1011 Hinta 162 € \n"
