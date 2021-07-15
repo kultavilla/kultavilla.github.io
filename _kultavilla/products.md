@@ -107,7 +107,7 @@ products:
 
     **Metsän poika** 70 % Villaa - 30 % luomupuuvillaa (GOTS)
 
-    Suomen lampaan villaa luonnollisissa sävyissä.
+    Sopivasti kevyt peitto mukaan otettavaksi. Suomen lampaan villaa luonnollisissa sävyissä.
 
     Size 120 cm x 180 cm
 
@@ -258,33 +258,15 @@ products:
   images_image:
   - "/uploads/winter-1.jpg"
   - "/uploads/winter-2.jpg"
-- fi_text: |
-    ### Junior blankets
-
-    1011
-
-    70 % Wool - 30 % organic cotton (GOTS)
-
-    Finn sheep wool with natural dyed wool finishing.
-
-    Size 100 x 170 cm
-
-    1011 Price 170 € Natural wool colours finished with a dyed wool stripe.
-  en_text: |
-    ### Junior blankets
-
-    1011
-
-    70 % Wool - 30 % cotton (GOTS)
-
-    Finn sheep wool with natural dyed wool finishing.
-
-    Size 100 x 170 cm
-
-    1011 Price 170 € Natural wool colours finished with a dyed wool stripe.
+- fi_text: "### Kevytpeitot lapsille\n\n1011\n\n70 % Villaa - 30 % luomupuuvillaa
+    (GOTS)\n\nKevytpeitto. Viimeistely luonnon värjätyllä villalla.\n\nSize 100 x
+    170 cm\n1011 Hinta 162 € \n"
+  en_text: "### Junior blankets\n\n1011\n\n70 % Wool - 30 % cotton (GOTS)\n\nFinn
+    sheep wool with natural dyed wool finishing.\n\nSize 100 x 170 cm\n\n1011 Price
+    162 € \n"
   images_image:
-  - "/uploads/JUNIOR%20girl.jpg"
-  - "/uploads/JUNIOR%20boy.jpg"
+  - "/uploads/Junior%20girl-2f618a.jpg"
+  - "/uploads/Junior%20Boy_3653.jpg"
 - fi_text: |
     ### Baby blankets
 
