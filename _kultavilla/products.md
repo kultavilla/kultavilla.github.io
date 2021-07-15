@@ -96,7 +96,9 @@ products:
     natural dyed wool. In several wool tones.\n\nSize 110 cm x 200 cm\n\nPrice 195
     €  \n"
   images_image:
-  - "/uploads/talvineito-1.jpg"
+  - "/uploads/Retkipeitto%20v%20harmaa_3660.jpg"
+  - "/uploads/Retkipeitto%20valkea_3626.jpg"
+  - "/uploads/Retkipeitto%20Musta-vihre%C3%A4%203528.jpg"
 - fi_text: |
     ### Travel blanket
 
