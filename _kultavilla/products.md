@@ -387,15 +387,14 @@ gots:
     Flax is considered to be one of the most ecological natural fibres, because just rainwater and only minimal amounts of fertilizers are needed to grow it in the humidity of the Atlantic coast. The European flax we use is of French origin, cultivated and spinned in France
 natural_dyeing:
   fi_text: |
-    # Natural dyed wool yarns - magic happens!
+    # Luonnonvärjätty villa - taikaa!
+    Villalankojen rikkaat värisävyt on luotu ekologisilla luonnonväriaineilla, joissa hyödynnetään myös suomalaisten lampaanvillan luonnollisia harmaita ja ruskeita sävyjä. Kaikki väriaineemme tuotetaan eettisellä ja kestävällä tavalla.
 
-    The rich colour tones of our wool yarns are created with ecological natural dyes, utilizing as well the natural grey and brown shades of finnsheep wool. All our dyes are produced in ethical and sustainable manner.
+    * Sininen (ja vihreä) väri on värjätty indigolla (leaves of _Indigoferia tinctoria_)
+    * Keltaiset väriaineet (ja vihreät) ovat resedasta peräisin (_Reseda luteola_).
+    * Punaiset värit ovat lacca-väriainetta (_Laccifer lacca_) ja crappie (_Rubia tinctoria_ kasvin juuret). Kirkkaat punaiset eristetään hartsista, jota erittää Cochenille-hyönteinen (_Coccus cacti_).
 
-    * Blue (and green) colours are dyed with indigo (leaves of _Indigoferia tinctoria_)
-    * Yellow dyes (and greens) are of weld plant (_Reseda luteola_) origin.
-    * Red colours are from lac dye (_Laccifer lacca_) and madder (roots of the _Rubia tinctoria_ plant). Bright reds are isolated from resin secreted by Cochenille insect (_Coccus cacti_).
-
-    Natural dyeing is done in small batches in tight collaboration with [Aurinkokehrä](http://www.aurinkokehra.fi). Our piece dyed products are hand dyed. Colour shades may vary from lot to lot, but we think that is what makes each woollen unique!
+    Luonnonvärjäys tehdään pienissä erissä tiiviissä yhteistyössä Aurinkokehrä kanssa [Aurinkokehrä](http://www.aurinkokehra.fi). Osa villatuotteista ovat käsinvärjättyjä. Värisävyt voivat vaihdella erästä toiseen, mutta mielestämme se tekee jokaisesta tuotteesta ainutlaatuisen!
   en_text: |
     # Natural dyed wool yarns - magic happens!
 
@@ -411,18 +410,18 @@ natural_dyeing_images_image:
 - "/uploads/dye-2.jpg"
 - "/uploads/dye-3.jpg"
 natural_fibers:
-  fi_text: |
-    # Natural fibres
+  fi_text: |+
+    # Luonnonkuidut
 
 
-    We use only natural fibres, organic cotton, european linen and several types of natural wool. Our speciality is using finnsheep wool, as it is local, ecological, and ensures that our woollens are fluffy and warm!
+    Käytämme vain luonnonkuituja, luomupuuvillaa, Euroopassa kasvatettua pellavaa ja  villaa. Erikoisuutemme on käyttää kotimaista lampaan villaa, koska se on paikallista, ekologista ja varmistaa, että villamme ovat pehmeitä ja lämpimiä!
 
+    ### Suomen lampaanvilla
+    Olemme työskennelleet vuosien ajan lampureiden ja villakehräämöiden kanssa tuodaksemme suomalaisten rotujen villaa tuotantoon. Käsittelemme villaa pieninä määrinä kehittääksemme parhaan laadun langat tuotteisiimme. Suomessa lampaat voivat elää hyvää elämää pienissä karjoissa nauttien parhaasta hoidosta. Langat kehrätään pienkehräämöissä. Esim. Pirtin kehräämö Mikkelin Hiirolassa, jalostaa pehmeimmän villan kampalangoiksi.
 
-    ### Finnsheep wool
-    We have been working for years with shephards and wool spinneries to bring our own finnsheep breed's wool into production. We process wool in small quantities to develop the best quality yarns for our wovens. In Finland sheeps can live a good life in small herds, enjoying the best care. The wool is processed into worsted special yarns by a small finnish spinnery, Pirtin kehräämö.
+    ### Karitsan villa
+    Karitsan villa on pehmeää 'vauvan merinovillaa' jo karitsojen ensimmäisestä kehruusta. Lampaanvillalangat on valmistettu italialaisesta hienovillasta. Villa on käsittelemätöntä ja siten ilman viimeistelykemikaaleja ja polymeerejä, joita yleensä käytetään "helppohoitoisten" tuotteiden valmistamiseen. Mielestämme villan luonnolliset ominaisuudet tekevät villasta upean! Vauvan merinovillan käyttö tekee villastamme pehmeän ja lempeän iholle. Karitsanvilla ovat ihanteellisia vauvoille, ja niitä voidaan käyttää huiveina tai kevyinä peittoina miedoimpina vuodenaikoina.
 
-    ### Lambswool
-    Lambswool is the soft 'baby merino wool' from the very first sheering of lambs. Our lambswool yarns are made in a italian fine wool spinnery. The wool is untreated, and thus without the finishing chemicals and polymers which are usually used to make 'easy care' products. We think that wool's natural properties make wool georgous! Use of baby merino wool makes our woollens soft and gentle to skin. Lambswool woollens are ideal for babies and can be used as scarves or throws during milder seasons.
   en_text: |
     # Natural fibres
 
