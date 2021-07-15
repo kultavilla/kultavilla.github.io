@@ -5,17 +5,19 @@ title_text:
   fi: Nordic nature meets science
   en: Nordic nature meets science
 subtitle:
-  fi_text: The pure Nordic nature captured into cuddlesome textiles that enhance our
-    wellbeing.
+  fi_text: "KULTAVILLAN intohimona on tuotteistaa upea kotimainen villa tuotteiksi
+    ja iloksemme. Valmistusketjun paikallisuus sekä materiaalien erityisyys ja ekologisuus
+    tekee villatuoteistamme uniikkeja. \nVain luonnollista kotimaista villaa, luomupuuvillaa
+    - ja värit tulevat luonnosta!\n"
   en_text: The pure Nordic nature captured into cuddlesome textiles that enhance our
     wellbeing.
 section_info:
   fi_text: |
-    # Green and healthy textiles
+    # Pehmoista villaa iholle
 
-    We combine the pureness of the Nordic nature with nature’s own fibres to create wovens that not only feel good but have a positive effect on wellbeing.
+    Tiesitkö, että meidän perinteinen suomen lampaan villa on yksi maailman hienoimmista villasta merinovillan jälkeen. Villan hienous on niin uniikkia, että olemme halunneet valmistaa villaisen tuotesarjan kotimaisesta villasta meidän kaikkien iloksi, jokapäiväiseen käyttöön.
 
-    Driven by our love of natural wool and the passion for designing functional woven textiles we have created a collection of natural materials, Kultavilla woollens. Our textiles exhibit the nature's organic structures and soft colours. These are the functional woollens either for cold winter or for milder seasons. Travel blankets are light and easy take with!
+    Villa on mitä luonnollisin kuitu! Villatuotteissa näkyy luonnon orgaanisia muotoja, ne ovat huolettomia ottaa mukaan ja käpertyä villan lämpöiseen syleilyyn.
 
     [Weecos-shop](https://www.weecos.com/fi/kultavilla)
   en_text: |
@@ -27,19 +29,21 @@ section_info:
 
     [Weecos-shop](https://www.weecos.com/en/kultavilla)
 section_wool:
-  fi_text: |
-    # Wool, why!
-
-    WOOL, such fine material that no technology can copy its features. It’s warm, soft and holds all the features of cuddliness imaginable. To make a long story short, with all its fine qualities, wool is the wonder fiber!
+  fi_text: "# Villaa, miksi!\n\nVilla on huippumateriaali! Se on lämmin, pehmeä, kevyt,
+    paloturvallinen.. Villa on niin hieno luonnonkuitu, ettei ihminen pysty kopioimaan
+    sen upeita ominaisuuksia. \n\nHuiveissa ja kevyissä matkapeitoissa käytämme pehmeintä,
+    hienoa suomalaisen lampaan kampavillaa, joka ei kutita herkkääkään ihoa. Paksummat
+    villapeitot on viimeistelty pörröiseksi, lämmittämään ulkosallakin. Karkeampi
+    villalaatu sopii vaativaankin retkeilykäyttöön. \n\n"
   en_text: |
     # Wool, why!
 
     WOOL, such fine material that no technology can copy its features. It’s warm, soft and holds all the features of cuddliness imaginable. To make a long story short, with all its fine qualities, wool is the wonder fiber!
 section_wool_content_2:
-  fi_text: |
-    Our mission is to bring about the best qualities of the fluffy Finnsheep wool, and the softest, untreated lambswool for your benefit, for cold as well as for milder seasons.
+  fi_text: 'Villatuotteet on valmistettu perinteisillä tekniikoilla. Lampaanvillan
+    parhaat ominaisuudet hyödyksi sekä kylmälle että leudommalle vuodelle.
 
-    Different combinations of wool, manufactured with traditional techniques.
+'
   en_text: |
     Our mission is to bring about the best qualities of the fluffy Finnsheep wool, and the softest, untreated lambswool for your benefit, for cold as well as for milder seasons.
 
