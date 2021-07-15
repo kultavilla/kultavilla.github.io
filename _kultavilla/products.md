@@ -15,7 +15,7 @@ section_info:
   fi_text: |
     # Pehmoista villaa iholle
 
-    Tiesitkö, että meidän perinteinen suomen lampaan villa on yksi maailman hienoimmista villasta merinovillan jälkeen. Villan hienous on niin uniikkia, että olemme halunneet valmistaa villaisen tuotesarjan kotimaisesta villasta meidän kaikkien iloksi, jokapäiväiseen käyttöön.
+    Tiesitkö, että meidän suomen lampaan villa on yksi maailman hienoimmasta villalaadusta merinovillan jälkeen. Villan hienous on niin uniikkia, että olemme halunneet valmistaa villaisen tuotesarjan kotimaisesta villasta meidän kaikkien iloksi, jokapäiväiseen käyttöön.
 
     Villa on mitä upein kuitu! Villatuotteissa näkyy luonnon orgaanisia muotoja, ne ovat huolettomia ottaa mukaan ja käpertyä villan lämpöiseen syleilyyn.
 
@@ -99,6 +99,7 @@ products:
   - "/uploads/Retkipeitto%20v%20harmaa_tuoli_3660.jpg"
   - "/uploads/Retkipeitto%20valkea_3626.jpg"
   - "/uploads/Retkipeitto%20Musta-vihre%C3%A4%203528.jpg"
+  - 
 - fi_text: |
     ### Matkapeitto
 
