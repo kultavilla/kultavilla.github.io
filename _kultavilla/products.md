@@ -80,20 +80,21 @@ images_image:
 - "/uploads/vanamo15.jpg"
 products:
 - fi_text: |
-    ### Winter blanket
+    ### Retkipeitto
 
     1001
 
-    **Talvineito** 80 % Wool - 20 % organic cotton (GOTS)
+    **Metsän peitto** 80 % Villaa - 20 % luomupuuvillaa (GOTS)
 
-    Natural Finnsheep wool tones. Finishing with natural dyed wool. In several wool tones.
+    Lemma peitto suomen lampaan villan sävyissä. Vimestely luonnonvärjätyllä villalla. Useissa villan sävyissä.
 
     Size 110 cm x 200 cm
 
-    Price 270 €
-  en_text: "### Winter blanket\n\n1001\n\n**Talvineito** 80 % Wool - 20 % organic
-    cotton (GOTS)\n\nNatural Finnsheep wool tones. Finishing with natural dyed wool.
-    In several wool tones.\n\nSize 110 cm x 200 cm\n\nPrice 270 €  \n"
+    Hinta 195 €
+  en_text: "### Winter blanket\n\n1001\n\n**Forest blanket** 80 % Wool - 20 % organic
+    cotton (GOTS)\n\nA warm blanket in natural Finnsheep wool tones. Finishing with
+    natural dyed wool. In several wool tones.\n\nSize 110 cm x 200 cm\n\nPrice 195
+    €  \n"
   images_image:
   - "/uploads/talvineito-1.jpg"
 - fi_text: |
