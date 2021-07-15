@@ -41,7 +41,7 @@ section_wool:
     WOOL, such fine material that no technology can copy its features. It’s warm, soft and holds all the features of cuddliness imaginable. To make a long story short, with all its fine qualities, wool is the wonder fiber!
 section_wool_content_2:
   fi_text: 'Villatuotteet on valmistettu perinteisillä tekniikoilla. Lampaanvillan
-    parhaat ominaisuudet hyödyksi sekä kylmälle että leudommalle vuodelle.
+    parhaat ominaisuudet hyödyksi sekä kylmälle että leudommalle ilmalle.
 
 '
   en_text: |
@@ -329,7 +329,7 @@ natural_dyeing:
 
     * Sininen (ja vihreä) väri on värjätty indigolla (leaves of _Indigoferia tinctoria_)
     * Keltaiset väriaineet (ja vihreät) ovat resedasta peräisin (_Reseda luteola_).
-    * Punaiset värit ovat lacca-väriainetta (_Laccifer lacca_) ja crappie (_Rubia tinctoria_ kasvin juuret). Kirkkaat punaiset eristetään hartsista, jota erittää Cochenille-hyönteinen (_Coccus cacti_).
+    * Punaiset värit ovat lacca-väriainetta (_Laccifer lacca_) ja krappia (_Rubia tinctoria_ kasvin juuret). Kirkkaat punaiset eristetään hartsista, jota erittää Cochenille-hyönteinen (_Coccus cacti_).
 
     Luonnonvärjäys tehdään pienissä erissä tiiviissä yhteistyössä Aurinkokehrä kanssa [Aurinkokehrä](http://www.aurinkokehra.fi). Osa villatuotteista ovat käsinvärjättyjä. Värisävyt voivat vaihdella erästä toiseen, mutta mielestämme se tekee jokaisesta tuotteesta ainutlaatuisen!
   en_text: |
