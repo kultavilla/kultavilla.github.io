@@ -354,10 +354,10 @@ natural_fibers:
     Käytämme vain luonnonkuituja, luomupuuvillaa, Euroopassa kasvatettua pellavaa ja  villaa. Erikoisuutemme on käyttää kotimaista lampaan villaa, koska se on paikallista, ekologista ja varmistaa, että villamme ovat pehmeitä ja lämpimiä!
 
     ### Suomen lampaanvilla
-    Olemme työskennelleet vuosien ajan lampureiden ja villakehräämöiden kanssa tuodaksemme suomalaisten rotujen villaa tuotantoon. Käsittelemme villaa pieninä määrinä kehittääksemme parhaan laadun langat tuotteisiimme. Suomessa lampaat voivat elää hyvää elämää pienissä karjoissa nauttien parhaasta hoidosta. Langat kehrätään pienkehräämöissä. Esim. Pirtin kehräämö Mikkelin Hiirolassa, jalostaa pehmeimmän villan kampalangoiksi.
+    Olemme työskennelleet vuosien ajan lampureiden ja villakehräämöiden kanssa tuodaksemme suomalaisten rotujen villaa tuotantoon. Käsittelemme villaa pieninä määrinä kehittääksemme parhaan laadun tuotteisiimme. Suomessa lampaat voivat elää hyvää elämää pienillä tiloilla nauttien parhaasta hoidosta. Langat kehrätään pienkehräämöissä. Esim. Pirtin kehräämö Mikkelin Hiirolassa, jalostaa pehmeimmän villan kampalangoiksi.
 
     ### Karitsan villa
-    Karitsan villa on pehmeää 'vauvan merinovillaa' jo karitsojen ensimmäisestä kehruusta. Lampaanvillalangat on valmistettu italialaisesta hienovillasta. Villa on käsittelemätöntä ja siten ilman viimeistelykemikaaleja ja polymeerejä, joita yleensä käytetään "helppohoitoisten" tuotteiden valmistamiseen. Mielestämme villan luonnolliset ominaisuudet tekevät villasta upean! Vauvan merinovillan käyttö tekee villastamme pehmeän ja lempeän iholle. Karitsanvilla ovat ihanteellisia vauvoille, ja niitä voidaan käyttää huiveina tai kevyinä peittoina miedoimpina vuodenaikoina.
+    Karitsan villa on pehmeää 'vauvan merinovillaa' jo karitsojen ensimmäisestä kehruusta. Lampaanvillalangat on valmistettu italialaisesta hienovillasta. Villa on käsittelemätöntä ja siten ilman viimeistelykemikaaleja ja polymeerejä, joita yleensä käytetään 'helppohoitoisten' tuotteiden valmistamiseen. Mielestämme villan luonnolliset ominaisuudet tekevät villasta upean! Vauvan merinovillan käyttö tekee villastamme pehmeän ja lempeän iholle. Karitsanvilla ovat ihanteellista vauvoille, ja sitä voidaan käyttää huiveina tai kevyinä peittoina miedoimpina vuodenaikoina.
 
   en_text: |
     # Natural fibres
