@@ -56,7 +56,7 @@ wool_info:
   - Estää ihoallergioita
   - Lämmittää
   - Parantaa unta
-  - Vauvan kääriminen villaan.. parhaan unet :).
+  - Vauvan kääriminen villaan.. parhaat unet :).
   en:
   - Breathes and controls moisture
   - Odor resitant
@@ -88,7 +88,7 @@ products:
 
     Lämmin peitto suomen lampaan villan sävyissä. Viimeistely luonnonvärjätyllä villalla. Useissa villan sävyissä.
 
-    Size 110 cm x 200 cm
+    Koko 110 cm x 200 cm
 
     Hinta 195 €
   en_text: "### Winter blanket\n\n1001\n\n**Forest blanket** 80 % Wool - 20 % organic
@@ -190,7 +190,7 @@ products:
 
     3003
 
-    * **Karjala** 66 % Wool - 33 % organic cotton (GOTS)
+    * **-----** 66 % Wool - 33 % organic cotton (GOTS)
 
     Size 100 cm x 180 cm
 
@@ -199,22 +199,13 @@ products:
   - "/uploads/Giant%20cochenille-769f2e.jpg"
   - "/uploads/Giant%20Forest%20green.jpg"
   - "/uploads/thumb_IMG_2706_2_1024.jpg"
-- fi_text: "### Neliöhuvit\n\n1005/2005 \n\n66 % Villaa - 33 % luomupuuvillaa (GOTS)\n\nNatural
-    can be colourful! The most beautiful blanket of  fluffy, natural dyed Finnsheep
-    wool in bright colours! Unique pieces.\n\nSize 120 cm x 210 cm\n\n* Price 330
-    €\n"
-  en_text: |
-    ### Decorative blanket
-
-    1005/2005 Uniques
-
-    66 % Wool - 33 % organic cotton (GOTS)
-
-    Natural can be colourful! The most beautiful blanket of  fluffy, natural dyed Finnsheep wool in bright colours! Unique pieces.
-
-    Size 120 cm x 210 cm
-
-    * Price 330 €
+- fi_text: "### Neliöhuvit\n\n1005/2005 \n\n66 % Villaa - 33 % luomupuuvillaa (GOTS)\n\nMonikäyttöinen
+    neliöhuivi - sopii hartiahuiviksi tai kaulahuiviksi. Suomen lampaan villaa luonnon
+    väreissä. Koristeena väriraita luonnon värjättyä villaa. \n\nSize 120 cm x 120
+    cm\n\n* Hinta 110 €\n"
+  en_text: "### Scarf, square\n\n1005/2005 \n\n66 % Wool - 33 % organic cotton (GOTS)\n\nAn
+    multipurpose square scarf - use as a shawl or scarf. Finnsheep wool in natural
+    colours. \n\nKoko 120 cm x 120 cm\n\n* Price 110 €\n"
   images_image:
   - "/uploads/winter-1.jpg"
   - "/uploads/winter-2.jpg"
@@ -241,7 +232,7 @@ products:
 
       66% Wool - 33% cotton (GOTS)
 
-      A colourful family! Blend of extra soft and fluffy, natural dyed Finnsheep wool in colourful shades. In use this wool gets softer and softer.. and soon feels you cosy such in old times. Unique pieces!
+      A colourful family! Blend of extra soft and fluffy, natural dyed Finnsheep wool in colourful shades. In use this wool gets softer and softer.. and soon feels you cosy such in old times. Unique pieces! Natural can be colourful!
 
      Size 120 cm x 210 cm
 
