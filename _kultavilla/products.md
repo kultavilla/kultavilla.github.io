@@ -17,9 +17,9 @@ section_info:
 
     Tiesitkö, että meidän perinteinen suomen lampaan villa on yksi maailman hienoimmista villasta merinovillan jälkeen. Villan hienous on niin uniikkia, että olemme halunneet valmistaa villaisen tuotesarjan kotimaisesta villasta meidän kaikkien iloksi, jokapäiväiseen käyttöön.
 
-    Villa on mitä luonnollisin kuitu! Villatuotteissa näkyy luonnon orgaanisia muotoja, ne ovat huolettomia ottaa mukaan ja käpertyä villan lämpöiseen syleilyyn.
+    Villa on mitä upein kuitu! Villatuotteissa näkyy luonnon orgaanisia muotoja, ne ovat huolettomia ottaa mukaan ja käpertyä villan lämpöiseen syleilyyn.
 
-    [Weecos-shop](https://www.weecos.com/fi/kultavilla)
+    Myynti: [Weecos-shop](https://www.weecos.com/fi/kultavilla)
   en_text: |
     # Green and healthy textiles
 
