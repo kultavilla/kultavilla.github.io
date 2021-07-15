@@ -3,7 +3,8 @@ title: Yleistä
 position: 0
 site:
   title:
-    fi: Kultavilla - kudotut kankaat mittatilaustyönä - suunnittelu- ja tuotantopalvelut
+    fi: Kultavilla - kotimaiset kudotut kankaat mittatilaustyönä - kutomon suunnittelu-
+      ja tuotantopalvelut
     en: Kultavilla - Green and healthy textiles -  cuddlesome woollens and textiles
       that enhance our wellbeing
   description:
