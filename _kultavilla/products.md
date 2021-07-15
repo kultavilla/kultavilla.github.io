@@ -207,8 +207,9 @@ products:
     multipurpose square scarf - use as a shawl or scarf. Finnsheep wool in natural
     colours. \n\nKoko 120 cm x 120 cm\n\n* Price 110 €\n"
   images_image:
-  - "/uploads/winter-1.jpg"
-  - "/uploads/winter-2.jpg"
+  - "/uploads/Neli%C3%B6huivi%20v%20harmaa_.jpg"
+  - "/uploads/Neli%C3%B6huivit_.jpg"
+  - "/uploads/Neli%C3%B6huivi%20v%C3%A4ri5_.jpg"
 - fi_text: "### Villapeitto\n\n2002 \n\n* **Mummola**\n\n  66% Villaa - 33% luomupuuvillaa
     (GOTS)\n\n  Värikäs perhe! Erittäin pehmyt ja lämmin peitto, joka on pehmeä ihoa
     vasten. Pehmenee ja pehmenee käytössä. Voi nyppyyntyä ahkerassa käytössä.\n\nKoko
