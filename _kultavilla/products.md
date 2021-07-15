@@ -51,12 +51,12 @@ section_wool_content_2:
 section_wool_image_image: uploads/wool.jpg
 wool_info:
   fi:
-  - Breathes and controls moisture
-  - Odor resitant
-  - Prevents skin allergies
-  - Regulates temperature
-  - Improves sleep routine
-  - Wrapping babies in wool.. best dreams :).
+  - Hengittää ja säätelee kosteutta
+  - Estä hajun  muodostumista
+  - Estää ihoallergioita
+  - Lämmittää
+  - Parantaa unta
+  - Vauvan kääriminen villaan.. parhaan unet :).
   en:
   - Breathes and controls moisture
   - Odor resitant
