@@ -14,9 +14,10 @@ site:
       Virkkalassa.
     en: Kultavilla - Design and manufacturing of custom woven fabrics
   keywords:
-    fi: Kankaat, huivit, torkkupeitot, villapeitot, kutomo, tekstiilit, sisustuskankaat,
-      villa, suomenlampaan villa, kotimainen villa, mittatilaustyö, julkiset tilat,
-      suunnittelu, luonnon värit, made in Finland, tehty Suomessa, kotimainen
+    fi: Kankaat, huivit, villahuivit, torkkupeitot, villapeitot, kutomo, villakutomo,
+      palvelukutomo, tekstiilit, sisustuskankaat, villa, suomenlampaan villa, kotimainen
+      villa, mittatilaustyö, julkiset tilat, suunnittelu, luonnon värit, made in Finland,
+      tehty Suomessa, kotimainen
     en: Kankaat, huivit, torkkupeitot, villapeitot, kutomo, tekstiilit, sisustuskankaat,
       villa, suomenlampaan villa, kotimainen, kotimainen villa, mittatilaustyö, julkiset
       tilat, suunnittelu, luonnon värit, wool, woollens, finn sheep, finnish design,
