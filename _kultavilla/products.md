@@ -6,8 +6,8 @@ title_text:
   en: Nordic nature meets science
 subtitle:
   fi_text: "KULTAVILLAN intohimona on tuotteistaa upea kotimainen villa iloksemme.
-    Valmistusketjun paikallisuus sekä materiaalien erityisyys ja ekologisuus tekee
-    villatuoteistamme uniikkeja. \nVain luonnollista villaa, pellavaa ja luomupuuvillaa
+    \nValmistusketjun paikallisuus sekä materiaalien erityisyys ja ekologisuus tekee
+    villatuoteistamme uniikkeja. \n\nVain luonnollista villaa, pellavaa ja luomupuuvillaa
     - ja värit tulevat luonnosta!\n"
   en_text: The pure Nordic nature captured into cuddlesome textiles that enhance our
     wellbeing.
