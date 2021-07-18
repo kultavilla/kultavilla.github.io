@@ -5,9 +5,9 @@ title_text:
   fi: Nordic nature meets science
   en: Nordic nature meets science
 subtitle:
-  fi_text: "KULTAVILLAN intohimona on tuotteistaa upea kotimainen villa tuotteiksi
-    ja iloksemme. Valmistusketjun paikallisuus sekä materiaalien erityisyys ja ekologisuus
-    tekee villatuoteistamme uniikkeja. \nVain luonnollista kotimaista villaa, luomupuuvillaa
+  fi_text: "KULTAVILLAN intohimona on tuotteistaa upea kotimainen villa iloksemme.
+    Valmistusketjun paikallisuus sekä materiaalien erityisyys ja ekologisuus tekee
+    villatuoteistamme uniikkeja. \nVain luonnollista villaa, pellavaa ja luomupuuvillaa
     - ja värit tulevat luonnosta!\n"
   en_text: The pure Nordic nature captured into cuddlesome textiles that enhance our
     wellbeing.
@@ -17,7 +17,7 @@ section_info:
 
     Tiesitkö, että meidän suomen lampaan villa on yksi maailman hienoimmasta villalaadusta merinovillan jälkeen. Villan hienous on niin uniikkia, että olemme halunneet valmistaa villaisen tuotesarjan kotimaisesta villasta meidän kaikkien iloksi, jokapäiväiseen käyttöön.
 
-    Villa on mitä upein kuitu! Villatuotteissa näkyy luonnon orgaanisia muotoja, ne ovat huolettomia ottaa mukaan ja käpertyä villan lämpöiseen syleilyyn.
+    Villatuotteissa on orgaanista luonnollisuutta, niin kuin pitääkin! Ne ovat huolettomia ottaa mukaan ja käpertyä villan lämpöiseen syleilyyn.
 
     Myynti: [Weecos-shop](https://www.weecos.com/fi/kultavilla)
   en_text: |
@@ -30,11 +30,11 @@ section_info:
     [Weecos-shop](https://www.weecos.com/en/kultavilla)
 section_wool:
   fi_text: "# Villaa, miksi!\n\nVilla on huippumateriaali! Se on lämmin, pehmeä, kevyt,
-    paloturvallinen.. Villa on niin hieno luonnonkuitu, ettei ihminen pysty kopioimaan
-    sen upeita ominaisuuksia. \n\nHuiveissa ja kevyissä matkapeitoissa käytämme pehmeintä,
-    hienoa suomalaisen lampaan kampavillaa, joka ei kutita herkkääkään ihoa. Paksummat
-    villapeitot on viimeistelty pörröiseksi, lämmittämään ulkosallakin. Karkeampi
-    villalaatu sopii vaativaankin retkeilykäyttöön. \n\n"
+    paloturvallinen.. Villa on niin hieno luonnonkuitu, ettei mikään teknologia pysty
+    kopioimaan sen upeita ominaisuuksia. \n\nHuiveissa ja kevyissä matkapeitoissa
+    käytämme pehmeintä, hienoa suomalaisen lampaan kampavillaa, joka ei kutita herkkääkään
+    ihoa. Paksummat villapeitot on viimeistelty pörröiseksi, lämmittämään ulkosallakin.
+    Karkeampi villalaatu sopii vaativaankin retkeilykäyttöön. \n\n"
   en_text: |
     # Wool, why!
 
@@ -234,10 +234,10 @@ products:
   - "/uploads/Travel%20blankets.jpg"
 - fi_text: "### Kevytpeitot lapsille\n\n1011\n\n70 % Villaa - 30 % luomupuuvillaa
     (GOTS)\n\nKevytpeitto. Viimeistely luonnon värjätyllä villalla.\n\nKoko 100 x
-    170 cm\n\n1011 Hinta 162 € \n"
+    170 cm\n\nHinta 162 € \n"
   en_text: "### Junior blankets\n\n1011\n\n70 % Wool - 30 % cotton (GOTS)\n\nFinn
-    sheep wool with natural dyed wool finishing.\n\nSize 100 x 170 cm\n\n1011 Price
-    162 € \n"
+    sheep wool with natural dyed wool finishing.\n\nSize 100 x 170 cm\n\nPrice 162
+    € \n"
   images_image:
   - "/uploads/Junior%20girl-2f618a.jpg"
   - "/uploads/Junior%20Boy_3653.jpg"
@@ -277,7 +277,7 @@ washing:
     (10-15 minuuttia), linkoa, huuhtele, linkoa ja anna kuivua\n* Käytä mietoa villapesuainetta
     tai saippuaa tarvittaessa\n\n### Retkipeitot\n\n* Käsinpesu 30°C:ssa miedossa
     saippuavedessä\n* linkoa, huuhtele, linkoa ja anna kuivua.\n* Jos peitto on kovin
-    likainen, villapesuohjelma 30°C:ssa.\n* linkoa kevyesti (800 k/m, 1-2 minuuttia.
+    likainen, villapesuohjelma 30°C:ssa.\n* linkoa kevyesti (800 k/m, 1-2 minuuttia).
     \n\nNyppyyntyminen on käsittelemättömän villan luonnollinen piirre. Nypyt voi
     poistaa kevyesti harjaamalla.\n\n**Käsittele villatuotteita varoen - or sheep
     happens!**\n"
@@ -312,8 +312,7 @@ gots:
     Värjäämätön, raakavalkoinen puuvilla minimoi kemikaalien käytön puuvillan käsittelyssä.
     \n\n\n### Eurooppalainen pellava \nPellavaa pidetään yhtenä ekologisimmista luonnonkuiduista,
     koska sen kasvattamiseen Atlantin rannikon kosteudessa tarvitaan vain sadevettä
-    ja vain vähän lannoitteita. Käyttämämme pellava on ranskalaista alkuperää, viljelty
-    Ranskassa.\n\n"
+    ja vain vähän lannoitteita. Käyttämämme pellava on ranskalaista alkuperää.\n\n"
   en_text: |2
 
     ### Organic cotton (GOTS certified)
@@ -321,7 +320,7 @@ gots:
 
 
     ### European flax (linen)
-    Flax is considered to be one of the most ecological natural fibres, because just rainwater and only minimal amounts of fertilizers are needed to grow it in the humidity of the Atlantic coast. The European flax we use is of French origin, cultivated and spinned in France
+    Flax is considered to be one of the most ecological natural fibres, because just rainwater and only minimal amounts of fertilizers are needed to grow it in the humidity of the Atlantic coast. The European flax we use is of French origin.
 natural_dyeing:
   fi_text: |
     # Luonnonvärjätty villa - taikaa!
@@ -331,7 +330,7 @@ natural_dyeing:
     * Keltaiset väriaineet (ja vihreät) ovat resedasta peräisin (_Reseda luteola_).
     * Punaiset värit ovat lacca-väriainetta (_Laccifer lacca_) ja krappia (_Rubia tinctoria_ kasvin juuret). Kirkkaat punaiset eristetään hartsista, jota erittää Cochenille-hyönteinen (_Coccus cacti_).
 
-    Luonnonvärjäys tehdään pienissä erissä tiiviissä yhteistyössä Aurinkokehrä kanssa [Aurinkokehrä](http://www.aurinkokehra.fi). Osa villatuotteista ovat käsinvärjättyjä. Värisävyt voivat vaihdella erästä toiseen, mutta mielestämme se tekee jokaisesta tuotteesta ainutlaatuisen!
+    Luonnonvärjäys tehdään pienissä erissä tiiviissä yhteistyössä [Aurinkokehrä](http://www.aurinkokehra.fi) kanssa. Osa villatuotteista ovat käsinvärjättyjä. Värisävyt voivat vaihdella erästä toiseen, mutta mielestämme se tekee jokaisesta tuotteesta ainutlaatuisen!
   en_text: |
     # Natural dyed wool yarns - magic happens!
 
@@ -347,18 +346,17 @@ natural_dyeing_images_image:
 - "/uploads/dye-2.jpg"
 - "/uploads/dye-3.jpg"
 natural_fibers:
-  fi_text: |+
+  fi_text: |
     # Luonnonkuidut
 
 
     Käytämme vain luonnonkuituja, luomupuuvillaa, Euroopassa kasvatettua pellavaa ja  villaa. Erikoisuutemme on käyttää kotimaista lampaan villaa, koska se on paikallista, ekologista ja varmistaa, että villamme ovat pehmeitä ja lämpimiä!
 
     ### Suomen lampaanvilla
-    Olemme työskennelleet vuosien ajan lampureiden ja villakehräämöiden kanssa tuodaksemme suomalaisten rotujen villaa tuotantoon. Käsittelemme villaa pieninä määrinä kehittääksemme parhaan laadun tuotteisiimme. Suomessa lampaat voivat elää hyvää elämää pienillä tiloilla nauttien parhaasta hoidosta. Langat kehrätään pienkehräämöissä. Esim. Pirtin kehräämö Mikkelin Hiirolassa, jalostaa pehmeimmän villan kampalangoiksi.
+    Olemme työskennelleet vuosien ajan lampureiden ja villakehräämöiden kanssa tuodaksemme suomalaisten rotujen villaa tuotantoon. Käsittelemme villaa pieninä määrinä kehittääksemme parhaan laadun tuotteisiimme. Suomessa lampaat voivat elää hyvää elämää pienillä tiloilla nauttien parhaasta hoidosta. Langat kehrätään pienkehräämöissä. Pirtin kehräämö Mikkelin Hiirolassa jalostaa pehmeimmän villan kampalangoiksi.
 
     ### Karitsan villa
     Karitsan villa on pehmeää 'vauvan merinovillaa' jo karitsojen ensimmäisestä kehruusta. Lampaanvillalangat on valmistettu italialaisesta hienovillasta. Villa on käsittelemätöntä ja siten ilman viimeistelykemikaaleja ja polymeerejä, joita yleensä käytetään 'helppohoitoisten' tuotteiden valmistamiseen. Mielestämme villan luonnolliset ominaisuudet tekevät villasta upean! Vauvan merinovillan käyttö tekee villastamme pehmeän ja lempeän iholle. Karitsanvilla ovat ihanteellista vauvoille, ja sitä voidaan käyttää huiveina tai kevyinä peittoina miedoimpina vuodenaikoina.
-
   en_text: |
     # Natural fibres
 
