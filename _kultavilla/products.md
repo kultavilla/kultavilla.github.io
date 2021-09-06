@@ -2,7 +2,7 @@
 title: Products
 position: 1
 title_text:
-  fi: Virkkala
+  fi: VIRKKALA
   en: Nordic nature meets science
 subtitle:
   fi_text: "KULTAVILLAN intohimona on tuotteistaa upea kotimainen villa iloksemme.
