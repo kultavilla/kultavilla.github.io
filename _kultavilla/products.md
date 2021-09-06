@@ -45,7 +45,7 @@ section_wool_content_2:
 
 '
   en_text: |
-    Our mission is to bring about the best qualities of the fluffy Finnsheep wool, and the softest, untreated lambswool for your benefit, for cold as well as for milder seasons.
+    Our mission is to bring about the best qualities of the fluffy Finnsheep wool for cold as well as for milder seasons.
 
     Different combinations of wool, manufactured with traditional techniques.
 section_wool_image_image: uploads/wool.jpg
@@ -89,8 +89,6 @@ products:
     Koko 50 x 180 cm
 
     * 1006 Hinta 89 € Luonnolliset sävyt
-    * 2006 Hinta 105 € raidalliset
-    * 3006 Hinta 125 € Käsinvärjätty, uniikki-kappaleita
   en_text: |
     ### Autumn scarves, winter scarves
 
@@ -101,8 +99,6 @@ products:
     Size 50 x 180 cm
 
     * 1006 Price 89 € Natural wool colours
-    * 2006 Price 105 € Stripes/Dyed yarns
-    * 3006 Price 125 € Hand dyed with natural dyes, unique pieces
   images_image:
   - "/uploads/Indigo%20kaarna%20Lier.jpg"
   - "/uploads/Nummella.jpg"
@@ -163,7 +159,7 @@ products:
   - "/uploads/Giant%20cochenille-769f2e.jpg"
   - "/uploads/Giant%20Forest%20green.jpg"
   - "/uploads/thumb_IMG_2706_2_1024.jpg"
-- fi_text: |
+- fi_text: |+
     ### Retkipeitto
 
     1001
@@ -174,11 +170,17 @@ products:
 
     Koko 110 cm x 200 cm
 
-    Hinta 195 €
-  en_text: "### Winter blanket\n\n1001\n\n**Forest blanket** 80 % Wool - 20 % organic
-    cotton (GOTS)\n\nA warm blanket in natural Finnsheep wool tones. Finishing with
-    natural dyed wool. In several wool tones.\n\nSize 110 cm x 200 cm\n\nPrice 195
-    €  \n"
+  en_text: |+
+    ### Winter blanket
+
+    1001
+
+    **Forest blanket** 80 % Wool - 20 % organic cotton (GOTS)
+
+    A warm blanket in natural Finnsheep wool tones. Finishing with natural dyed wool. In several wool tones.
+
+    Size 110 cm x 200 cm
+
   images_image:
   - "/uploads/Retkipeitto%20v%20harmaa_tuoli_3660.jpg"
   - "/uploads/Retkipeitto%20valkea_3626.jpg"
@@ -213,7 +215,7 @@ products:
 
     **Metsän poika** 70 % Villaa - 30 % luomupuuvillaa (GOTS)
 
-    Sopivasti kevyt peitto mukaan otettavaksi. Suomen lampaan villaa luonnollisissa sävyissä.
+    Sopivasti kevyt peitto mukaan otettavaksi. Lampaan villaa luonnollisissa sävyissä.
 
     Koko 120 cm x 180 cm
 
@@ -225,7 +227,7 @@ products:
 
     **Metsän poika** 70 % Wool - 30 % organic cotton (GOTS)
 
-    Finnsheep wool in natural tones.
+    Sheep wool in natural tones.
 
     Size 120 cm x 180 cm
 
