@@ -140,7 +140,7 @@ products:
 
     3003
 
-    ***   ** 66 % Villaa - 33 % luomupuuvillaa (GOTS)
+    66 % Villaa - 33 % luomupuuvillaa (GOTS)
 
     Koko 100 cm x 180 cm
 
@@ -150,7 +150,7 @@ products:
 
     3003
 
-    ***   ** 66 % Wool - 33 % organic cotton (GOTS)
+    66 % Wool - 33 % organic cotton (GOTS)
 
     Size 100 cm x 180 cm
 
