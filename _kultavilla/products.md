@@ -89,6 +89,7 @@ products:
     Koko 50 x 180 cm
 
     * 1006 Hinta 89 € Luonnolliset sävyt
+    *2006 Hinta 99 € luonnonvärjätty raita
   en_text: |
     ### Autumn scarves, winter scarves
 
@@ -99,6 +100,7 @@ products:
     Size 50 x 180 cm
 
     * 1006 Price 89 € Natural wool colours
+    * 2006 Price 99 € Natural dyed yarns
   images_image:
   - "/uploads/Indigo%20kaarna%20Lier.jpg"
   - "/uploads/Nummella.jpg"
@@ -106,11 +108,11 @@ products:
   Key: 
 - fi_text: "### Neliöhuvit\n\n1005/2005 \n\n66 % Villaa - 33 % luomupuuvillaa (GOTS)\n\nMonikäyttöinen
     neliöhuivi - sopii hartiahuiviksi tai kaulahuiviksi. Suomen lampaan villaa luonnon
-    väreissä. Koristeena väriraita luonnon värjättyä villaa. \n\nKoko 120 cm x 120
+    väreissä. Koristeena väriraita luonnon värjättyä villaa. \n\nKoko 120 cm x 140
     cm\n\n* Hinta 110 €\n"
   en_text: "### Scarf, square\n\n1005/2005 \n\n66 % Wool - 33 % organic cotton (GOTS)\n\nAn
     multipurpose square scarf - use as a shawl or scarf. Finnsheep wool in natural
-    colours. \n\nKoko 120 cm x 120 cm\n\n* Price 110 €\n"
+    colours. \n\nKoko 120 cm x 140 cm\n\n* Price 110 €\n"
   images_image:
   - "/uploads/Neli%C3%B6huivi%20v%20harmaa_.jpg"
   - "/uploads/Neli%C3%B6huivit_.jpg"
@@ -144,7 +146,7 @@ products:
 
     Koko 100 cm x 180 cm
 
-    Hinta 171 € Käsin värjätyt uniikkikappalet (syvä luumun punainen, syvä metsän vihreä)
+    Hinta 188 € Käsin värjätyt uniikkikappalet (syvä luumun punainen, syvä metsän vihreä)
   en_text: |
     ### Shawls, giant scarves
 
@@ -154,33 +156,17 @@ products:
 
     Size 100 cm x 180 cm
 
-    Price 171 € Hand dyed unique pieces (deep red, deep forest green)
+    Price 188 € Hand dyed unique pieces (deep red, deep forest green)
   images_image:
   - "/uploads/Giant%20cochenille-769f2e.jpg"
   - "/uploads/Giant%20Forest%20green.jpg"
   - "/uploads/thumb_IMG_2706_2_1024.jpg"
-- fi_text: |+
-    ### Retkipeitto
-
-    1001
-
-    **Metsän peitto** 80 % Villaa - 20 % luomupuuvillaa (GOTS)
-
-    Lämmin peitto suomen lampaan villan sävyissä. Viimeistely luonnonvärjätyllä villalla. Useissa villan sävyissä.
-
-    Koko 110 cm x 200 cm
-
-  en_text: |+
-    ### Winter blanket
-
-    1001
-
-    **Forest blanket** 80 % Wool - 20 % organic cotton (GOTS)
-
-    A warm blanket in natural Finnsheep wool tones. Finishing with natural dyed wool. In several wool tones.
-
-    Size 110 cm x 200 cm
-
+- fi_text: "### Talvipeitto\n\n1001\n\n** 80 % Villaa - 20 % luomupuuvillaa (GOTS)\n\nLämmin
+    peitto suomen lampaan villan sävyissä. Viimeistely luonnonvärjätyllä villalla.
+    Useissa villan sävyissä.\n\nKoko 135 cm x 190 cm\n\n* 1001 Hinta 220 € \n"
+  en_text: "### Winter blanket\n\n1001 \n\n** 80 % Wool - 20 % organic cotton (GOTS)\n\nA
+    warm blanket in natural Finnsheep wool tones. Finishing with natural dyed wool.
+    In several wool tones.\n\nSize 135 cm x 190 cm\n\n* 1001 Price 220 € \n"
   images_image:
   - "/uploads/Retkipeitto%20v%20harmaa_tuoli_3660.jpg"
   - "/uploads/Retkipeitto%20valkea_3626.jpg"
@@ -209,36 +195,36 @@ products:
   - "/uploads/ruska-2.jpg"
   - "/uploads/ruska-3.jpg"
 - fi_text: |
-    ### Matkapeitto
+    ### Kevytpeitto
 
     1002
 
-    **Metsän poika** 70 % Villaa - 30 % luomupuuvillaa (GOTS)
+    ** 70 % Villaa - 30 % luomupuuvillaa (GOTS)
 
-    Sopivasti kevyt peitto mukaan otettavaksi. Lampaan villaa luonnollisissa sävyissä.
+    Sopivasti kevyt peitto mukaan otettavaksi. Ihanasti ryppyinen! Suomen lampaan villaa luonnollisissa sävyissä.
 
-    Koko 120 cm x 180 cm
+    Koko 130 cm x 180 cm
 
-    Hinta 162 €
+    Hinta 195 €
   en_text: |
-    ### Travel blanket
+    ### Throw
 
     1002
 
-    **Metsän poika** 70 % Wool - 30 % organic cotton (GOTS)
+    ** 70 % Wool - 30 % organic cotton (GOTS)
 
-    Sheep wool in natural tones.
+    Finnsheep wool in it's natural tones.
 
     Size 120 cm x 180 cm
 
-    Price 162 €
+    Price 195 €
   images_image:
   - "/uploads/Travel%20blankets.jpg"
 - fi_text: "### Kevytpeitot lapsille\n\n1011\n\n70 % Villaa - 30 % luomupuuvillaa
     (GOTS)\n\nKevytpeitto. Viimeistely luonnon värjätyllä villalla.\n\nKoko 100 x
-    170 cm\n\nHinta 162 € \n"
+    170 cm\n\nHinta 195 € \n"
   en_text: "### Junior blankets\n\n1011\n\n70 % Wool - 30 % cotton (GOTS)\n\nFinn
-    sheep wool with natural dyed wool finishing.\n\nSize 100 x 170 cm\n\nPrice 162
+    sheep wool with natural dyed wool finishing.\n\nSize 100 x 170 cm\n\nPrice 195
     € \n"
   images_image:
   - "/uploads/Junior%20girl-2f618a.jpg"
