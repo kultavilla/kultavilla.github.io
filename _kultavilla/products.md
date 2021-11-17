@@ -207,7 +207,7 @@ products:
 
     Hinta 195 €
   en_text: |
-    ### Throw
+    ### Throws
 
     1002
 
