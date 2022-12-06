@@ -19,7 +19,7 @@ section_info:
 
     Villatuotteissa on orgaanista luonnollisuutta, niin kuin pitääkin! Ne ovat huolettomia ottaa mukaan ja käpertyä villan lämpöiseen syleilyyn.
 
-    Myynti: [Weecos-shop](https://www.weecos.com/fi/kultavilla)
+    Myynti: [kultavilla.com](https://www.kultavilla.com)
   en_text: |
     # Green and healthy textiles
 
@@ -27,7 +27,7 @@ section_info:
 
     Driven by our love of natural wool and the passion for designing functional woven textiles we have created a collection of natural materials, Kultavilla woollens. Our textiles exhibit the nature's organic structures and soft colours. These are the functional woollens either for cold winter or for milder seasons. Travel blankets are light and easy to take with!
 
-    [Weecos-shop](https://www.weecos.com/en/kultavilla)
+    Sales: [kultavilla.com](https://www.kultavilla.com)
 section_wool:
   fi_text: "# Villaa, miksi!\n\nVilla on huippumateriaali! Se on lämmin, pehmeä, kevyt,
     paloturvallinen.. Villa on niin hieno luonnonkuitu, ettei mikään teknologia pysty
