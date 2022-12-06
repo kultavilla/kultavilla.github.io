@@ -38,8 +38,8 @@ navigation:
   - text: Products
     path: "/products"
 weecos:
-  fi: https://www.weecos.com/fi/kultavilla
-  en: https://www.weecos.com/en/kultavilla
+  fi: https://kultavilla.com/fi
+  en: https://kultavilla.com/
 name: misc
 ---
 
