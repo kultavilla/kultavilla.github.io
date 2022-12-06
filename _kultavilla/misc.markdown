@@ -37,7 +37,7 @@ navigation:
     path: "/index-en"
   - text: Products
     path: "/products"
-kultavilla:
+weecos:
   fi: https://kultavilla.com/fi
   en: https://kultavilla.com/
 name: misc
